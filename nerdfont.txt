@@ -1,0 +1,9115 @@
+ cod account
+ cod activate breakpoints
+ cod add
+ cod archive
+ cod arrow both
+ cod arrow down
+ cod arrow left
+ cod arrow right
+ cod arrow small down
+ cod arrow small left
+ cod arrow small right
+ cod arrow small up
+ cod arrow swap
+ cod arrow up
+ cod azure
+ cod azure devops
+ cod beaker
+ cod beaker stop
+ cod bell
+ cod bell dot
+ cod bold
+ cod book
+ cod bookmark
+ cod bracket dot
+ cod bracket error
+ cod briefcase
+ cod broadcast
+ cod browser
+ cod bug
+ cod calendar
+ cod call incoming
+ cod call outgoing
+ cod case sensitive
+ cod check
+ cod check all
+ cod checklist
+ cod chevron down
+ cod chevron left
+ cod chevron right
+ cod chevron up
+ cod chrome close
+ cod chrome maximize
+ cod chrome minimize
+ cod chrome restore
+ cod circle
+ cod circle filled
+ cod circle large
+ cod circle large filled
+ cod circle slash
+ cod circle small filled
+ cod circuit board
+ cod clear all
+ cod clippy
+ cod close
+ cod close all
+ cod cloud
+ cod cloud download
+ cod cloud upload
+ cod code
+ cod collapse all
+ cod color mode
+ cod combine
+ cod comment
+ cod comment discussion
+ cod compass
+ cod compass active
+ cod compass dot
+ cod copy
+ cod credit card
+ cod dash
+ cod dashboard
+ cod database
+ cod debug
+ cod debug all
+ cod debug alt
+ cod debug alt small
+ cod debug breakpoint conditional
+ cod debug breakpoint conditional unverified
+ cod debug breakpoint data
+ cod debug breakpoint data unverified
+ cod debug breakpoint function
+ cod debug breakpoint function unverified
+ cod debug breakpoint log
+ cod debug breakpoint log unverified
+ cod debug breakpoint unsupported
+ cod debug console
+ cod debug continue
+ cod debug continue small
+ cod debug coverage
+ cod debug disconnect
+ cod debug line by line
+ cod debug pause
+ cod debug rerun
+ cod debug restart
+ cod debug restart frame
+ cod debug reverse continue
+ cod debug stackframe
+ cod debug stackframe active
+ cod debug start
+ cod debug step back
+ cod debug step into
+ cod debug step out
+ cod debug step over
+ cod debug stop
+ cod desktop download
+ cod device camera
+ cod device camera video
+ cod device mobile
+ cod diff
+ cod diff added
+ cod diff ignored
+ cod diff modified
+ cod diff removed
+ cod diff renamed
+ cod discard
+ cod edit
+ cod editor layout
+ cod ellipsis
+ cod empty window
+ cod error
+ cod exclude
+ cod expand all
+ cod export
+ cod extensions
+ cod eye
+ cod eye closed
+ cod feedback
+ cod file
+ cod file binary
+ cod file code
+ cod file media
+ cod file pdf
+ cod file submodule
+ cod file symlink directory
+ cod file symlink file
+ cod file zip
+ cod files
+ cod filter
+ cod filter filled
+ cod flame
+ cod fold
+ cod fold down
+ cod fold up
+ cod folder
+ cod folder active
+ cod folder library
+ cod folder opened
+ cod gear
+ cod gift
+ cod gist secret
+ cod git commit
+ cod git compare
+ cod git merge
+ cod git pull request
+ cod git pull request closed
+ cod git pull request create
+ cod git pull request draft
+ cod github
+ cod github action
+ cod github alt
+ cod github inverted
+ cod globe
+ cod go to file
+ cod grabber
+ cod graph
+ cod graph left
+ cod graph line
+ cod graph scatter
+ cod gripper
+ cod group by ref type
+ cod heart
+ cod history
+ cod home
+ cod horizontal rule
+ cod hubot
+ cod inbox
+ cod info
+ cod inspect
+ cod issue draft
+ cod issue reopened
+ cod issues
+ cod italic
+ cod jersey
+ cod json
+ cod kebab vertical
+ cod key
+ cod law
+ cod layers
+ cod layers active
+ cod layers dot
+ cod layout
+ cod library
+ cod lightbulb
+ cod lightbulb autofix
+ cod link
+ cod link external
+ cod list filter
+ cod list flat
+ cod list ordered
+ cod list selection
+ cod list tree
+ cod list unordered
+ cod live share
+ cod loading
+ cod location
+ cod lock
+ cod lock small
+ cod magnet
+ cod mail
+ cod mail read
+ cod markdown
+ cod megaphone
+ cod mention
+ cod menu
+ cod merge
+ cod milestone
+ cod mirror
+ cod mortar board
+ cod move
+ cod multiple windows
+ cod mute
+ cod new file
+ cod new folder
+ cod newline
+ cod no newline
+ cod note
+ cod notebook
+ cod notebook template
+ cod octoface
+ cod open preview
+ cod organization
+ cod output
+ cod package
+ cod paintcan
+ cod pass
+ cod pass filled
+ cod person
+ cod person add
+ cod pie chart
+ cod pin
+ cod pinned
+ cod pinned dirty
+ cod play
+ cod play circle
+ cod plug
+ cod preserve case
+ cod preview
+ cod primitive square
+ cod project
+ cod pulse
+ cod question
+ cod quote
+ cod radio tower
+ cod reactions
+ cod record
+ cod record keys
+ cod redo
+ cod references
+ cod refresh
+ cod regex
+ cod remote
+ cod remote explorer
+ cod remove
+ cod replace
+ cod replace all
+ cod reply
+ cod repo
+ cod repo clone
+ cod repo force push
+ cod repo forked
+ cod repo pull
+ cod repo push
+ cod report
+ cod request changes
+ cod rocket
+ cod root folder
+ cod root folder opened
+ cod rss
+ cod ruby
+ cod run above
+ cod run all
+ cod run below
+ cod run errors
+ cod save
+ cod save all
+ cod save as
+ cod screen full
+ cod screen normal
+ cod search
+ cod search stop
+ cod server
+ cod server environment
+ cod server process
+ cod settings
+ cod settings gear
+ cod shield
+ cod sign in
+ cod sign out
+ cod smiley
+ cod sort precedence
+ cod source control
+ cod split horizontal
+ cod split vertical
+ cod squirrel
+ cod star empty
+ cod star full
+ cod star half
+ cod stop circle
+ cod symbol array
+ cod symbol boolean
+ cod symbol class
+ cod symbol color
+ cod symbol constant
+ cod symbol enum
+ cod symbol enum member
+ cod symbol event
+ cod symbol field
+ cod symbol file
+ cod symbol interface
+ cod symbol key
+ cod symbol keyword
+ cod symbol method
+ cod symbol misc
+ cod symbol namespace
+ cod symbol numeric
+ cod symbol operator
+ cod symbol parameter
+ cod symbol property
+ cod symbol ruler
+ cod symbol snippet
+ cod symbol string
+ cod symbol structure
+ cod symbol variable
+ cod sync
+ cod sync ignored
+ cod table
+ cod tag
+ cod tasklist
+ cod telescope
+ cod terminal
+ cod terminal bash
+ cod terminal cmd
+ cod terminal debian
+ cod terminal linux
+ cod terminal powershell
+ cod terminal tmux
+ cod terminal ubuntu
+ cod text size
+ cod three bars
+ cod thumbsdown
+ cod thumbsup
+ cod tools
+ cod trash
+ cod triangle down
+ cod triangle left
+ cod triangle right
+ cod triangle up
+ cod twitter
+ cod type hierarchy
+ cod type hierarchy sub
+ cod type hierarchy super
+ cod unfold
+ cod ungroup by ref type
+ cod unlock
+ cod unmute
+ cod unverified
+ cod variable group
+ cod verified
+ cod verified filled
+ cod versions
+ cod vm
+ cod vm active
+ cod vm connect
+ cod vm outline
+ cod vm running
+ cod wand
+ cod warning
+ cod watch
+ cod whitespace
+ cod whole word
+ cod window
+ cod word wrap
+ cod workspace trusted
+ cod workspace unknown
+ cod workspace untrusted
+ cod zoom in
+ cod zoom out
+ custom asm
+ custom c
+ custom cpp
+ custom crystal
+ custom default
+ custom electron
+ custom elixir
+ custom elm
+ custom emacs
+ custom folder
+ custom folder config
+ custom folder git
+ custom folder git branch
+ custom folder github
+ custom folder npm
+ custom folder open
+ custom go
+ custom home
+ custom kotlin
+ custom msdos
+ custom orgmode
+ custom play arrow
+ custom puppet
+ custom purescript
+ custom v lang
+ custom vim
+ custom windows
+ dev android
+ dev angular
+ dev appcelerator
+ dev apple
+ dev appstore
+ dev aptana
+ dev asterisk
+ dev atlassian
+ dev atom
+ dev aws
+ dev backbone
+ dev bing small
+ dev bintray
+ dev bitbucket
+ dev blackberry
+ dev bootstrap
+ dev bower
+ dev brackets
+ dev bugsense
+ dev celluloid
+ dev chart
+ dev chrome
+ dev cisco
+ dev clojure
+ dev clojure alt
+ dev cloud9
+ dev coda
+ dev code
+ dev code badge
+ dev codeigniter
+ dev codepen
+ dev codrops
+ dev coffeescript
+ dev compass
+ dev composer
+ dev creativecommons
+ dev creativecommons badge
+ dev css3
+ dev css3 full
+ dev css tricks
+ dev cssdeck
+ dev dart
+ dev database
+ dev debian
+ dev digital ocean
+ dev django
+ dev dlang
+ dev docker
+ dev doctrine
+ dev dojo
+ dev dotnet
+ dev dreamweaver
+ dev dropbox
+ dev drupal
+ dev eclipse
+ dev ember
+ dev envato
+ dev erlang
+ dev extjs
+ dev firebase
+ dev firefox
+ dev fsharp
+ dev ghost
+ dev ghost small
+ dev git
+ dev git branch
+ dev git commit
+ dev git compare
+ dev git merge
+ dev git pull request
+ dev github
+ dev github alt
+ dev github badge
+ dev github full
+ dev gnu
+ dev go
+ dev google cloud platform
+ dev google drive
+ dev grails
+ dev groovy
+ dev grunt
+ dev gulp
+ dev hackernews
+ dev haskell
+ dev heroku
+ dev html5
+ dev html5 3d effects
+ dev html5 connectivity
+ dev html5 device access
+ dev html5 multimedia
+ dev ie
+ dev illustrator
+ dev intellij
+ dev ionic
+ dev java
+ dev javascript
+ dev javascript badge
+ dev javascript shield
+ dev jekyll small
+ dev jenkins
+ dev jira
+ dev joomla
+ dev jquery
+ dev jquery ui
+ dev komodo
+ dev krakenjs
+ dev krakenjs badge
+ dev laravel
+ dev less
+ dev linux
+ dev magento
+ dev mailchimp
+ dev markdown
+ dev materializecss
+ dev meteor
+ dev meteorfull
+ dev mitlicence
+ dev modernizr
+ dev mongodb
+ dev mootools
+ dev mootools badge
+ dev mozilla
+ dev msql server
+ dev mysql
+ dev nancy
+ dev netbeans
+ dev netmagazine
+ dev nginx
+ dev nodejs
+ dev nodejs small
+ dev npm
+ dev onedrive
+ dev openshift
+ dev opensource
+ dev opera
+ dev perl
+ dev phonegap
+ dev photoshop
+ dev php
+ dev postgresql
+ dev prolog
+ dev python
+ dev rackspace
+ dev raphael
+ dev rasberry pi
+ dev react
+ dev redhat
+ dev redis
+ dev requirejs
+ dev responsive
+ dev ruby
+ dev ruby on rails
+ dev ruby rough
+ dev rust
+ dev safari
+ dev sass
+ dev scala
+ dev scriptcs
+ dev scrum
+ dev senchatouch
+ dev sizzlejs
+ dev smashing magazine
+ dev snap svg
+ dev sqllite
+ dev stackoverflow
+ dev streamline
+ dev stylus
+ dev sublime
+ dev swift
+ dev symfony
+ dev symfony badge
+ dev techcrunch
+ dev terminal
+ dev terminal badge
+ dev travis
+ dev trello
+ dev typo3
+ dev ubuntu
+ dev uikit
+ dev unity small
+ dev vim
+ dev visualstudio
+ dev w3c
+ dev webplatform
+ dev windows
+ dev wordpress
+ dev yahoo
+ dev yahoo small
+ dev yeoman
+ dev yii
+ dev zend
+ fa 500px
+ fa address book
+ fa address book o
+ fa address card
+ fa address card o
+ fa adjust
+ fa adn
+ fa align center
+ fa align justify
+ fa align left
+ fa align right
+ fa amazon
+ fa ambulance
+ fa american sign language interpreting
+ fa anchor
+ fa android
+ fa angellist
+ fa angle double down
+ fa angle double left
+ fa angle double right
+ fa angle double up
+ fa angle down
+ fa angle left
+ fa angle right
+ fa angle up
+ fa apple
+ fa archive
+ fa area chart
+ fa arrow circle down
+ fa arrow circle left
+ fa arrow circle o down
+ fa arrow circle o left
+ fa arrow circle o right
+ fa arrow circle o up
+ fa arrow circle right
+ fa arrow circle up
+ fa arrow down
+ fa arrow left
+ fa arrow right
+ fa arrow up
+ fa arrows
+ fa arrows alt
+ fa arrows h
+ fa arrows v
+ fa asl interpreting
+ fa assistive listening systems
+ fa asterisk
+ fa at
+ fa audio description
+ fa automobile
+ fa backward
+ fa balance scale
+ fa ban
+ fa bandcamp
+ fa bank
+ fa bar chart
+ fa bar chart o
+ fa barcode
+ fa bars
+ fa bath
+ fa bathtub
+ fa battery
+ fa battery 0
+ fa battery 1
+ fa battery 2
+ fa battery 3
+ fa battery 4
+ fa battery empty
+ fa battery full
+ fa battery half
+ fa battery quarter
+ fa battery three quarters
+ fa bed
+ fa beer
+ fa behance
+ fa behance square
+ fa bell
+ fa bell o
+ fa bell slash
+ fa bell slash o
+ fa bicycle
+ fa binoculars
+ fa birthday cake
+ fa bitbucket
+ fa bitbucket square
+ fa bitcoin
+ fa black tie
+ fa blind
+ fa bluetooth
+ fa bluetooth b
+ fa bold
+ fa bolt
+ fa bomb
+ fa book
+ fa bookmark
+ fa bookmark o
+ fa braille
+ fa briefcase
+ fa btc
+ fa bug
+ fa building
+ fa building o
+ fa bullhorn
+ fa bullseye
+ fa bus
+ fa buysellads
+ fa cab
+ fa calculator
+ fa calendar
+ fa calendar check o
+ fa calendar minus o
+ fa calendar o
+ fa calendar plus o
+ fa calendar times o
+ fa camera
+ fa camera retro
+ fa car
+ fa caret down
+ fa caret left
+ fa caret right
+ fa caret square o down
+ fa caret square o left
+ fa caret square o right
+ fa caret square o up
+ fa caret up
+ fa cart arrow down
+ fa cart plus
+ fa cc
+ fa cc amex
+ fa cc diners club
+ fa cc discover
+ fa cc jcb
+ fa cc mastercard
+ fa cc paypal
+ fa cc stripe
+ fa cc visa
+ fa certificate
+ fa chain
+ fa chain broken
+ fa check
+ fa check circle
+ fa check circle o
+ fa check square
+ fa check square o
+ fa chevron circle down
+ fa chevron circle left
+ fa chevron circle right
+ fa chevron circle up
+ fa chevron down
+ fa chevron left
+ fa chevron right
+ fa chevron up
+ fa child
+ fa chrome
+ fa circle
+ fa circle o
+ fa circle o notch
+ fa circle thin
+ fa clipboard
+ fa clock o
+ fa clone
+ fa close
+ fa cloud
+ fa cloud download
+ fa cloud upload
+ fa cny
+ fa code
+ fa code fork
+ fa codepen
+ fa codiepie
+ fa coffee
+ fa cog
+ fa cogs
+ fa columns
+ fa comment
+ fa comment o
+ fa commenting
+ fa commenting o
+ fa comments
+ fa comments o
+ fa compass
+ fa compress
+ fa connectdevelop
+ fa contao
+ fa copy
+ fa copyright
+ fa creative commons
+ fa credit card
+ fa credit card alt
+ fa crop
+ fa crosshairs
+ fa css3
+ fa cube
+ fa cubes
+ fa cut
+ fa cutlery
+ fa dashboard
+ fa dashcube
+ fa database
+ fa deaf
+ fa deafness
+ fa dedent
+ fa delicious
+ fa desktop
+ fa deviantart
+ fa diamond
+ fa digg
+ fa dollar
+ fa dot circle o
+ fa download
+ fa dribbble
+ fa drivers license
+ fa drivers license o
+ fa dropbox
+ fa drupal
+ fa edge
+ fa edit
+ fa eercast
+ fa eject
+ fa ellipsis h
+ fa ellipsis v
+ fa empire
+ fa envelope
+ fa envelope o
+ fa envelope open
+ fa envelope open o
+ fa envelope square
+ fa envira
+ fa eraser
+ fa etsy
+ fa eur
+ fa euro
+ fa exchange
+ fa exclamation
+ fa exclamation circle
+ fa exclamation triangle
+ fa expand
+ fa expeditedssl
+ fa external link
+ fa external link square
+ fa eye
+ fa eye slash
+ fa eyedropper
+ fa fa
+ fa facebook
+ fa facebook f
+ fa facebook official
+ fa facebook square
+ fa fast backward
+ fa fast forward
+ fa fax
+ fa feed
+ fa female
+ fa fighter jet
+ fa file
+ fa file archive o
+ fa file audio o
+ fa file code o
+ fa file excel o
+ fa file image o
+ fa file movie o
+ fa file o
+ fa file pdf o
+ fa file photo o
+ fa file picture o
+ fa file powerpoint o
+ fa file sound o
+ fa file text
+ fa file text o
+ fa file video o
+ fa file word o
+ fa file zip o
+ fa files o
+ fa film
+ fa filter
+ fa fire
+ fa fire extinguisher
+ fa firefox
+ fa first order
+ fa flag
+ fa flag checkered
+ fa flag o
+ fa flash
+ fa flask
+ fa flickr
+ fa floppy o
+ fa folder
+ fa folder o
+ fa folder open
+ fa folder open o
+ fa font
+ fa font awesome
+ fa fonticons
+ fa fort awesome
+ fa forumbee
+ fa forward
+ fa foursquare
+ fa free code camp
+ fa frown o
+ fa futbol o
+ fa gamepad
+ fa gavel
+ fa gbp
+ fa ge
+ fa gear
+ fa gears
+ fa genderless
+ fa get pocket
+ fa gg
+ fa gg circle
+ fa gift
+ fa git
+ fa git square
+ fa github
+ fa github alt
+ fa github square
+ fa gitlab
+ fa gittip
+ fa glass
+ fa glide
+ fa glide g
+ fa globe
+ fa google
+ fa google plus
+ fa google plus circle
+ fa google plus official
+ fa google plus square
+ fa google wallet
+ fa graduation cap
+ fa gratipay
+ fa grav
+ fa group
+ fa h square
+ fa hacker news
+ fa hand grab o
+ fa hand lizard o
+ fa hand o down
+ fa hand o left
+ fa hand o right
+ fa hand o up
+ fa hand paper o
+ fa hand peace o
+ fa hand pointer o
+ fa hand rock o
+ fa hand scissors o
+ fa hand spock o
+ fa hand stop o
+ fa handshake o
+ fa hard of hearing
+ fa hashtag
+ fa hdd o
+ fa header
+ fa headphones
+ fa heart
+ fa heart o
+ fa heartbeat
+ fa history
+ fa home
+ fa hospital o
+ fa hotel
+ fa hourglass
+ fa hourglass 1
+ fa hourglass 2
+ fa hourglass 3
+ fa hourglass end
+ fa hourglass half
+ fa hourglass o
+ fa hourglass start
+ fa houzz
+ fa html5
+ fa i cursor
+ fa id badge
+ fa id card
+ fa id card o
+ fa ils
+ fa image
+ fa imdb
+ fa inbox
+ fa indent
+ fa industry
+ fa info
+ fa info circle
+ fa inr
+ fa instagram
+ fa institution
+ fa internet explorer
+ fa intersex
+ fa ioxhost
+ fa italic
+ fa joomla
+ fa jpy
+ fa jsfiddle
+ fa key
+ fa keyboard o
+ fa krw
+ fa language
+ fa laptop
+ fa lastfm
+ fa lastfm square
+ fa leaf
+ fa leanpub
+ fa legal
+ fa lemon o
+ fa level down
+ fa level up
+ fa life bouy
+ fa life buoy
+ fa life ring
+ fa life saver
+ fa lightbulb o
+ fa line chart
+ fa link
+ fa linkedin
+ fa linkedin square
+ fa linode
+ fa linux
+ fa list
+ fa list alt
+ fa list ol
+ fa list ul
+ fa location arrow
+ fa lock
+ fa long arrow down
+ fa long arrow left
+ fa long arrow right
+ fa long arrow up
+ fa low vision
+ fa magic
+ fa magnet
+ fa mail forward
+ fa mail reply
+ fa mail reply all
+ fa male
+ fa map
+ fa map marker
+ fa map o
+ fa map pin
+ fa map signs
+ fa mars
+ fa mars double
+ fa mars stroke
+ fa mars stroke h
+ fa mars stroke v
+ fa maxcdn
+ fa meanpath
+ fa medium
+ fa medkit
+ fa meetup
+ fa meh o
+ fa mercury
+ fa microchip
+ fa microphone
+ fa microphone slash
+ fa minus
+ fa minus circle
+ fa minus square
+ fa minus square o
+ fa mixcloud
+ fa mobile
+ fa mobile phone
+ fa modx
+ fa money
+ fa moon o
+ fa mortar board
+ fa motorcycle
+ fa mouse pointer
+ fa music
+ fa navicon
+ fa neuter
+ fa newspaper o
+ fa object group
+ fa object ungroup
+ fa odnoklassniki
+ fa odnoklassniki square
+ fa opencart
+ fa openid
+ fa opera
+ fa optin monster
+ fa outdent
+ fa pagelines
+ fa paint brush
+ fa paper plane
+ fa paper plane o
+ fa paperclip
+ fa paragraph
+ fa paste
+ fa pause
+ fa pause circle
+ fa pause circle o
+ fa paw
+ fa paypal
+ fa pencil
+ fa pencil square
+ fa pencil square o
+ fa percent
+ fa phone
+ fa phone square
+ fa photo
+ fa picture o
+ fa pie chart
+ fa pied piper
+ fa pied piper alt
+ fa pied piper pp
+ fa pinterest
+ fa pinterest p
+ fa pinterest square
+ fa plane
+ fa play
+ fa play circle
+ fa play circle o
+ fa plug
+ fa plus
+ fa plus circle
+ fa plus square
+ fa plus square o
+ fa podcast
+ fa power off
+ fa print
+ fa product hunt
+ fa puzzle piece
+ fa qq
+ fa qrcode
+ fa question
+ fa question circle
+ fa question circle o
+ fa quora
+ fa quote left
+ fa quote right
+ fa ra
+ fa random
+ fa ravelry
+ fa rebel
+ fa recycle
+ fa reddit
+ fa reddit alien
+ fa reddit square
+ fa refresh
+ fa registered
+ fa remove
+ fa renren
+ fa reorder
+ fa repeat
+ fa reply
+ fa reply all
+ fa resistance
+ fa retweet
+ fa rmb
+ fa road
+ fa rocket
+ fa rotate left
+ fa rotate right
+ fa rouble
+ fa rss
+ fa rss square
+ fa rub
+ fa ruble
+ fa rupee
+ fa s15
+ fa safari
+ fa save
+ fa scissors
+ fa scribd
+ fa search
+ fa search minus
+ fa search plus
+ fa sellsy
+ fa send
+ fa send o
+ fa server
+ fa share
+ fa share alt
+ fa share alt square
+ fa share square
+ fa share square o
+ fa shekel
+ fa sheqel
+ fa shield
+ fa ship
+ fa shirtsinbulk
+ fa shopping bag
+ fa shopping basket
+ fa shopping cart
+ fa shower
+ fa sign in
+ fa sign language
+ fa sign out
+ fa signal
+ fa signing
+ fa simplybuilt
+ fa sitemap
+ fa skyatlas
+ fa skype
+ fa slack
+ fa sliders
+ fa slideshare
+ fa smile o
+ fa snapchat
+ fa snapchat ghost
+ fa snapchat square
+ fa snowflake o
+ fa soccer ball o
+ fa sort
+ fa sort alpha asc
+ fa sort alpha desc
+ fa sort amount asc
+ fa sort amount desc
+ fa sort asc
+ fa sort desc
+ fa sort down
+ fa sort numeric asc
+ fa sort numeric desc
+ fa sort up
+ fa soundcloud
+ fa space shuttle
+ fa spinner
+ fa spoon
+ fa spotify
+ fa square
+ fa square o
+ fa stack exchange
+ fa stack overflow
+ fa star
+ fa star half
+ fa star half empty
+ fa star half full
+ fa star half o
+ fa star o
+ fa steam
+ fa steam square
+ fa step backward
+ fa step forward
+ fa stethoscope
+ fa sticky note
+ fa sticky note o
+ fa stop
+ fa stop circle
+ fa stop circle o
+ fa street view
+ fa strikethrough
+ fa stumbleupon
+ fa stumbleupon circle
+ fa subscript
+ fa subway
+ fa suitcase
+ fa sun o
+ fa superpowers
+ fa superscript
+ fa support
+ fa table
+ fa tablet
+ fa tachometer
+ fa tag
+ fa tags
+ fa tasks
+ fa taxi
+ fa telegram
+ fa television
+ fa tencent weibo
+ fa terminal
+ fa text height
+ fa text width
+ fa th
+ fa th large
+ fa th list
+ fa themeisle
+ fa thermometer
+ fa thermometer 0
+ fa thermometer 1
+ fa thermometer 2
+ fa thermometer 3
+ fa thermometer 4
+ fa thermometer empty
+ fa thermometer full
+ fa thermometer half
+ fa thermometer quarter
+ fa thermometer three quarters
+ fa thumb tack
+ fa thumbs down
+ fa thumbs o down
+ fa thumbs o up
+ fa thumbs up
+ fa ticket
+ fa times
+ fa times circle
+ fa times circle o
+ fa times rectangle
+ fa times rectangle o
+ fa tint
+ fa toggle down
+ fa toggle left
+ fa toggle off
+ fa toggle on
+ fa toggle right
+ fa toggle up
+ fa trademark
+ fa train
+ fa transgender
+ fa transgender alt
+ fa trash
+ fa trash o
+ fa tree
+ fa trello
+ fa tripadvisor
+ fa trophy
+ fa truck
+ fa try
+ fa tty
+ fa tumblr
+ fa tumblr square
+ fa turkish lira
+ fa tv
+ fa twitch
+ fa twitter
+ fa twitter square
+ fa umbrella
+ fa underline
+ fa undo
+ fa universal access
+ fa university
+ fa unlink
+ fa unlock
+ fa unlock alt
+ fa unsorted
+ fa upload
+ fa usb
+ fa usd
+ fa user
+ fa user circle
+ fa user circle o
+ fa user md
+ fa user o
+ fa user plus
+ fa user secret
+ fa user times
+ fa users
+ fa vcard
+ fa vcard o
+ fa venus
+ fa venus double
+ fa venus mars
+ fa viacoin
+ fa viadeo
+ fa viadeo square
+ fa video camera
+ fa vimeo
+ fa vimeo square
+ fa vine
+ fa vk
+ fa volume control phone
+ fa volume down
+ fa volume off
+ fa volume up
+ fa warning
+ fa wechat
+ fa weibo
+ fa weixin
+ fa whatsapp
+ fa wheelchair
+ fa wheelchair alt
+ fa wifi
+ fa wikipedia w
+ fa window close
+ fa window close o
+ fa window maximize
+ fa window minimize
+ fa window restore
+ fa windows
+ fa won
+ fa wordpress
+ fa wpbeginner
+ fa wpexplorer
+ fa wpforms
+ fa wrench
+ fa xing
+ fa xing square
+ fa y combinator
+ fa y combinator square
+ fa yahoo
+ fa yc
+ fa yc square
+ fa yelp
+ fa yen
+ fa yoast
+ fa youtube
+ fa youtube play
+ fa youtube square
+ fae apple fruit
+ fae atom
+ fae bacteria
+ fae banana
+ fae bath
+ fae bed
+ fae benzene
+ fae bigger
+ fae biohazard
+ fae blogger circle
+ fae blogger square
+ fae bones
+ fae book open
+ fae book open o
+ fae brain
+ fae bread
+ fae butterfly
+ fae carot
+ fae cc by
+ fae cc cc
+ fae cc nc
+ fae cc nc eu
+ fae cc nc jp
+ fae cc nd
+ fae cc remix
+ fae cc sa
+ fae cc share
+ fae cc zero
+ fae checklist o
+ fae cheese
+ fae cherry
+ fae chess bishop
+ fae chess horse
+ fae chess king
+ fae chess pawn
+ fae chess queen
+ fae chess tower
+ fae chicken thigh
+ fae chilli
+ fae chip
+ fae cicling
+ fae cloud
+ fae cockroach
+ fae coffe beans
+ fae coins
+ fae comb
+ fae comet
+ fae crown
+ fae cup coffe
+ fae dice
+ fae disco
+ fae dna
+ fae donut
+ fae dress
+ fae drop
+ fae ello
+ fae envelope open
+ fae envelope open o
+ fae equal
+ fae equal bigger
+ fae feedly
+ fae file export
+ fae file import
+ fae fingerprint
+ fae floppy
+ fae footprint
+ fae freecodecamp
+ fae galaxy
+ fae galery
+ fae gift card
+ fae glass
+ fae google drive
+ fae google play
+ fae gps
+ fae grav
+ fae guitar
+ fae gut
+ fae halter
+ fae hamburger
+ fae hat
+ fae hexagon
+ fae high heel
+ fae hotdog
+ fae ice cream
+ fae id card
+ fae imdb
+ fae infinity
+ fae injection
+ fae isle
+ fae java
+ fae layers
+ fae lips
+ fae lipstick
+ fae liver
+ fae lollipop
+ fae loyalty card
+ fae lung
+ fae makeup brushes
+ fae maximize
+ fae meat
+ fae medicine
+ fae microscope
+ fae milk bottle
+ fae minimize
+ fae molecule
+ fae moon cloud
+ fae mountains
+ fae mushroom
+ fae mustache
+ fae mysql
+ fae nintendo
+ fae orange
+ fae palette color
+ fae peach
+ fae pear
+ fae pi
+ fae pizza
+ fae planet
+ fae plant
+ fae playstation
+ fae poison
+ fae popcorn
+ fae popsicle
+ fae pulse
+ fae python
+ fae quora circle
+ fae quora square
+ fae radioactive
+ fae raining
+ fae real heart
+ fae refrigerator
+ fae restore
+ fae ring
+ fae ruby
+ fae ruby o
+ fae ruler
+ fae shirt
+ fae slash
+ fae smaller
+ fae snowing
+ fae soda
+ fae sofa
+ fae soup
+ fae spermatozoon
+ fae spin double
+ fae stomach
+ fae storm
+ fae sun cloud
+ fae sushi
+ fae tacos
+ fae telegram
+ fae telegram circle
+ fae telescope
+ fae thermometer
+ fae thermometer high
+ fae thermometer low
+ fae thin close
+ fae toilet
+ fae tools
+ fae tooth
+ fae tree
+ fae triangle ruler
+ fae umbrella
+ fae uterus
+ fae virus
+ fae w3c
+ fae walking
+ fae wallet
+ fae wind
+ fae xbox
+⏻ iec power
+⭘ iec power off
+⏽ iec power on
+⏾ iec sleep mode
+⏼ iec toggle power
+ indent dotted guide
+ indent line
+ indentation line
+ linux almalinux
+ linux alpine
+ linux aosc
+ linux apple
+ linux archlabs
+ linux archlinux
+ linux artix
+ linux budgie
+ linux centos
+ linux coreos
+ linux debian
+ linux deepin
+ linux devuan
+ linux docker
+ linux elementary
+ linux endeavour
+ linux fedora
+ linux fedora inverse
+ linux ferris
+ linux flathub
+ linux freebsd
+ linux gentoo
+ linux gnu guix
+ linux illumos
+ linux kali linux
+ linux linuxmint
+ linux linuxmint inverse
+ linux mageia
+ linux mandriva
+ linux manjaro
+ linux nixos
+ linux openbsd
+ linux opensuse
+ linux parrot
+ linux pop os
+ linux raspberry pi
+ linux redhat
+ linux rocky linux
+ linux sabayon
+ linux slackware
+ linux slackware inverse
+ linux snappy
+ linux solus
+ linux tux
+ linux ubuntu
+ linux ubuntu inverse
+ linux void
+ linux zorin
+󰇉 md ab testing
+󱛠 md abacus
+󱌨 md abjad arabic
+󱌩 md abjad hebrew
+󱌪 md abugida devanagari
+󱌫 md abugida thai
+󰀃 md access point
+󱔸 md access point check
+󱔹 md access point minus
+󰀂 md access point network
+󰯡 md access point network off
+󱔑 md access point off
+󱔺 md access point plus
+󱔻 md access point remove
+󰀄 md account
+󰀅 md account alert
+󰭐 md account alert outline
+󱡨 md account arrow down
+󱡩 md account arrow down outline
+󰭑 md account arrow left
+󰭒 md account arrow left outline
+󰭓 md account arrow right
+󰭔 md account arrow right outline
+󱡧 md account arrow up
+󱡪 md account arrow up outline
+󰀆 md account box
+󰤴 md account box multiple
+󱀊 md account box multiple outline
+󰀇 md account box outline
+󱋟 md account cancel
+󱋠 md account cancel outline
+󱂗 md account cash
+󱂘 md account cash outline
+󰀈 md account check
+󰯢 md account check outline
+󰪉 md account child
+󰪊 md account child circle
+󱃈 md account child outline
+󰀉 md account circle
+󰭕 md account circle outline
+󰭖 md account clock
+󰭗 md account clock outline
+󱍰 md account cog
+󱍱 md account cog outline
+󰀊 md account convert
+󱌁 md account convert outline
+󰺛 md account cowboy hat
+󱟳 md account cowboy hat outline
+󰘱 md account details
+󱍲 md account details outline
+󰚼 md account edit
+󰿻 md account edit outline
+󰐠 md account eye
+󱉻 md account eye outline
+󰤶 md account filter
+󰾝 md account filter outline
+󰡉 md account group
+󰭘 md account group outline
+󰖵 md account hard hat
+󱨟 md account hard hat outline
+󰢙 md account heart
+󰯣 md account heart outline
+󱠕 md account injury
+󱠖 md account injury outline
+󰀋 md account key
+󰯤 md account key outline
+󱅞 md account lock
+󱥠 md account lock open
+󱥡 md account lock open outline
+󱅟 md account lock outline
+󰀍 md account minus
+󰫬 md account minus outline
+󰀎 md account multiple
+󰣅 md account multiple check
+󱇾 md account multiple check outline
+󰗓 md account multiple minus
+󰯥 md account multiple minus outline
+󰀏 md account multiple outline
+󰀐 md account multiple plus
+󰠀 md account multiple plus outline
+󱈊 md account multiple remove
+󱈋 md account multiple remove outline
+󰠃 md account music
+󰳩 md account music outline
+󰀑 md account network
+󰯦 md account network outline
+󰀒 md account off
+󰯧 md account off outline
+󰀓 md account outline
+󰀔 md account plus
+󰠁 md account plus outline
+󰭙 md account question
+󰭚 md account question outline
+󱔫 md account reactivate
+󱔬 md account reactivate outline
+󰀕 md account remove
+󰫭 md account remove outline
+󱨠 md account school
+󱨡 md account school outline
+󰀖 md account search
+󰤵 md account search outline
+󰘰 md account settings
+󱃉 md account settings outline
+󰀗 md account star
+󰯨 md account star outline
+󰪋 md account supervisor
+󰪌 md account supervisor circle
+󱓬 md account supervisor circle outline
+󱄭 md account supervisor outline
+󰀙 md account switch
+󰓋 md account switch outline
+󱤛 md account sync
+󱤜 md account sync outline
+󰳣 md account tie
+󱢘 md account tie hat
+󱢙 md account tie hat outline
+󱃊 md account tie outline
+󱌈 md account tie voice
+󱌊 md account tie voice off
+󱌋 md account tie voice off outline
+󱌉 md account tie voice outline
+󱪌 md account tie woman
+󰗋 md account voice
+󰻔 md account voice off
+󱢚 md account wrench
+󱢛 md account wrench outline
+󰀚 md adjust
+󱤪 md advertisements
+󱤫 md advertisements off
+󰀛 md air conditioner
+󰵃 md air filter
+󰶬 md air horn
+󱂙 md air humidifier
+󱑦 md air humidifier off
+󰵄 md air purifier
+󰯩 md airbag
+󰀜 md airballoon
+󱀋 md airballoon outline
+󰀝 md airplane
+󱡺 md airplane alert
+󱡻 md airplane check
+󱡼 md airplane clock
+󱡽 md airplane cog
+󱡾 md airplane edit
+󰗔 md airplane landing
+󱡿 md airplane marker
+󱢀 md airplane minus
+󰀞 md airplane off
+󱢁 md airplane plus
+󱢂 md airplane remove
+󱢃 md airplane search
+󱢄 md airplane settings
+󰗕 md airplane takeoff
+󰡋 md airport
+󰀠 md alarm
+󰞎 md alarm bell
+󰀡 md alarm check
+󰞏 md alarm light
+󱜞 md alarm light off
+󱜟 md alarm light off outline
+󰯪 md alarm light outline
+󰀢 md alarm multiple
+󰹱 md alarm note
+󰹲 md alarm note off
+󰀣 md alarm off
+󱗄 md alarm panel
+󱗅 md alarm panel outline
+󰀤 md alarm plus
+󰚎 md alarm snooze
+󰀥 md album
+󰀦 md alert
+󰀧 md alert box
+󰳤 md alert box outline
+󰀨 md alert circle
+󱇭 md alert circle check
+󱇮 md alert circle check outline
+󰗖 md alert circle outline
+󰚽 md alert decagram
+󰳥 md alert decagram outline
+󱒻 md alert minus
+󱒾 md alert minus outline
+󰀩 md alert octagon
+󰳦 md alert octagon outline
+󰝧 md alert octagram
+󰳧 md alert octagram outline
+󰀪 md alert outline
+󱒺 md alert plus
+󱒽 md alert plus outline
+󱒼 md alert remove
+󱒿 md alert remove outline
+󱇎 md alert rhombus
+󱇏 md alert rhombus outline
+󰢚 md alien
+󱃋 md alien outline
+󱇃 md align horizontal center
+󱥢 md align horizontal distribute
+󱇂 md align horizontal left
+󱇄 md align horizontal right
+󱇅 md align vertical bottom
+󱇆 md align vertical center
+󱥣 md align vertical distribute
+󱇇 md align vertical top
+󰚾 md all inclusive
+󱢍 md all inclusive box
+󱢎 md all inclusive box outline
+󱉘 md allergy
+󰀫 md alpha
+󰫮 md alpha a
+󰬈 md alpha a box
+󰯫 md alpha a box outline
+󰯬 md alpha a circle
+󰯭 md alpha a circle outline
+󰫯 md alpha b
+󰬉 md alpha b box
+󰯮 md alpha b box outline
+󰯯 md alpha b circle
+󰯰 md alpha b circle outline
+󰫰 md alpha c
+󰬊 md alpha c box
+󰯱 md alpha c box outline
+󰯲 md alpha c circle
+󰯳 md alpha c circle outline
+󰫱 md alpha d
+󰬋 md alpha d box
+󰯴 md alpha d box outline
+󰯵 md alpha d circle
+󰯶 md alpha d circle outline
+󰫲 md alpha e
+󰬌 md alpha e box
+󰯷 md alpha e box outline
+󰯸 md alpha e circle
+󰯹 md alpha e circle outline
+󰫳 md alpha f
+󰬍 md alpha f box
+󰯺 md alpha f box outline
+󰯻 md alpha f circle
+󰯼 md alpha f circle outline
+󰫴 md alpha g
+󰬎 md alpha g box
+󰯽 md alpha g box outline
+󰯾 md alpha g circle
+󰯿 md alpha g circle outline
+󰫵 md alpha h
+󰬏 md alpha h box
+󰰀 md alpha h box outline
+󰰁 md alpha h circle
+󰰂 md alpha h circle outline
+󱂈 md alpha i
+󰬐 md alpha i box
+󰰃 md alpha i box outline
+󰰄 md alpha i circle
+󰰅 md alpha i circle outline
+󰫷 md alpha j
+󰬑 md alpha j box
+󰰆 md alpha j box outline
+󰰇 md alpha j circle
+󰰈 md alpha j circle outline
+󰫸 md alpha k
+󰬒 md alpha k box
+󰰉 md alpha k box outline
+󰰊 md alpha k circle
+󰰋 md alpha k circle outline
+󱎦 md alpha l
+󰬓 md alpha l box
+󰰌 md alpha l box outline
+󰰍 md alpha l circle
+󰰎 md alpha l circle outline
+󰫺 md alpha m
+󰬔 md alpha m box
+󰰏 md alpha m box outline
+󰰐 md alpha m circle
+󰰑 md alpha m circle outline
+󰫻 md alpha n
+󰬕 md alpha n box
+󰰒 md alpha n box outline
+󰰓 md alpha n circle
+󰰔 md alpha n circle outline
+󰬹 md alpha o
+󰬖 md alpha o box
+󰰕 md alpha o box outline
+󰲞 md alpha o circle
+󰲟 md alpha o circle outline
+󰫽 md alpha p
+󰬗 md alpha p box
+󰰘 md alpha p box outline
+󰰙 md alpha p circle
+󰰚 md alpha p circle outline
+󰫾 md alpha q
+󰬘 md alpha q box
+󰰛 md alpha q box outline
+󰰜 md alpha q circle
+󰰝 md alpha q circle outline
+󰫿 md alpha r
+󰬙 md alpha r box
+󰰞 md alpha r box outline
+󰰟 md alpha r circle
+󰰠 md alpha r circle outline
+󰬀 md alpha s
+󰬚 md alpha s box
+󰰡 md alpha s box outline
+󰰢 md alpha s circle
+󰰣 md alpha s circle outline
+󰬁 md alpha t
+󰬛 md alpha t box
+󰰤 md alpha t box outline
+󰰥 md alpha t circle
+󰰦 md alpha t circle outline
+󰬂 md alpha u
+󰬜 md alpha u box
+󰰧 md alpha u box outline
+󰰨 md alpha u circle
+󰰩 md alpha u circle outline
+󱂌 md alpha v
+󰬝 md alpha v box
+󰰪 md alpha v box outline
+󰰫 md alpha v circle
+󰰬 md alpha v circle outline
+󰬄 md alpha w
+󰬞 md alpha w box
+󰰭 md alpha w box outline
+󰰮 md alpha w circle
+󰰯 md alpha w circle outline
+󱂑 md alpha x
+󰬟 md alpha x box
+󰰰 md alpha x box outline
+󰰱 md alpha x circle
+󰰲 md alpha x circle outline
+󰬆 md alpha y
+󰬠 md alpha y box
+󰰳 md alpha y box outline
+󰰴 md alpha y circle
+󰰵 md alpha y circle outline
+󰬇 md alpha z
+󰬡 md alpha z box
+󰰶 md alpha z box outline
+󰰷 md alpha z circle
+󰰸 md alpha z circle outline
+󱌬 md alphabet aurebesh
+󱌭 md alphabet cyrillic
+󱌮 md alphabet greek
+󱌯 md alphabet latin
+󱌰 md alphabet piqad
+󱌷 md alphabet tengwar
+󰀬 md alphabetical
+󱀌 md alphabetical off
+󱀍 md alphabetical variant
+󱀎 md alphabetical variant off
+󰗗 md altimeter
+󰀯 md ambulance
+󰳨 md ammunition
+󰪍 md ampersand
+󰀰 md amplifier
+󱆵 md amplifier off
+󰀱 md anchor
+󰀲 md android
+󰵅 md android messages
+󰀴 md android studio
+󰤷 md angle acute
+󰤸 md angle obtuse
+󰤹 md angle right
+󰚲 md angular
+󰚿 md angularjs
+󰗘 md animation
+󰪏 md animation outline
+󰤺 md animation play
+󰪐 md animation play outline
+󱂚 md ansible
+󱄙 md antenna
+󰢛 md anvil
+󱀏 md apache kafka
+󱂛 md api
+󱉗 md api off
+󰀵 md apple
+󰀶 md apple finder
+󰀸 md apple icloud
+󰀷 md apple ios
+󰘲 md apple keyboard caps
+󰘳 md apple keyboard command
+󰘴 md apple keyboard control
+󰘵 md apple keyboard option
+󰘶 md apple keyboard shift
+󰀹 md apple safari
+󰣆 md application
+󱃵 md application array
+󱃶 md application array outline
+󱃷 md application braces
+󱃸 md application braces outline
+󰲋 md application brackets
+󰲌 md application brackets outline
+󰙵 md application cog
+󱕷 md application cog outline
+󰂮 md application edit
+󰘙 md application edit outline
+󰶭 md application export
+󰶮 md application import
+󰘔 md application outline
+󱃹 md application parentheses
+󱃺 md application parentheses outline
+󰭠 md application settings
+󱕕 md application settings outline
+󱃻 md application variable
+󱃼 md application variable outline
+󰾞 md approximately equal
+󰾟 md approximately equal box
+󰀻 md apps
+󰵆 md apps box
+󰣇 md arch
+󰀼 md archive
+󱓽 md archive alert
+󱓾 md archive alert outline
+󱉙 md archive arrow down
+󱉚 md archive arrow down outline
+󱉛 md archive arrow up
+󱉜 md archive arrow up outline
+󱝋 md archive cancel
+󱝌 md archive cancel outline
+󱝍 md archive check
+󱝎 md archive check outline
+󱝏 md archive clock
+󱝐 md archive clock outline
+󱝑 md archive cog
+󱝒 md archive cog outline
+󱝓 md archive edit
+󱝔 md archive edit outline
+󱝕 md archive eye
+󱝖 md archive eye outline
+󱝗 md archive lock
+󱝘 md archive lock open
+󱝙 md archive lock open outline
+󱝚 md archive lock outline
+󱝛 md archive marker
+󱝜 md archive marker outline
+󱝝 md archive minus
+󱝞 md archive minus outline
+󱝟 md archive music
+󱝠 md archive music outline
+󱝡 md archive off
+󱝢 md archive off outline
+󱈎 md archive outline
+󱝣 md archive plus
+󱝤 md archive plus outline
+󱝥 md archive refresh
+󱝦 md archive refresh outline
+󱝧 md archive remove
+󱝨 md archive remove outline
+󱝩 md archive search
+󱝪 md archive search outline
+󱝫 md archive settings
+󱝬 md archive settings outline
+󱝭 md archive star
+󱝮 md archive star outline
+󱝯 md archive sync
+󱝰 md archive sync outline
+󰿗 md arm flex
+󰿖 md arm flex outline
+󰀽 md arrange bring forward
+󰀾 md arrange bring to front
+󰀿 md arrange send backward
+󰁀 md arrange send to back
+󰁁 md arrow all
+󰁂 md arrow bottom left
+󱥤 md arrow bottom left bold box
+󱥥 md arrow bottom left bold box outline
+󰦷 md arrow bottom left bold outline
+󰦸 md arrow bottom left thick
+󱦶 md arrow bottom left thin
+󱖖 md arrow bottom left thin circle outline
+󰁃 md arrow bottom right
+󱥦 md arrow bottom right bold box
+󱥧 md arrow bottom right bold box outline
+󰦹 md arrow bottom right bold outline
+󰦺 md arrow bottom right thick
+󱦷 md arrow bottom right thin
+󱖕 md arrow bottom right thin circle outline
+󰘕 md arrow collapse
+󰁄 md arrow collapse all
+󰞒 md arrow collapse down
+󰡌 md arrow collapse horizontal
+󰞓 md arrow collapse left
+󰞔 md arrow collapse right
+󰞕 md arrow collapse up
+󰡍 md arrow collapse vertical
+󰦻 md arrow decision
+󰦼 md arrow decision auto
+󰦽 md arrow decision auto outline
+󰦾 md arrow decision outline
+󰁅 md arrow down
+󰜮 md arrow down bold
+󰜯 md arrow down bold box
+󰜰 md arrow down bold box outline
+󰁇 md arrow down bold circle
+󰁈 md arrow down bold circle outline
+󰁉 md arrow down bold hexagon outline
+󰦿 md arrow down bold outline
+󰛀 md arrow down box
+󰳛 md arrow down circle
+󰳜 md arrow down circle outline
+󰁊 md arrow down drop circle
+󰁋 md arrow down drop circle outline
+󱞡 md arrow down left
+󱞢 md arrow down left bold
+󱞣 md arrow down right
+󱞤 md arrow down right bold
+󰁆 md arrow down thick
+󱦳 md arrow down thin
+󱖙 md arrow down thin circle outline
+󰘖 md arrow expand
+󰁌 md arrow expand all
+󰞖 md arrow expand down
+󰡎 md arrow expand horizontal
+󰞗 md arrow expand left
+󰞘 md arrow expand right
+󰞙 md arrow expand up
+󰡏 md arrow expand vertical
+󱅛 md arrow horizontal lock
+󰁍 md arrow left
+󰜱 md arrow left bold
+󰜲 md arrow left bold box
+󰜳 md arrow left bold box outline
+󰁏 md arrow left bold circle
+󰁐 md arrow left bold circle outline
+󰁑 md arrow left bold hexagon outline
+󰧀 md arrow left bold outline
+󱞥 md arrow left bottom
+󱞦 md arrow left bottom bold
+󰛁 md arrow left box
+󰳝 md arrow left circle
+󰳞 md arrow left circle outline
+󰁒 md arrow left drop circle
+󰁓 md arrow left drop circle outline
+󰹳 md arrow left right
+󰹴 md arrow left right bold
+󰧁 md arrow left right bold outline
+󰁎 md arrow left thick
+󱦱 md arrow left thin
+󱖚 md arrow left thin circle outline
+󱞧 md arrow left top
+󱞨 md arrow left top bold
+󱡀 md arrow projectile
+󱠿 md arrow projectile multiple
+󰁔 md arrow right
+󰜴 md arrow right bold
+󰜵 md arrow right bold box
+󰜶 md arrow right bold box outline
+󰁖 md arrow right bold circle
+󰁗 md arrow right bold circle outline
+󰁘 md arrow right bold hexagon outline
+󰧂 md arrow right bold outline
+󱞩 md arrow right bottom
+󱞪 md arrow right bottom bold
+󰛂 md arrow right box
+󰳟 md arrow right circle
+󰳠 md arrow right circle outline
+󰁙 md arrow right drop circle
+󰁚 md arrow right drop circle outline
+󰁕 md arrow right thick
+󱦰 md arrow right thin
+󱖘 md arrow right thin circle outline
+󱞫 md arrow right top
+󱞬 md arrow right top bold
+󰤻 md arrow split horizontal
+󰤼 md arrow split vertical
+󰁛 md arrow top left
+󱥨 md arrow top left bold box
+󱥩 md arrow top left bold box outline
+󰧃 md arrow top left bold outline
+󰹵 md arrow top left bottom right
+󰹶 md arrow top left bottom right bold
+󰧄 md arrow top left thick
+󱦵 md arrow top left thin
+󱖓 md arrow top left thin circle outline
+󰁜 md arrow top right
+󱥪 md arrow top right bold box
+󱥫 md arrow top right bold box outline
+󰧅 md arrow top right bold outline
+󰹷 md arrow top right bottom left
+󰹸 md arrow top right bottom left bold
+󰧆 md arrow top right thick
+󱦴 md arrow top right thin
+󱖔 md arrow top right thin circle outline
+󱞭 md arrow u down left
+󱞮 md arrow u down left bold
+󱞯 md arrow u down right
+󱞰 md arrow u down right bold
+󱞱 md arrow u left bottom
+󱞲 md arrow u left bottom bold
+󱞳 md arrow u left top
+󱞴 md arrow u left top bold
+󱞵 md arrow u right bottom
+󱞶 md arrow u right bottom bold
+󱞷 md arrow u right top
+󱞸 md arrow u right top bold
+󱞹 md arrow u up left
+󱞺 md arrow u up left bold
+󱞻 md arrow u up right
+󱞼 md arrow u up right bold
+󰁝 md arrow up
+󰜷 md arrow up bold
+󰜸 md arrow up bold box
+󰜹 md arrow up bold box outline
+󰁟 md arrow up bold circle
+󰁠 md arrow up bold circle outline
+󰁡 md arrow up bold hexagon outline
+󰧇 md arrow up bold outline
+󰛃 md arrow up box
+󰳡 md arrow up circle
+󰳢 md arrow up circle outline
+󰹹 md arrow up down
+󰹺 md arrow up down bold
+󰧈 md arrow up down bold outline
+󰁢 md arrow up drop circle
+󰁣 md arrow up drop circle outline
+󱞽 md arrow up left
+󱞾 md arrow up left bold
+󱞿 md arrow up right
+󱟀 md arrow up right bold
+󰁞 md arrow up thick
+󱦲 md arrow up thin
+󱖗 md arrow up thin circle outline
+󱅜 md arrow vertical lock
+󰭛 md artstation
+󰨤 md aspect ratio
+󰁤 md assistant
+󰛄 md asterisk
+󱨧 md asterisk circle outline
+󰁥 md at
+󰠄 md atlassian
+󰵇 md atm
+󰝨 md atom
+󰹻 md atom variant
+󰁦 md attachment
+󱫁 md attachment check
+󱧄 md attachment lock
+󱫂 md attachment minus
+󱫃 md attachment off
+󱫄 md attachment plus
+󱫅 md attachment remove
+󱡫 md audio input rca
+󱡬 md audio input stereo minijack
+󱡭 md audio input xlr
+󰤽 md audio video
+󱆶 md audio video off
+󰡐 md augmented reality
+󱍾 md auto download
+󰁨 md auto fix
+󰁩 md auto upload
+󰁪 md autorenew
+󱧧 md autorenew off
+󰁫 md av timer
+󰸏 md aws
+󰣈 md axe
+󱡂 md axe battle
+󰵈 md axis
+󰵉 md axis arrow
+󱐎 md axis arrow info
+󰵊 md axis arrow lock
+󰵋 md axis lock
+󰵌 md axis x arrow
+󰵍 md axis x arrow lock
+󰵎 md axis x rotate clockwise
+󰵏 md axis x rotate counterclockwise
+󰵐 md axis x y arrow lock
+󰵑 md axis y arrow
+󰵒 md axis y arrow lock
+󰵓 md axis y rotate clockwise
+󰵔 md axis y rotate counterclockwise
+󰵕 md axis z arrow
+󰵖 md axis z arrow lock
+󰵗 md axis z rotate clockwise
+󰵘 md axis z rotate counterclockwise
+󰨥 md babel
+󰁬 md baby
+󰼹 md baby bottle
+󰼺 md baby bottle outline
+󱏠 md baby buggy
+󰚏 md baby carriage
+󰾠 md baby carriage off
+󰹼 md baby face
+󰹽 md baby face outline
+󰁭 md backburger
+󰁮 md backspace
+󰭜 md backspace outline
+󰹾 md backspace reverse
+󰹿 md backspace reverse outline
+󰁯 md backup restore
+󰻕 md bacteria
+󰻖 md bacteria outline
+󰶧 md badge account
+󰶨 md badge account alert
+󰶩 md badge account alert outline
+󰸍 md badge account horizontal
+󰸎 md badge account horizontal outline
+󰶪 md badge account outline
+󰡑 md badminton
+󰼻 md bag carry on
+󰵥 md bag carry on check
+󰼼 md bag carry on off
+󰼽 md bag checked
+󰸐 md bag personal
+󰸑 md bag personal off
+󰸒 md bag personal off outline
+󰸓 md bag personal outline
+󱖋 md bag suitcase
+󱖍 md bag suitcase off
+󱖎 md bag suitcase off outline
+󱖌 md bag suitcase outline
+󰼾 md baguette
+󱠗 md balcony
+󰨦 md balloon
+󰧉 md ballot
+󰧊 md ballot outline
+󰰹 md ballot recount
+󰰺 md ballot recount outline
+󰶯 md bandage
+󰁰 md bank
+󱙕 md bank check
+󰶰 md bank minus
+󱙖 md bank off
+󱙗 md bank off outline
+󰺀 md bank outline
+󰶱 md bank plus
+󰶲 md bank remove
+󰨧 md bank transfer
+󰨨 md bank transfer in
+󰨩 md bank transfer out
+󰁱 md barcode
+󱈶 md barcode off
+󰁲 md barcode scan
+󰁳 md barley
+󰭝 md barley off
+󰭞 md barn
+󰁴 md barrel
+󱨨 md barrel outline
+󰡒 md baseball
+󰡓 md baseball bat
+󱗬 md baseball diamond
+󱗭 md baseball diamond outline
+󱆃 md bash
+󰁶 md basket
+󱣥 md basket check
+󱣦 md basket check outline
+󰁷 md basket fill
+󱔣 md basket minus
+󱔤 md basket minus outline
+󱔥 md basket off
+󱔦 md basket off outline
+󱆁 md basket outline
+󱔧 md basket plus
+󱔨 md basket plus outline
+󱔩 md basket remove
+󱔪 md basket remove outline
+󰁸 md basket unfill
+󰠆 md basketball
+󰰻 md basketball hoop
+󰰼 md basketball hoop outline
+󰭟 md bat
+󱠘 md bathtub
+󱠙 md bathtub outline
+󰁹 md battery
+󰁺 md battery 10
+󰤾 md battery 10 bluetooth
+󰁻 md battery 20
+󰤿 md battery 20 bluetooth
+󰁼 md battery 30
+󰥀 md battery 30 bluetooth
+󰁽 md battery 40
+󰥁 md battery 40 bluetooth
+󰁾 md battery 50
+󰥂 md battery 50 bluetooth
+󰁿 md battery 60
+󰥃 md battery 60 bluetooth
+󰂀 md battery 70
+󰥄 md battery 70 bluetooth
+󰂁 md battery 80
+󰥅 md battery 80 bluetooth
+󰂂 md battery 90
+󰥆 md battery 90 bluetooth
+󰂃 md battery alert
+󰥇 md battery alert bluetooth
+󱃌 md battery alert variant
+󱃍 md battery alert variant outline
+󱟞 md battery arrow down
+󱟟 md battery arrow down outline
+󱟠 md battery arrow up
+󱟡 md battery arrow up outline
+󰥈 md battery bluetooth
+󰥉 md battery bluetooth variant
+󰂄 md battery charging
+󰢜 md battery charging 10
+󰂅 md battery charging 100
+󰂆 md battery charging 20
+󰂇 md battery charging 30
+󰂈 md battery charging 40
+󰢝 md battery charging 50
+󰂉 md battery charging 60
+󰢞 md battery charging 70
+󰂊 md battery charging 80
+󰂋 md battery charging 90
+󱊦 md battery charging high
+󱊤 md battery charging low
+󱊥 md battery charging medium
+󰢟 md battery charging outline
+󰠇 md battery charging wireless
+󰠈 md battery charging wireless 10
+󰠉 md battery charging wireless 20
+󰠊 md battery charging wireless 30
+󰠋 md battery charging wireless 40
+󰠌 md battery charging wireless 50
+󰠍 md battery charging wireless 60
+󰠎 md battery charging wireless 70
+󰠏 md battery charging wireless 80
+󰠐 md battery charging wireless 90
+󰠑 md battery charging wireless alert
+󰠒 md battery charging wireless outline
+󱟢 md battery check
+󱟣 md battery check outline
+󱧥 md battery clock
+󱧦 md battery clock outline
+󱈏 md battery heart
+󱈐 md battery heart outline
+󱈑 md battery heart variant
+󱊣 md battery high
+󱞜 md battery lock
+󱞝 md battery lock open
+󱊡 md battery low
+󱊢 md battery medium
+󱟤 md battery minus
+󱟥 md battery minus outline
+󰂌 md battery minus variant
+󰂍 md battery negative
+󱉝 md battery off
+󱉞 md battery off outline
+󰂎 md battery outline
+󱟦 md battery plus
+󱟧 md battery plus outline
+󰂏 md battery plus variant
+󰂐 md battery positive
+󱟨 md battery remove
+󱟩 md battery remove outline
+󱠴 md battery sync
+󱠵 md battery sync outline
+󰂑 md battery unknown
+󰥊 md battery unknown bluetooth
+󰂒 md beach
+󰳪 md beaker
+󱈩 md beaker alert
+󱈪 md beaker alert outline
+󱈫 md beaker check
+󱈬 md beaker check outline
+󱈭 md beaker minus
+󱈮 md beaker minus outline
+󰚐 md beaker outline
+󱈯 md beaker plus
+󱈰 md beaker plus outline
+󱈱 md beaker question
+󱈲 md beaker question outline
+󱈳 md beaker remove
+󱈴 md beaker remove outline
+󰋣 md bed
+󰿔 md bed double
+󰿓 md bed double outline
+󰢠 md bed empty
+󰿒 md bed king
+󰿑 md bed king outline
+󰂙 md bed outline
+󰿐 md bed queen
+󰿛 md bed queen outline
+󱁭 md bed single
+󱁮 md bed single outline
+󰾡 md bee
+󰾢 md bee flower
+󱏭 md beehive off outline
+󱃎 md beehive outline
+󱓢 md beekeeper
+󰂘 md beer
+󱌌 md beer outline
+󰂚 md bell
+󰵙 md bell alert
+󰺁 md bell alert outline
+󱅫 md bell badge
+󰅸 md bell badge outline
+󱏧 md bell cancel
+󱏨 md bell cancel outline
+󱇥 md bell check
+󱇦 md bell check outline
+󰵚 md bell circle
+󰵛 md bell circle outline
+󱨩 md bell cog
+󱨪 md bell cog outline
+󱏩 md bell minus
+󱏪 md bell minus outline
+󰂛 md bell off
+󰪑 md bell off outline
+󰂜 md bell outline
+󰂝 md bell plus
+󰪒 md bell plus outline
+󱏫 md bell remove
+󱏬 md bell remove outline
+󰂞 md bell ring
+󰂟 md bell ring outline
+󰂠 md bell sleep
+󰪓 md bell sleep outline
+󰂡 md beta
+󰧋 md betamax
+󰸔 md biathlon
+󱂜 md bicycle
+󱈵 md bicycle basket
+󱢜 md bicycle cargo
+󱖴 md bicycle electric
+󱗩 md bicycle penny farthing
+󰂣 md bike
+󱄟 md bike fast
+󱀐 md billboard
+󰭡 md billiards
+󰭢 md billiards rack
+󰂥 md binoculars
+󰂦 md bio
+󰂧 md biohazard
+󱗆 md bird
+󰂨 md bitbucket
+󰠓 md bitcoin
+󰂩 md black mesa
+󰳫 md blender
+󱠚 md blender outline
+󰂫 md blender software
+󰂬 md blinds
+󱨫 md blinds horizontal
+󱨬 md blinds horizontal closed
+󱀑 md blinds open
+󱨭 md blinds vertical
+󱨮 md blinds vertical closed
+󰂭 md block helper
+󰳬 md blood bag
+󰂯 md bluetooth
+󰂰 md bluetooth audio
+󰂱 md bluetooth connect
+󰂲 md bluetooth off
+󰂳 md bluetooth settings
+󰂴 md bluetooth transfer
+󰂵 md blur
+󰂶 md blur linear
+󰂷 md blur off
+󰂸 md blur radial
+󰶳 md bolt
+󰚑 md bomb
+󰛅 md bomb off
+󰂹 md bone
+󱧠 md bone off
+󰂺 md book
+󱎭 md book account
+󱎮 md book account outline
+󱙼 md book alert
+󱙽 md book alert outline
+󰘝 md book alphabet
+󱙾 md book arrow down
+󱙿 md book arrow down outline
+󱚀 md book arrow left
+󱚁 md book arrow left outline
+󱚂 md book arrow right
+󱚃 md book arrow right outline
+󱚄 md book arrow up
+󱚅 md book arrow up outline
+󱚆 md book cancel
+󱚇 md book cancel outline
+󱓳 md book check
+󱓴 md book check outline
+󱚈 md book clock
+󱚉 md book clock outline
+󱚊 md book cog
+󱚋 md book cog outline
+󰂢 md book cross
+󱚌 md book edit
+󱚍 md book edit outline
+󱛉 md book education
+󱛊 md book education outline
+󱨝 md book heart
+󱨞 md book heart outline
+󱁯 md book information variant
+󰞚 md book lock
+󰞛 md book lock open
+󱚎 md book lock open outline
+󱚏 md book lock outline
+󱚐 md book marker
+󱚑 md book marker outline
+󰗙 md book minus
+󰪔 md book minus multiple
+󰤋 md book minus multiple outline
+󱚒 md book minus outline
+󰂻 md book multiple
+󰐶 md book multiple outline
+󰁧 md book music
+󱚓 md book music outline
+󱚔 md book off
+󱚕 md book off outline
+󰂽 md book open
+󰂾 md book open blank variant
+󰭣 md book open outline
+󰗚 md book open page variant
+󱗖 md book open page variant outline
+󱓷 md book open variant
+󰭤 md book outline
+󰺂 md book play
+󰺃 md book play outline
+󰗛 md book plus
+󰪕 md book plus multiple
+󰫞 md book plus multiple outline
+󱚖 md book plus outline
+󱚗 md book refresh
+󱚘 md book refresh outline
+󰪗 md book remove
+󰪖 md book remove multiple
+󰓊 md book remove multiple outline
+󱚙 md book remove outline
+󰺄 md book search
+󰺅 md book search outline
+󱚚 md book settings
+󱚛 md book settings outline
+󱚜 md book sync
+󱛈 md book sync outline
+󰂿 md book variant
+󰂼 md book variant multiple
+󰃀 md bookmark
+󱥬 md bookmark box multiple
+󱥭 md bookmark box multiple outline
+󰃁 md bookmark check
+󱍻 md bookmark check outline
+󰧌 md bookmark minus
+󰧍 md bookmark minus outline
+󰸕 md bookmark multiple
+󰸖 md bookmark multiple outline
+󰃂 md bookmark music
+󱍹 md bookmark music outline
+󰧎 md bookmark off
+󰧏 md bookmark off outline
+󰃃 md bookmark outline
+󰃅 md bookmark plus
+󰃄 md bookmark plus outline
+󰃆 md bookmark remove
+󱍺 md bookmark remove outline
+󱉟 md bookshelf
+󰺆 md boom gate
+󰺇 md boom gate alert
+󰺈 md boom gate alert outline
+󰺉 md boom gate arrow down
+󰺊 md boom gate arrow down outline
+󰺌 md boom gate arrow up
+󰺍 md boom gate arrow up outline
+󰺋 md boom gate outline
+󱟹 md boom gate up
+󱟺 md boom gate up outline
+󰗜 md boombox
+󱃏 md boomerang
+󰛆 md bootstrap
+󰃇 md border all
+󰢡 md border all variant
+󰃈 md border bottom
+󰢢 md border bottom variant
+󰃉 md border color
+󰃊 md border horizontal
+󰃋 md border inside
+󰃌 md border left
+󰢣 md border left variant
+󰃍 md border none
+󰢤 md border none variant
+󰃎 md border outside
+󰃏 md border right
+󰢥 md border right variant
+󰃐 md border style
+󰃑 md border top
+󰢦 md border top variant
+󰃒 md border vertical
+󱁰 md bottle soda
+󱁱 md bottle soda classic
+󱍣 md bottle soda classic outline
+󱁲 md bottle soda outline
+󱄮 md bottle tonic
+󱄯 md bottle tonic outline
+󱄰 md bottle tonic plus
+󱄱 md bottle tonic plus outline
+󱄲 md bottle tonic skull
+󱄳 md bottle tonic skull outline
+󰡔 md bottle wine
+󱌐 md bottle wine outline
+󱡁 md bow arrow
+󰙸 md bow tie
+󰊎 md bowl
+󰘗 md bowl mix
+󰋤 md bowl mix outline
+󰊩 md bowl outline
+󰃓 md bowling
+󰃔 md box
+󰃕 md box cutter
+󰭊 md box cutter off
+󰘷 md box shadow
+󰭥 md boxing glove
+󰧐 md braille
+󰧑 md brain
+󰳮 md bread slice
+󰳯 md bread slice outline
+󰘘 md bridge
+󰃖 md briefcase
+󰳰 md briefcase account
+󰳱 md briefcase account outline
+󱪍 md briefcase arrow left right
+󱪎 md briefcase arrow left right outline
+󱪏 md briefcase arrow up down
+󱪐 md briefcase arrow up down outline
+󰃗 md briefcase check
+󱌞 md briefcase check outline
+󱃐 md briefcase clock
+󱃑 md briefcase clock outline
+󰃘 md briefcase download
+󰰽 md briefcase download outline
+󰪘 md briefcase edit
+󰰾 md briefcase edit outline
+󱟙 md briefcase eye
+󱟚 md briefcase eye outline
+󰨪 md briefcase minus
+󰰿 md briefcase minus outline
+󱙘 md briefcase off
+󱙙 md briefcase off outline
+󰠔 md briefcase outline
+󰨫 md briefcase plus
+󰱀 md briefcase plus outline
+󰨬 md briefcase remove
+󰱁 md briefcase remove outline
+󰨭 md briefcase search
+󰱂 md briefcase search outline
+󰃙 md briefcase upload
+󰱃 md briefcase upload outline
+󱒔 md briefcase variant
+󱙚 md briefcase variant off
+󱙛 md briefcase variant off outline
+󱒕 md briefcase variant outline
+󰃚 md brightness 1
+󰃛 md brightness 2
+󰃜 md brightness 3
+󰃝 md brightness 4
+󰃞 md brightness 5
+󰃟 md brightness 6
+󰃠 md brightness 7
+󰃡 md brightness auto
+󰳲 md brightness percent
+󱜠 md broadcast
+󱜡 md broadcast off
+󰃢 md broom
+󰃣 md brush
+󱝱 md brush off
+󱨍 md brush outline
+󱠓 md brush variant
+󱐕 md bucket
+󱐖 md bucket outline
+󰕸 md buffet
+󰃤 md bug
+󰨮 md bug check
+󰨯 md bug check outline
+󰨰 md bug outline
+󰶴 md bugle
+󱨯 md bulkhead light
+󰬢 md bulldozer
+󰳳 md bullet
+󰃥 md bulletin board
+󰃦 md bullhorn
+󰬣 md bullhorn outline
+󱥮 md bullhorn variant
+󱥯 md bullhorn variant outline
+󰗝 md bullseye
+󰣉 md bullseye arrow
+󱋧 md bulma
+󱌂 md bunk bed
+󰂗 md bunk bed outline
+󰃧 md bus
+󰪙 md bus alert
+󰞜 md bus articulated end
+󰞝 md bus articulated front
+󰣊 md bus clock
+󰞞 md bus double decker
+󱤝 md bus electric
+󱈒 md bus marker
+󰼿 md bus multiple
+󰞟 md bus school
+󰞠 md bus side
+󱀒 md bus stop
+󱀓 md bus stop covered
+󱀔 md bus stop uncovered
+󱖉 md butterfly
+󱖊 md butterfly outline
+󱢌 md cabin a frame
+󱎔 md cable data
+󰃨 md cached
+󰶵 md cactus
+󰃩 md cake
+󰃪 md cake layered
+󰃫 md cake variant
+󱟰 md cake variant outline
+󰃬 md calculator
+󰪚 md calculator variant
+󱖦 md calculator variant outline
+󰃭 md calendar
+󰻗 md calendar account
+󰻘 md calendar account outline
+󰨱 md calendar alert
+󱄴 md calendar arrow left
+󱄵 md calendar arrow right
+󰃮 md calendar blank
+󱁳 md calendar blank multiple
+󰭦 md calendar blank outline
+󰃯 md calendar check
+󰱄 md calendar check outline
+󰃰 md calendar clock
+󱛡 md calendar clock outline
+󱢝 md calendar collapse horizontal
+󱕻 md calendar cursor
+󰢧 md calendar edit
+󱙬 md calendar end
+󱢞 md calendar expand horizontal
+󰬤 md calendar export
+󰧒 md calendar heart
+󰬥 md calendar import
+󱙁 md calendar lock
+󱙂 md calendar lock outline
+󰵜 md calendar minus
+󰸗 md calendar month
+󰸘 md calendar month outline
+󰃱 md calendar multiple
+󰃲 md calendar multiple check
+󰨲 md calendar multiselect
+󰭧 md calendar outline
+󰃳 md calendar plus
+󰚒 md calendar question
+󰙹 md calendar range
+󰭨 md calendar range outline
+󰇡 md calendar refresh
+󰈃 md calendar refresh outline
+󰃴 md calendar remove
+󰱅 md calendar remove outline
+󰥌 md calendar search
+󰧓 md calendar star
+󱙭 md calendar start
+󰺎 md calendar sync
+󰺏 md calendar sync outline
+󰃵 md calendar text
+󰱆 md calendar text outline
+󰃶 md calendar today
+󱨰 md calendar today outline
+󰨳 md calendar week
+󰨴 md calendar week begin
+󱨱 md calendar week begin outline
+󱨲 md calendar week end
+󱨳 md calendar week end outline
+󱨴 md calendar week outline
+󰻙 md calendar weekend
+󰻚 md calendar weekend outline
+󰃷 md call made
+󰃸 md call merge
+󰃹 md call missed
+󰃺 md call received
+󰃻 md call split
+󰃼 md camcorder
+󰃿 md camcorder off
+󰄀 md camera
+󰣋 md camera account
+󰚓 md camera burst
+󰭩 md camera control
+󱡱 md camera document
+󱡲 md camera document off
+󰄁 md camera enhance
+󰭪 md camera enhance outline
+󱗙 md camera flip
+󱗚 md camera flip outline
+󰄂 md camera front
+󰄃 md camera front variant
+󰞡 md camera gopro
+󰣌 md camera image
+󰄄 md camera iris
+󱨔 md camera lock
+󱨕 md camera lock outline
+󱦧 md camera marker
+󱦨 md camera marker outline
+󰞢 md camera metering center
+󰞣 md camera metering matrix
+󰞤 md camera metering partial
+󰞥 md camera metering spot
+󰗟 md camera off
+󱦿 md camera off outline
+󰵝 md camera outline
+󰄅 md camera party mode
+󰻛 md camera plus
+󰻜 md camera plus outline
+󰄆 md camera rear
+󰄇 md camera rear variant
+󰸙 md camera retake
+󰸚 md camera retake outline
+󰄈 md camera switch
+󰡊 md camera switch outline
+󰄉 md camera timer
+󰶶 md camera wireless
+󰶷 md camera wireless outline
+󰻝 md campfire
+󰜺 md cancel
+󱟒 md candelabra
+󱟓 md candelabra fire
+󰗢 md candle
+󱥰 md candy
+󱥱 md candy off
+󱥲 md candy off outline
+󱥳 md candy outline
+󰄊 md candycane
+󰞦 md cannabis
+󱙮 md cannabis off
+󰪛 md caps lock
+󰄋 md car
+󱀕 md car 2 plus
+󱀖 md car 3 plus
+󱎲 md car arrow left
+󱎳 md car arrow right
+󰸛 md car back
+󰄌 md car battery
+󰱇 md car brake abs
+󰱈 md car brake alert
+󱤉 md car brake fluid level
+󰵞 md car brake hold
+󱤊 md car brake low pressure
+󰵟 md car brake parking
+󱀗 md car brake retarder
+󱤋 md car brake temperature
+󱤌 md car brake worn linings
+󰾣 md car child seat
+󱥴 md car clock
+󱀘 md car clutch
+󱏌 md car cog
+󰄍 md car connected
+󰞧 md car convertible
+󱀙 md car coolant level
+󰵠 md car cruise control
+󰵡 md car defrost front
+󰵢 md car defrost rear
+󰭫 md car door
+󱂝 md car door lock
+󰭬 md car electric
+󱖵 md car electric outline
+󱘏 md car emergency
+󰱉 md car esp
+󰞨 md car estate
+󰞩 md car hatchback
+󱆾 md car info
+󰭭 md car key
+󱔭 md car lifted pickup
+󱤍 md car light alert
+󰱊 md car light dimmed
+󰱋 md car light fog
+󰱌 md car light high
+󰣍 md car limousine
+󰭮 md car multiple
+󰸜 md car off
+󱓭 md car outline
+󰵣 md car parking lights
+󰞪 md car pickup
+󰾤 md car seat
+󰾥 md car seat cooler
+󰾦 md car seat heater
+󱡹 md car select
+󱏍 md car settings
+󰽀 md car shift pattern
+󰞫 md car side
+󱤎 md car speed limiter
+󰞬 md car sports
+󰱍 md car tire alert
+󰵤 md car traction control
+󱀚 md car turbocharger
+󰄎 md car wash
+󱀛 md car windshield
+󱀜 md car windshield outline
+󱡸 md car wireless
+󱠔 md car wrench
+󱓀 md carabiner
+󰞭 md caravan
+󰭯 md card
+󰗒 md card account details
+󰶫 md card account details outline
+󰊣 md card account details star
+󰛛 md card account details star outline
+󰆎 md card account mail
+󰺘 md card account mail outline
+󰺙 md card account phone
+󰺚 md card account phone outline
+󰭰 md card bulleted
+󰭱 md card bulleted off
+󰭲 md card bulleted off outline
+󰭳 md card bulleted outline
+󰭴 md card bulleted settings
+󰭵 md card bulleted settings outline
+󱘀 md card minus
+󱘁 md card minus outline
+󱟱 md card multiple
+󱟲 md card multiple outline
+󱘂 md card off
+󱘃 md card off outline
+󰭶 md card outline
+󱇿 md card plus
+󱈀 md card plus outline
+󱘄 md card remove
+󱘅 md card remove outline
+󱁴 md card search
+󱁵 md card search outline
+󰭷 md card text
+󰭸 md card text outline
+󰘸 md cards
+󰣎 md cards club
+󱢟 md cards club outline
+󰣏 md cards diamond
+󱀝 md cards diamond outline
+󰘹 md cards outline
+󱢡 md cards playing
+󱢢 md cards playing club
+󱢣 md cards playing club multiple
+󱢤 md cards playing club multiple outline
+󱢥 md cards playing club outline
+󱢦 md cards playing diamond
+󱢧 md cards playing diamond multiple
+󱢨 md cards playing diamond multiple outline
+󱢩 md cards playing diamond outline
+󱢪 md cards playing heart
+󱢫 md cards playing heart multiple
+󱢬 md cards playing heart multiple outline
+󱢭 md cards playing heart outline
+󰘺 md cards playing outline
+󱢮 md cards playing spade
+󱢯 md cards playing spade multiple
+󱢰 md cards playing spade multiple outline
+󱢱 md cards playing spade outline
+󰣑 md cards spade
+󱢲 md cards spade outline
+󰛇 md cards variant
+󰄏 md carrot
+󰄐 md cart
+󰵦 md cart arrow down
+󰱎 md cart arrow right
+󰵧 md cart arrow up
+󱗪 md cart check
+󱣠 md cart heart
+󰵨 md cart minus
+󰙫 md cart off
+󰄑 md cart outline
+󰄒 md cart plus
+󰵩 md cart remove
+󱗫 md cart variant
+󰄓 md case sensitive alt
+󰄔 md cash
+󰄕 md cash 100
+󱓮 md cash check
+󱪑 md cash clock
+󱡜 md cash fast
+󱓪 md cash lock
+󱓫 md cash lock open
+󰶸 md cash marker
+󱉠 md cash minus
+󰄖 md cash multiple
+󱉡 md cash plus
+󰪜 md cash refund
+󰳴 md cash register
+󱉢 md cash remove
+󱪒 md cash sync
+󰧔 md cassette
+󰄘 md cast
+󱀞 md cast audio
+󱝉 md cast audio variant
+󰄙 md cast connected
+󰸝 md cast education
+󰞊 md cast off
+󰀟 md cast variant
+󰄚 md castle
+󰄛 md cat
+󰞮 md cctv
+󱡟 md cctv off
+󱞗 md ceiling fan
+󱞘 md ceiling fan light
+󰝩 md ceiling light
+󱣝 md ceiling light multiple
+󱣞 md ceiling light multiple outline
+󱟇 md ceiling light outline
+󰄜 md cellphone
+󰧕 md cellphone arrow down
+󱧅 md cellphone arrow down variant
+󰄞 md cellphone basic
+󱎗 md cellphone charging
+󱟽 md cellphone check
+󰥑 md cellphone cog
+󰄟 md cellphone dock
+󰽁 md cellphone information
+󰥎 md cellphone key
+󰄡 md cellphone link
+󰄢 md cellphone link off
+󰥏 md cellphone lock
+󱠺 md cellphone marker
+󰣓 md cellphone message
+󱃒 md cellphone message off
+󰺐 md cellphone nfc
+󱋘 md cellphone nfc off
+󰥐 md cellphone off
+󱀟 md cellphone play
+󰥍 md cellphone remove
+󰨵 md cellphone screenshot
+󰄣 md cellphone settings
+󰥒 md cellphone sound
+󰣒 md cellphone text
+󰠕 md cellphone wireless
+󱄚 md centos
+󰄤 md certificate
+󱆈 md certificate outline
+󰽈 md chair rolling
+󰄥 md chair school
+󱞓 md chandelier
+󰱏 md charity
+󰄦 md chart arc
+󰄧 md chart areaspline
+󰺑 md chart areaspline variant
+󰄨 md chart bar
+󰝪 md chart bar stacked
+󰱐 md chart bell curve
+󰾧 md chart bell curve cumulative
+󱕍 md chart box
+󱕎 md chart box outline
+󱕏 md chart box plus outline
+󰗣 md chart bubble
+󰞯 md chart donut
+󰞰 md chart donut variant
+󰙬 md chart gantt
+󰄩 md chart histogram
+󰄪 md chart line
+󰝫 md chart line stacked
+󰞱 md chart line variant
+󰣔 md chart multiline
+󱈓 md chart multiple
+󰄫 md chart pie
+󱎀 md chart ppf
+󱇟 md chart sankey
+󱇠 md chart sankey variant
+󰺒 md chart scatter plot
+󰙭 md chart scatter plot hexbin
+󰙮 md chart timeline
+󰺓 md chart timeline variant
+󱖶 md chart timeline variant shimmer
+󰺔 md chart tree
+󱤘 md chart waterfall
+󰭹 md chat
+󰭺 md chat alert
+󱋉 md chat alert outline
+󱐐 md chat minus
+󱐓 md chat minus outline
+󰻞 md chat outline
+󱐏 md chat plus
+󱐒 md chat plus outline
+󰭻 md chat processing
+󱋊 md chat processing outline
+󱜸 md chat question
+󱜹 md chat question outline
+󱐑 md chat remove
+󱐔 md chat remove outline
+󱋑 md chat sleep
+󱋒 md chat sleep outline
+󰄬 md check
+󰄭 md check all
+󰸞 md check bold
+󰗠 md check circle
+󰗡 md check circle outline
+󰞑 md check decagram
+󱝀 md check decagram outline
+󰱓 md check network
+󰱔 md check network outline
+󰡕 md check outline
+󰸟 md check underline
+󰸠 md check underline circle
+󰸡 md check underline circle outline
+󰪝 md checkbook
+󰄮 md checkbox blank
+󱅶 md checkbox blank badge
+󰄗 md checkbox blank badge outline
+󰝥 md checkbox blank circle
+󰝦 md checkbox blank circle outline
+󱋬 md checkbox blank off
+󱋭 md checkbox blank off outline
+󰄱 md checkbox blank outline
+󰡖 md checkbox intermediate
+󰄲 md checkbox marked
+󰄳 md checkbox marked circle
+󰄴 md checkbox marked circle outline
+󱤧 md checkbox marked circle plus outline
+󰄵 md checkbox marked outline
+󰄶 md checkbox multiple blank
+󰘻 md checkbox multiple blank circle
+󰘼 md checkbox multiple blank circle outline
+󰄷 md checkbox multiple blank outline
+󰄸 md checkbox multiple marked
+󰘽 md checkbox multiple marked circle
+󰘾 md checkbox multiple marked circle outline
+󰄹 md checkbox multiple marked outline
+󰱑 md checkbox multiple outline
+󰱒 md checkbox outline
+󰄺 md checkerboard
+󱈂 md checkerboard minus
+󱈁 md checkerboard plus
+󱈃 md checkerboard remove
+󱊹 md cheese
+󱏮 md cheese off
+󰭼 md chef hat
+󰄻 md chemical weapon
+󰡜 md chess bishop
+󰡗 md chess king
+󰡘 md chess knight
+󰡙 md chess pawn
+󰡚 md chess queen
+󰡛 md chess rook
+󰄼 md chevron double down
+󰄽 md chevron double left
+󰄾 md chevron double right
+󰄿 md chevron double up
+󰅀 md chevron down
+󰧖 md chevron down box
+󰧗 md chevron down box outline
+󰬦 md chevron down circle
+󰬧 md chevron down circle outline
+󰅁 md chevron left
+󰧘 md chevron left box
+󰧙 md chevron left box outline
+󰬨 md chevron left circle
+󰬩 md chevron left circle outline
+󰅂 md chevron right
+󰧚 md chevron right box
+󰧛 md chevron right box outline
+󰬪 md chevron right circle
+󰬫 md chevron right circle outline
+󰶹 md chevron triple down
+󰶺 md chevron triple left
+󰶻 md chevron triple right
+󰶼 md chevron triple up
+󰅃 md chevron up
+󰧜 md chevron up box
+󰧝 md chevron up box outline
+󰬬 md chevron up circle
+󰬭 md chevron up circle outline
+󱟪 md chili alert
+󱟫 md chili alert outline
+󰞲 md chili hot
+󱟬 md chili hot outline
+󰞳 md chili medium
+󱟭 md chili medium outline
+󰞴 md chili mild
+󱟮 md chili mild outline
+󱑧 md chili off
+󱟯 md chili off outline
+󰘚 md chip
+󰅄 md church
+󱆉 md cigar
+󱐛 md cigar off
+󱗜 md circle box
+󱗝 md circle box outline
+󰺕 md circle double
+󰣕 md circle edit outline
+󰺖 md circle expand
+󱎕 md circle half
+󱎖 md circle half full
+󰧞 md circle medium
+󰬸 md circle multiple
+󰚕 md circle multiple outline
+󱃓 md circle off outline
+󱡓 md circle opacity
+󰪞 md circle slice 1
+󰪟 md circle slice 2
+󰪠 md circle slice 3
+󰪡 md circle slice 4
+󰪢 md circle slice 5
+󰪣 md circle slice 6
+󰪤 md circle slice 7
+󰪥 md circle slice 8
+󰧟 md circle small
+󰸢 md circular saw
+󰅆 md city
+󰨶 md city variant
+󰨷 md city variant outline
+󰅇 md clipboard
+󰅈 md clipboard account
+󰱕 md clipboard account outline
+󰅉 md clipboard alert
+󰳷 md clipboard alert outline
+󰅊 md clipboard arrow down
+󰱖 md clipboard arrow down outline
+󰅋 md clipboard arrow left
+󰳸 md clipboard arrow left outline
+󰳹 md clipboard arrow right
+󰳺 md clipboard arrow right outline
+󰱗 md clipboard arrow up
+󰱘 md clipboard arrow up outline
+󰅎 md clipboard check
+󱉣 md clipboard check multiple
+󱉤 md clipboard check multiple outline
+󰢨 md clipboard check outline
+󱛢 md clipboard clock
+󱛣 md clipboard clock outline
+󱓥 md clipboard edit
+󱓦 md clipboard edit outline
+󱉥 md clipboard file
+󱉦 md clipboard file outline
+󰛈 md clipboard flow
+󱄗 md clipboard flow outline
+󱃔 md clipboard list
+󱃕 md clipboard list outline
+󱘘 md clipboard minus
+󱘙 md clipboard minus outline
+󱉧 md clipboard multiple
+󱉨 md clipboard multiple outline
+󱘚 md clipboard off
+󱘛 md clipboard off outline
+󰅌 md clipboard outline
+󰱙 md clipboard play
+󱉩 md clipboard play multiple
+󱉪 md clipboard play multiple outline
+󰱚 md clipboard play outline
+󰝑 md clipboard plus
+󱌟 md clipboard plus outline
+󰡝 md clipboard pulse
+󰡞 md clipboard pulse outline
+󱘜 md clipboard remove
+󱘝 md clipboard remove outline
+󱘞 md clipboard search
+󱘟 md clipboard search outline
+󰅍 md clipboard text
+󱣹 md clipboard text clock
+󱣺 md clipboard text clock outline
+󱉫 md clipboard text multiple
+󱉬 md clipboard text multiple outline
+󱘠 md clipboard text off
+󱘡 md clipboard text off outline
+󰨸 md clipboard text outline
+󰱛 md clipboard text play
+󰱜 md clipboard text play outline
+󱘢 md clipboard text search
+󱘣 md clipboard text search outline
+󰅏 md clippy
+󰥔 md clock
+󰥕 md clock alert
+󰗎 md clock alert outline
+󰾨 md clock check
+󰾩 md clock check outline
+󰺗 md clock digital
+󱦺 md clock edit
+󱦻 md clock edit outline
+󰅑 md clock end
+󰅒 md clock fast
+󰅓 md clock in
+󱡣 md clock minus
+󱡤 md clock minus outline
+󰅔 md clock out
+󰅐 md clock outline
+󱡡 md clock plus
+󱡢 md clock plus outline
+󱡥 md clock remove
+󱡦 md clock remove outline
+󰅕 md clock start
+󱑆 md clock time eight
+󱑒 md clock time eight outline
+󱑉 md clock time eleven
+󱑕 md clock time eleven outline
+󱑃 md clock time five
+󱑏 md clock time five outline
+󱑂 md clock time four
+󱑎 md clock time four outline
+󱑇 md clock time nine
+󱑓 md clock time nine outline
+󱐿 md clock time one
+󱑋 md clock time one outline
+󱑅 md clock time seven
+󱑑 md clock time seven outline
+󱑄 md clock time six
+󱑐 md clock time six outline
+󱑈 md clock time ten
+󱑔 md clock time ten outline
+󱑁 md clock time three
+󱑍 md clock time three outline
+󱑊 md clock time twelve
+󱑖 md clock time twelve outline
+󱑀 md clock time two
+󱑌 md clock time two outline
+󰅖 md close
+󰅗 md close box
+󰱝 md close box multiple
+󰱞 md close box multiple outline
+󰅘 md close box outline
+󰅙 md close circle
+󰘪 md close circle multiple
+󰢃 md close circle multiple outline
+󰅚 md close circle outline
+󰅛 md close network
+󰱟 md close network outline
+󰅜 md close octagon
+󰅝 md close octagon outline
+󰛉 md close outline
+󱎘 md close thick
+󰅞 md closed caption
+󰶽 md closed caption outline
+󰅟 md cloud
+󰧠 md cloud alert
+󰞵 md cloud braces
+󰅠 md cloud check
+󱋌 md cloud check outline
+󰅡 md cloud circle
+󰅢 md cloud download
+󰭽 md cloud download outline
+󱇱 md cloud lock
+󱇲 md cloud lock outline
+󰅤 md cloud off outline
+󰅣 md cloud outline
+󱨵 md cloud percent
+󱨶 md cloud percent outline
+󰅥 md cloud print
+󰅦 md cloud print outline
+󰨹 md cloud question
+󰔪 md cloud refresh
+󰥖 md cloud search
+󰥗 md cloud search outline
+󰘿 md cloud sync
+󱋖 md cloud sync outline
+󰞶 md cloud tags
+󰅧 md cloud upload
+󰭾 md cloud upload outline
+󰠖 md clover
+󱀠 md coach lamp
+󱨷 md coach lamp variant
+󱂞 md coat rack
+󰅨 md code array
+󰅩 md code braces
+󱃖 md code braces box
+󰅪 md code brackets
+󰅫 md code equal
+󰅬 md code greater than
+󰅭 md code greater than or equal
+󰘦 md code json
+󰅮 md code less than
+󰅯 md code less than or equal
+󰅰 md code not equal
+󰅱 md code not equal variant
+󰅲 md code parentheses
+󱃗 md code parentheses box
+󰅳 md code string
+󰅴 md code tags
+󰚔 md code tags check
+󰅵 md codepen
+󰅶 md coffee
+󱂟 md coffee maker
+󱤱 md coffee maker check
+󱤲 md coffee maker check outline
+󱠛 md coffee maker outline
+󰾪 md coffee off
+󰾫 md coffee off outline
+󰛊 md coffee outline
+󰅷 md coffee to go
+󱌎 md coffee to go outline
+󰭿 md coffin
+󰒓 md cog
+󰒔 md cog box
+󱇝 md cog clockwise
+󱇞 md cog counterclockwise
+󱏎 md cog off
+󱏏 md cog off outline
+󰢻 md cog outline
+󱤳 md cog pause
+󱤴 md cog pause outline
+󱤵 md cog play
+󱤶 md cog play outline
+󱑞 md cog refresh
+󱑟 md cog refresh outline
+󱤷 md cog stop
+󱤸 md cog stop outline
+󱑠 md cog sync
+󱑡 md cog sync outline
+󱁛 md cog transfer
+󱁜 md cog transfer outline
+󰣖 md cogs
+󰙀 md collage
+󰪦 md collapse all
+󰪧 md collapse all outline
+󰅹 md color helper
+󰸣 md comma
+󰸫 md comma box
+󰸤 md comma box outline
+󰸥 md comma circle
+󰸦 md comma circle outline
+󰅺 md comment
+󰅻 md comment account
+󰅼 md comment account outline
+󰅽 md comment alert
+󰅾 md comment alert outline
+󰧡 md comment arrow left
+󰧢 md comment arrow left outline
+󰧣 md comment arrow right
+󰧤 md comment arrow right outline
+󱖮 md comment bookmark
+󱖯 md comment bookmark outline
+󰅿 md comment check
+󰆀 md comment check outline
+󱆿 md comment edit
+󱋄 md comment edit outline
+󰨺 md comment eye
+󰨻 md comment eye outline
+󱖰 md comment flash
+󱖱 md comment flash outline
+󱗟 md comment minus
+󱗠 md comment minus outline
+󰡟 md comment multiple
+󰆁 md comment multiple outline
+󱗡 md comment off
+󱗢 md comment off outline
+󰆂 md comment outline
+󰧥 md comment plus
+󰆃 md comment plus outline
+󰆄 md comment processing
+󰆅 md comment processing outline
+󰠗 md comment question
+󰆆 md comment question outline
+󱀡 md comment quote
+󱀢 md comment quote outline
+󰗞 md comment remove
+󰆇 md comment remove outline
+󰨼 md comment search
+󰨽 md comment search outline
+󰆈 md comment text
+󰡠 md comment text multiple
+󰡡 md comment text multiple outline
+󰆉 md comment text outline
+󰆊 md compare
+󱒒 md compare horizontal
+󱢳 md compare remove
+󱒓 md compare vertical
+󰆋 md compass
+󰮀 md compass off
+󰮁 md compass off outline
+󰆌 md compass outline
+󱎂 md compass rose
+󱨸 md compost
+󱥌 md cone
+󱥍 md cone off
+󱘖 md connection
+󰆍 md console
+󰞷 md console line
+󰢩 md console network
+󰱠 md console network outline
+󱃘 md consolidate
+󰵪 md contactless payment
+󰌡 md contactless payment circle
+󰐈 md contactless payment circle outline
+󰛋 md contacts
+󰖸 md contacts outline
+󰨾 md contain
+󰨿 md contain end
+󰩀 md contain start
+󰆏 md content copy
+󰆐 md content cut
+󰆑 md content duplicate
+󰆒 md content paste
+󰆓 md content save
+󰽂 md content save alert
+󰽃 md content save alert outline
+󰆔 md content save all
+󰽄 md content save all outline
+󱣪 md content save check
+󱣫 md content save check outline
+󱑛 md content save cog
+󱑜 md content save cog outline
+󰳻 md content save edit
+󰳼 md content save edit outline
+󰸧 md content save move
+󰸨 md content save move outline
+󱙃 md content save off
+󱙄 md content save off outline
+󰠘 md content save outline
+󰘛 md content save settings
+󰬮 md content save settings outline
+󰆕 md contrast
+󰆖 md contrast box
+󰆗 md contrast circle
+󰮂 md controller classic
+󰮃 md controller classic outline
+󰆘 md cookie
+󱛐 md cookie alert
+󱛑 md cookie alert outline
+󱛒 md cookie check
+󱛓 md cookie check outline
+󱛤 md cookie clock
+󱛥 md cookie clock outline
+󱛔 md cookie cog
+󱛕 md cookie cog outline
+󱛦 md cookie edit
+󱛧 md cookie edit outline
+󱛨 md cookie lock
+󱛩 md cookie lock outline
+󱛚 md cookie minus
+󱛛 md cookie minus outline
+󱛪 md cookie off
+󱛫 md cookie off outline
+󱛞 md cookie outline
+󱛖 md cookie plus
+󱛗 md cookie plus outline
+󱛬 md cookie refresh
+󱛭 md cookie refresh outline
+󱛘 md cookie remove
+󱛙 md cookie remove outline
+󱛜 md cookie settings
+󱛝 md cookie settings outline
+󰏈 md coolant temperature
+󱤹 md copyleft
+󰗦 md copyright
+󰥘 md cordova
+󰞸 md corn
+󱏯 md corn off
+󱑹 md cosine wave
+󰆙 md counter
+󱠜 md countertop
+󱠝 md countertop outline
+󰆚 md cow
+󱣼 md cow off
+󰻟 md cpu 32 bit
+󰻠 md cpu 64 bit
+󱦋 md cradle
+󱦑 md cradle outline
+󰡢 md crane
+󰙴 md creation
+󰵫 md creative commons
+󰿯 md credit card
+󱏐 md credit card check
+󱏑 md credit card check outline
+󱤏 md credit card chip
+󱤐 md credit card chip outline
+󰻡 md credit card clock
+󰻢 md credit card clock outline
+󱟗 md credit card edit
+󱟘 md credit card edit outline
+󱤑 md credit card fast
+󱤒 md credit card fast outline
+󱣧 md credit card lock
+󱣨 md credit card lock outline
+󰚨 md credit card marker
+󰶾 md credit card marker outline
+󰾬 md credit card minus
+󰾭 md credit card minus outline
+󰿰 md credit card multiple
+󰆜 md credit card multiple outline
+󰿱 md credit card off
+󰗤 md credit card off outline
+󰆛 md credit card outline
+󰿲 md credit card plus
+󰙶 md credit card plus outline
+󱙅 md credit card refresh
+󱙆 md credit card refresh outline
+󰿳 md credit card refund
+󰪨 md credit card refund outline
+󰾮 md credit card remove
+󰾯 md credit card remove outline
+󰿴 md credit card scan
+󰆝 md credit card scan outline
+󱙇 md credit card search
+󱙈 md credit card search outline
+󰿵 md credit card settings
+󰣗 md credit card settings outline
+󱙉 md credit card sync
+󱙊 md credit card sync outline
+󰠂 md credit card wireless
+󰕺 md credit card wireless off
+󰕻 md credit card wireless off outline
+󰵬 md credit card wireless outline
+󰵭 md cricket
+󰆞 md crop
+󰆟 md crop free
+󰆠 md crop landscape
+󰆡 md crop portrait
+󰚖 md crop rotate
+󰆢 md crop square
+󰥓 md cross
+󰳭 md cross bolnisi
+󰳵 md cross celtic
+󰳶 md cross outline
+󰆣 md crosshairs
+󰆤 md crosshairs gps
+󰽅 md crosshairs off
+󱄶 md crosshairs question
+󱥵 md crowd
+󰆥 md crown
+󱟜 md crown circle
+󱟝 md crown circle outline
+󱇐 md crown outline
+󰥙 md cryengine
+󰬯 md crystal ball
+󰆦 md cube
+󱐜 md cube off
+󱐝 md cube off outline
+󰆧 md cube outline
+󰮄 md cube scan
+󰆨 md cube send
+󰆩 md cube unfolded
+󰆪 md cup
+󰗥 md cup off
+󱍽 md cup off outline
+󱌏 md cup outline
+󰆫 md cup water
+󰽆 md cupboard
+󰽇 md cupboard outline
+󰥚 md cupcake
+󰡣 md curling
+󰡤 md currency bdt
+󰮅 md currency brl
+󰆬 md currency btc
+󰞺 md currency cny
+󰞻 md currency eth
+󰆭 md currency eur
+󱌕 md currency eur off
+󱨹 md currency fra
+󰆮 md currency gbp
+󰱡 md currency ils
+󰆯 md currency inr
+󰞼 md currency jpy
+󰞽 md currency krw
+󰡥 md currency kzt
+󱔒 md currency mnt
+󰆰 md currency ngn
+󰧦 md currency php
+󰺜 md currency rial
+󰆱 md currency rub
+󱥶 md currency rupee
+󰞾 md currency sign
+󰆲 md currency try
+󰞿 md currency twd
+󰇁 md currency usd
+󰙺 md currency usd off
+󱒀 md current ac
+󰥜 md current dc
+󰇀 md cursor default
+󰳽 md cursor default click
+󰳾 md cursor default click outline
+󱄧 md cursor default gesture
+󱄨 md cursor default gesture outline
+󰆿 md cursor default outline
+󰆾 md cursor move
+󰆽 md cursor pointer
+󰗧 md cursor text
+󱡆 md curtains
+󱡇 md curtains closed
+󱥎 md cylinder
+󱥏 md cylinder off
+󱗻 md dance ballroom
+󱕸 md dance pole
+󱔼 md data matrix
+󱔽 md data matrix edit
+󱔾 md data matrix minus
+󱔿 md data matrix plus
+󱕀 md data matrix remove
+󱕁 md data matrix scan
+󰆼 md database
+󱘺 md database alert
+󱘤 md database alert outline
+󱘻 md database arrow down
+󱘥 md database arrow down outline
+󱘼 md database arrow left
+󱘦 md database arrow left outline
+󱘽 md database arrow right
+󱘧 md database arrow right outline
+󱘾 md database arrow up
+󱘨 md database arrow up outline
+󰪩 md database check
+󱘩 md database check outline
+󱘿 md database clock
+󱘪 md database clock outline
+󱙋 md database cog
+󱙌 md database cog outline
+󰮆 md database edit
+󱘫 md database edit outline
+󰥞 md database export
+󱘬 md database export outline
+󱤟 md database eye
+󱤠 md database eye off
+󱤡 md database eye off outline
+󱤢 md database eye outline
+󰥝 md database import
+󱘭 md database import outline
+󰪪 md database lock
+󱘮 md database lock outline
+󱋶 md database marker
+󱘯 md database marker outline
+󰆻 md database minus
+󱘰 md database minus outline
+󱙀 md database off
+󱘱 md database off outline
+󱘲 md database outline
+󰆺 md database plus
+󱘳 md database plus outline
+󰗂 md database refresh
+󱘴 md database refresh outline
+󰴀 md database remove
+󱘵 md database remove outline
+󰡦 md database search
+󱘶 md database search outline
+󰴁 md database settings
+󱘷 md database settings outline
+󰳿 md database sync
+󱘸 md database sync outline
+󰣘 md death star
+󰣙 md death star variant
+󰮇 md deathly hallows
+󰣚 md debian
+󰆹 md debug step into
+󰆸 md debug step out
+󰆷 md debug step over
+󰝬 md decagram
+󰝭 md decagram outline
+󱂡 md decimal
+󱂢 md decimal comma
+󱂣 md decimal comma decrease
+󱂤 md decimal comma increase
+󰆶 md decimal decrease
+󰆵 md decimal increase
+󰆴 md delete
+󱂥 md delete alert
+󱂦 md delete alert outline
+󰚃 md delete circle
+󰮈 md delete circle outline
+󱕖 md delete clock
+󱕗 md delete clock outline
+󰛌 md delete empty
+󰺝 md delete empty outline
+󰗨 md delete forever
+󰮉 md delete forever outline
+󱂧 md delete off
+󱂨 md delete off outline
+󰧧 md delete outline
+󰠙 md delete restore
+󰗩 md delete sweep
+󰱢 md delete sweep outline
+󰆳 md delete variant
+󰇂 md delta
+󱈹 md desk
+󰥟 md desk lamp
+󰇃 md deskphone
+󰟀 md desktop classic
+󰇄 md desktop mac
+󰧨 md desktop mac dashboard
+󰇅 md desktop tower
+󰪫 md desktop tower monitor
+󰇆 md details
+󰵮 md dev to
+󰚗 md developer board
+󰇇 md deviantart
+󰾰 md devices
+󰥋 md dharmachakra
+󱄦 md diabetes
+󰘜 md dialpad
+󰱣 md diameter
+󰱤 md diameter outline
+󰱥 md diameter variant
+󰮊 md diamond
+󰮋 md diamond outline
+󰇈 md diamond stone
+󰇊 md dice 1
+󱅊 md dice 1 outline
+󰇋 md dice 2
+󱅋 md dice 2 outline
+󰇌 md dice 3
+󱅌 md dice 3 outline
+󰇍 md dice 4
+󱅍 md dice 4 outline
+󰇎 md dice 5
+󱅎 md dice 5 outline
+󰇏 md dice 6
+󱅏 md dice 6 outline
+󱅓 md dice d10
+󰝯 md dice d10 outline
+󱅔 md dice d12
+󰡧 md dice d12 outline
+󱅕 md dice d20
+󰗪 md dice d20 outline
+󱅐 md dice d4
+󰗫 md dice d4 outline
+󱅑 md dice d6
+󰗭 md dice d6 outline
+󱅒 md dice d8
+󰗬 md dice d8 outline
+󰝮 md dice multiple
+󱅖 md dice multiple outline
+󱈷 md digital ocean
+󰟁 md dip switch
+󰇐 md directions
+󰙁 md directions fork
+󰗮 md disc
+󰇑 md disc alert
+󰥠 md disc player
+󰙯 md discord
+󰪬 md dishwasher
+󱆸 md dishwasher alert
+󱆹 md dishwasher off
+󰇒 md disqus
+󱇉 md distribute horizontal center
+󱇈 md distribute horizontal left
+󱇊 md distribute horizontal right
+󱇋 md distribute vertical bottom
+󱇌 md distribute vertical center
+󱇍 md distribute vertical top
+󱡷 md diversify
+󱥷 md diving
+󰶿 md diving flippers
+󰷀 md diving helmet
+󰷁 md diving scuba
+󰷂 md diving scuba flag
+󰷃 md diving scuba tank
+󰷄 md diving scuba tank multiple
+󰷅 md diving snorkel
+󰇔 md division
+󰇕 md division box
+󰩁 md dlna
+󰚄 md dna
+󰇖 md dns
+󰮌 md dns outline
+󱂩 md dock bottom
+󱂪 md dock left
+󱂫 md dock right
+󱔓 md dock top
+󱂬 md dock window
+󰡨 md docker
+󰩂 md doctor
+󰩃 md dog
+󰪭 md dog service
+󰩄 md dog side
+󱛮 md dog side off
+󰚳 md dolby
+󰺞 md dolly
+󱢴 md dolphin
+󰇗 md domain
+󰵯 md domain off
+󱂭 md domain plus
+󱂮 md domain remove
+󱐞 md dome light
+󱀣 md domino mask
+󰟂 md donkey
+󰠚 md door
+󰠛 md door closed
+󱂯 md door closed lock
+󰠜 md door open
+󱠞 md door sliding
+󱠟 md door sliding lock
+󱠠 md door sliding open
+󱋦 md doorbell
+󰡩 md doorbell video
+󰪮 md dot net
+󱥸 md dots circle
+󱗼 md dots grid
+󱗿 md dots hexagon
+󰇘 md dots horizontal
+󰟃 md dots horizontal circle
+󰮍 md dots horizontal circle outline
+󱗽 md dots square
+󱗾 md dots triangle
+󰇙 md dots vertical
+󰟄 md dots vertical circle
+󰮎 md dots vertical circle outline
+󰇚 md download
+󱑢 md download box
+󱑣 md download box outline
+󱑤 md download circle
+󱑥 md download circle outline
+󱌠 md download lock
+󱌡 md download lock outline
+󰧩 md download multiple
+󰛴 md download network
+󰱦 md download network outline
+󱂰 md download off
+󱂱 md download off outline
+󰮏 md download outline
+󰇛 md drag
+󰇜 md drag horizontal
+󱋰 md drag horizontal variant
+󰮐 md drag variant
+󰇝 md drag vertical
+󱋱 md drag vertical variant
+󰴂 md drama masks
+󰽉 md draw
+󱦹 md draw pen
+󰇞 md drawing
+󰇟 md drawing box
+󰽊 md dresser
+󰽋 md dresser outline
+󰇢 md drone
+󰇣 md dropbox
+󰇤 md drupal
+󰇥 md duck
+󰇦 md dumbbell
+󰱧 md dump truck
+󰟅 md ear hearing
+󱫮 md ear hearing loop
+󰩅 md ear hearing off
+󱡏 md earbuds
+󱡐 md earbuds off
+󱡑 md earbuds off outline
+󱡒 md earbuds outline
+󰇧 md earth
+󱌑 md earth arrow right
+󰛍 md earth box
+󱐇 md earth box minus
+󰛎 md earth box off
+󱐆 md earth box plus
+󱐈 md earth box remove
+󱐄 md earth minus
+󰇨 md earth off
+󱐃 md earth plus
+󱐅 md earth remove
+󰪯 md egg
+󰪰 md egg easter
+󱡊 md egg fried
+󱏰 md egg off
+󱏱 md egg off outline
+󱏲 md egg outline
+󱕫 md eiffel tower
+󰧪 md eight track
+󰇪 md eject
+󰮑 md eject outline
+󰺟 md electric switch
+󱃙 md electric switch closed
+󱀤 md electron framework
+󰟆 md elephant
+󰇫 md elevation decline
+󰇬 md elevation rise
+󰇭 md elevator
+󱋂 md elevator down
+󱎁 md elevator passenger
+󱥹 md elevator passenger off
+󱥺 md elevator passenger off outline
+󱥻 md elevator passenger outline
+󱋁 md elevator up
+󰺠 md ellipse
+󰺡 md ellipse outline
+󰇮 md email
+󰛏 md email alert
+󰵂 md email alert outline
+󰴃 md email box
+󰪱 md email check
+󰪲 md email check outline
+󰻣 md email edit
+󰻤 md email edit outline
+󱡯 md email fast
+󱡰 md email fast outline
+󰇱 md email lock
+󰮒 md email mark as unread
+󰻥 md email minus
+󰻦 md email minus outline
+󰻧 md email multiple
+󰻨 md email multiple outline
+󰾱 md email newsletter
+󱏣 md email off
+󱏤 md email off outline
+󰇯 md email open
+󰻩 md email open multiple
+󰻪 md email open multiple outline
+󰗯 md email open outline
+󰇰 md email outline
+󰧫 md email plus
+󰧬 md email plus outline
+󱃚 md email receive
+󱃛 md email receive outline
+󱙡 md email remove
+󱙢 md email remove outline
+󱥛 md email seal
+󱥜 md email seal outline
+󰥡 md email search
+󰥢 md email search outline
+󱃜 md email send
+󱃝 md email send outline
+󱋇 md email sync
+󱋈 md email sync outline
+󰗰 md email variant
+󰬰 md ember
+󰚴 md emby
+󰱨 md emoticon
+󰱩 md emoticon angry
+󰱪 md emoticon angry outline
+󱃞 md emoticon confused
+󱃟 md emoticon confused outline
+󰱫 md emoticon cool
+󰇳 md emoticon cool outline
+󰱬 md emoticon cry
+󰱭 md emoticon cry outline
+󰱮 md emoticon dead
+󰚛 md emoticon dead outline
+󰱯 md emoticon devil
+󰇴 md emoticon devil outline
+󰱰 md emoticon excited
+󰚜 md emoticon excited outline
+󰽌 md emoticon frown
+󰽍 md emoticon frown outline
+󰱱 md emoticon happy
+󰇵 md emoticon happy outline
+󰱲 md emoticon kiss
+󰱳 md emoticon kiss outline
+󱈔 md emoticon lol
+󱈕 md emoticon lol outline
+󰱴 md emoticon neutral
+󰇶 md emoticon neutral outline
+󰇲 md emoticon outline
+󰇷 md emoticon poop
+󰱵 md emoticon poop outline
+󰱶 md emoticon sad
+󰇸 md emoticon sad outline
+󱕼 md emoticon sick
+󱕽 md emoticon sick outline
+󰇹 md emoticon tongue
+󰱷 md emoticon tongue outline
+󰱸 md emoticon wink
+󰱹 md emoticon wink outline
+󰇺 md engine
+󰩆 md engine off
+󰩇 md engine off outline
+󰇻 md engine outline
+󱃠 md epsilon
+󰇼 md equal
+󰇽 md equal box
+󰺢 md equalizer
+󰺣 md equalizer outline
+󰇾 md eraser
+󰙂 md eraser variant
+󰇿 md escalator
+󱎙 md escalator box
+󱋀 md escalator down
+󱊿 md escalator up
+󰱺 md eslint
+󰪳 md et
+󰡪 md ethereum
+󰈀 md ethernet
+󰈁 md ethernet cable
+󰈂 md ethernet cable off
+󱔙 md ev plug ccs1
+󱔚 md ev plug ccs2
+󱔛 md ev plug chademo
+󱔜 md ev plug tesla
+󱔝 md ev plug type1
+󱔞 md ev plug type2
+󰗱 md ev station
+󰈄 md evernote
+󱀥 md excavator
+󰈅 md exclamation
+󱈸 md exclamation thick
+󰩈 md exit run
+󰗼 md exit to app
+󰪴 md expand all
+󰪵 md expand all outline
+󰢮 md expansion card
+󰾲 md expansion card variant
+󰥣 md exponent
+󰥤 md exponent box
+󰈇 md export
+󰮓 md export variant
+󰈈 md eye
+󱣽 md eye arrow left
+󱣾 md eye arrow left outline
+󱣿 md eye arrow right
+󱤀 md eye arrow right outline
+󰴄 md eye check
+󰴅 md eye check outline
+󰮔 md eye circle
+󰮕 md eye circle outline
+󱀦 md eye minus
+󱀧 md eye minus outline
+󰈉 md eye off
+󰛑 md eye off outline
+󰛐 md eye outline
+󰡫 md eye plus
+󰡬 md eye plus outline
+󱥼 md eye refresh
+󱥽 md eye refresh outline
+󱗣 md eye remove
+󱗤 md eye remove outline
+󰡭 md eye settings
+󰡮 md eye settings outline
+󰈊 md eyedropper
+󱏝 md eyedropper minus
+󱏟 md eyedropper off
+󱏜 md eyedropper plus
+󱏞 md eyedropper remove
+󰈋 md eyedropper variant
+󰵰 md face agent
+󰙃 md face man
+󰮖 md face man outline
+󰙄 md face man profile
+󱗌 md face man shimmer
+󱗍 md face man shimmer outline
+󱖆 md face mask
+󱖇 md face mask outline
+󰱻 md face recognition
+󱁷 md face woman
+󱁸 md face woman outline
+󱁶 md face woman profile
+󱗎 md face woman shimmer
+󱗏 md face woman shimmer outline
+󰈌 md facebook
+󰟝 md facebook gaming
+󰈎 md facebook messenger
+󰬱 md facebook workplace
+󰈏 md factory
+󱘎 md family tree
+󰈐 md fan
+󱑬 md fan alert
+󱜝 md fan auto
+󱑭 md fan chevron down
+󱑮 md fan chevron up
+󱨺 md fan clock
+󱑰 md fan minus
+󰠝 md fan off
+󱑯 md fan plus
+󱑱 md fan remove
+󱑲 md fan speed 1
+󱑳 md fan speed 2
+󱑴 md fan speed 3
+󰈑 md fast forward
+󰵱 md fast forward 10
+󱤺 md fast forward 15
+󰴆 md fast forward 30
+󱇸 md fast forward 5
+󱘋 md fast forward 60
+󰛒 md fast forward outline
+󰈒 md fax
+󰛓 md feather
+󰩉 md feature search
+󰩊 md feature search outline
+󰣛 md fedora
+󱞚 md fence
+󱟶 md fence electric
+󱓁 md fencing
+󰺤 md ferris wheel
+󰈓 md ferry
+󰈔 md file
+󰜻 md file account
+󱀨 md file account outline
+󰩋 md file alert
+󰩌 md file alert outline
+󱪓 md file arrow left right
+󱪔 md file arrow left right outline
+󱪕 md file arrow up down
+󱪖 md file arrow up down outline
+󰪶 md file cabinet
+󰻫 md file cad
+󰻬 md file cad box
+󰷆 md file cancel
+󰷇 md file cancel outline
+󱆆 md file certificate
+󱆇 md file certificate outline
+󰈕 md file chart
+󱧆 md file chart check
+󱧇 md file chart check outline
+󱀩 md file chart outline
+󰈖 md file check
+󰸩 md file check outline
+󱋡 md file clock
+󱋢 md file clock outline
+󰈗 md file cloud
+󱀪 md file cloud outline
+󰈮 md file code
+󱀫 md file code outline
+󱁻 md file cog
+󱁼 md file cog outline
+󰢪 md file compare
+󰈘 md file delimited
+󰺥 md file delimited outline
+󰈙 md file document
+󱪗 md file document alert
+󱪘 md file document alert outline
+󱪙 md file document check
+󱪚 md file document check outline
+󰷈 md file document edit
+󰷉 md file document edit outline
+󱪛 md file document minus
+󱪜 md file document minus outline
+󱔗 md file document multiple
+󱔘 md file document multiple outline
+󰧮 md file document outline
+󱪝 md file document plus
+󱪞 md file document plus outline
+󱪟 md file document remove
+󱪠 md file document remove outline
+󰥥 md file download
+󰥦 md file download outline
+󱇧 md file edit
+󱇨 md file edit outline
+󰈛 md file excel
+󰈜 md file excel box
+󱀬 md file excel box outline
+󱀭 md file excel outline
+󰈝 md file export
+󱀮 md file export outline
+󰷊 md file eye
+󰷋 md file eye outline
+󰈞 md file find
+󰮗 md file find outline
+󰵸 md file gif box
+󰘓 md file hidden
+󰈟 md file image
+󱝲 md file image marker
+󱝳 md file image marker outline
+󱤻 md file image minus
+󱤼 md file image minus outline
+󰺰 md file image outline
+󱤽 md file image plus
+󱤾 md file image plus outline
+󱤿 md file image remove
+󱥀 md file image remove outline
+󰈠 md file import
+󱀯 md file import outline
+󰈥 md file jpg box
+󱆄 md file key
+󱆅 md file key outline
+󱅷 md file link
+󱅸 md file link outline
+󰈡 md file lock
+󱧈 md file lock open
+󱧉 md file lock open outline
+󱀰 md file lock outline
+󱝴 md file marker
+󱝵 md file marker outline
+󱪡 md file minus
+󱪢 md file minus outline
+󰪹 md file move
+󱀱 md file move outline
+󰈢 md file multiple
+󱀲 md file multiple outline
+󰈣 md file music
+󰸪 md file music outline
+󰈤 md file outline
+󰈦 md file pdf box
+󰠞 md file percent
+󱀳 md file percent outline
+󱅹 md file phone
+󱅺 md file phone outline
+󰝒 md file plus
+󰻭 md file plus outline
+󰸭 md file png box
+󰈧 md file powerpoint
+󰈨 md file powerpoint box
+󱀴 md file powerpoint box outline
+󱀵 md file powerpoint outline
+󰈩 md file presentation box
+󰡯 md file question
+󱀶 md file question outline
+󰤘 md file refresh
+󰕁 md file refresh outline
+󰮘 md file remove
+󱀷 md file remove outline
+󰬲 md file replace
+󰬳 md file replace outline
+󰙰 md file restore
+󱀸 md file restore outline
+󱨻 md file rotate left
+󱨼 md file rotate left outline
+󱨽 md file rotate right
+󱨾 md file rotate right outline
+󰱼 md file search
+󰱽 md file search outline
+󰈪 md file send
+󱀹 md file send outline
+󱁹 md file settings
+󱁺 md file settings outline
+󱧃 md file sign
+󱀺 md file star
+󱀻 md file star outline
+󰾴 md file swap
+󰾵 md file swap outline
+󱈖 md file sync
+󱈗 md file sync outline
+󰱾 md file table
+󱃡 md file table box
+󱃢 md file table box multiple
+󱃣 md file table box multiple outline
+󱃤 md file table box outline
+󰱿 md file table outline
+󰙅 md file tree
+󱏒 md file tree outline
+󰣜 md file undo
+󱀼 md file undo outline
+󰩍 md file upload
+󰩎 md file upload outline
+󰈫 md file video
+󰸬 md file video outline
+󰈬 md file word
+󰈭 md file word box
+󱀽 md file word box outline
+󱀾 md file word outline
+󰈯 md film
+󰈰 md filmstrip
+󰌲 md filmstrip box
+󰴘 md filmstrip box multiple
+󰈱 md filmstrip off
+󰈲 md filter
+󱣬 md filter check
+󱣭 md filter check outline
+󱪣 md filter cog
+󱪤 md filter cog outline
+󱃥 md filter menu
+󱃦 md filter menu outline
+󰻮 md filter minus
+󰻯 md filter minus outline
+󱨿 md filter multiple
+󱩀 md filter multiple outline
+󱓯 md filter off
+󱓰 md filter off outline
+󰈳 md filter outline
+󰻰 md filter plus
+󰻱 md filter plus outline
+󰈴 md filter remove
+󰈵 md filter remove outline
+󱪥 md filter settings
+󱪦 md filter settings outline
+󰈶 md filter variant
+󱄒 md filter variant minus
+󱄓 md filter variant plus
+󱀿 md filter variant remove
+󰠟 md finance
+󰛔 md find replace
+󰈷 md fingerprint
+󰺱 md fingerprint off
+󰈸 md fire
+󱗗 md fire alert
+󱠇 md fire circle
+󰻲 md fire extinguisher
+󱄷 md fire hydrant
+󱄸 md fire hydrant alert
+󱄹 md fire hydrant off
+󱜢 md fire off
+󰢫 md fire truck
+󰥧 md firebase
+󰈹 md firefox
+󰸮 md fireplace
+󰸯 md fireplace off
+󰖾 md firewire
+󰸰 md firework
+󱜣 md firework off
+󰈺 md fish
+󱏳 md fish off
+󰻳 md fishbowl
+󰻴 md fishbowl outline
+󰻵 md fit to page
+󰻶 md fit to page outline
+󱣴 md fit to screen
+󱣵 md fit to screen outline
+󰈻 md flag
+󰈼 md flag checkered
+󰮙 md flag minus
+󱂲 md flag minus outline
+󱣮 md flag off
+󱣯 md flag off outline
+󰈽 md flag outline
+󰮚 md flag plus
+󱂳 md flag plus outline
+󰮛 md flag remove
+󱂴 md flag remove outline
+󰈿 md flag triangle
+󰉀 md flag variant
+󰈾 md flag variant outline
+󰵲 md flare
+󰉁 md flash
+󰻷 md flash alert
+󰻸 md flash alert outline
+󰉂 md flash auto
+󰉃 md flash off
+󰛕 md flash outline
+󰙻 md flash red eye
+󰉄 md flashlight
+󰉅 md flashlight off
+󰂓 md flask
+󰂔 md flask empty
+󱈺 md flask empty minus
+󱈻 md flask empty minus outline
+󱏴 md flask empty off
+󱏵 md flask empty off outline
+󰂕 md flask empty outline
+󱈼 md flask empty plus
+󱈽 md flask empty plus outline
+󱈾 md flask empty remove
+󱈿 md flask empty remove outline
+󱉀 md flask minus
+󱉁 md flask minus outline
+󱏶 md flask off
+󱏷 md flask off outline
+󰂖 md flask outline
+󱉂 md flask plus
+󱉃 md flask plus outline
+󱉄 md flask remove
+󱉅 md flask remove outline
+󱉋 md flask round bottom
+󱉌 md flask round bottom empty
+󱉍 md flask round bottom empty outline
+󱉎 md flask round bottom outline
+󱌃 md fleur de lis
+󱃧 md flip horizontal
+󰉇 md flip to back
+󰉈 md flip to front
+󱃨 md flip vertical
+󰣝 md floor lamp
+󱁀 md floor lamp dual
+󱟎 md floor lamp dual outline
+󱟈 md floor lamp outline
+󱝇 md floor lamp torchiere
+󱟖 md floor lamp torchiere outline
+󱁁 md floor lamp torchiere variant
+󱟏 md floor lamp torchiere variant outline
+󰠡 md floor plan
+󰉉 md floppy
+󰧯 md floppy variant
+󰉊 md flower
+󰧰 md flower outline
+󱢅 md flower pollen
+󱢆 md flower pollen outline
+󰴈 md flower poppy
+󰧱 md flower tulip
+󰧲 md flower tulip outline
+󰽎 md focus auto
+󰽏 md focus field
+󰽐 md focus field horizontal
+󰽑 md focus field vertical
+󰉋 md folder
+󰉌 md folder account
+󰮜 md folder account outline
+󰷌 md folder alert
+󰷍 md folder alert outline
+󱧨 md folder arrow down
+󱧩 md folder arrow down outline
+󱧪 md folder arrow left
+󱧫 md folder arrow left outline
+󱧬 md folder arrow left right
+󱧭 md folder arrow left right outline
+󱧮 md folder arrow right
+󱧯 md folder arrow right outline
+󱧰 md folder arrow up
+󱧱 md folder arrow up down
+󱧲 md folder arrow up down outline
+󱧳 md folder arrow up outline
+󱧴 md folder cancel
+󱧵 md folder cancel outline
+󱥾 md folder check
+󱥿 md folder check outline
+󰪺 md folder clock
+󰪻 md folder clock outline
+󱁿 md folder cog
+󱂀 md folder cog outline
+󰉍 md folder download
+󱃩 md folder download outline
+󰣞 md folder edit
+󰷎 md folder edit outline
+󱞊 md folder eye
+󱞋 md folder eye outline
+󱧶 md folder file
+󱧷 md folder file outline
+󰉎 md folder google drive
+󱃪 md folder heart
+󱃫 md folder heart outline
+󱞞 md folder hidden
+󱂵 md folder home
+󱂶 md folder home outline
+󰉏 md folder image
+󱂷 md folder information
+󱂸 md folder information outline
+󰢬 md folder key
+󰢭 md folder key network
+󰲀 md folder key network outline
+󱃬 md folder key outline
+󰉐 md folder lock
+󰉑 md folder lock open
+󱪧 md folder lock open outline
+󱪨 md folder lock outline
+󱉭 md folder marker
+󱉮 md folder marker outline
+󰉒 md folder move
+󱉆 md folder move outline
+󰉓 md folder multiple
+󰉔 md folder multiple image
+󰉕 md folder multiple outline
+󱑾 md folder multiple plus
+󱑿 md folder multiple plus outline
+󱍙 md folder music
+󱍚 md folder music outline
+󰡰 md folder network
+󰲁 md folder network outline
+󱧸 md folder off
+󱧹 md folder off outline
+󰝰 md folder open
+󰷏 md folder open outline
+󰉖 md folder outline
+󱧺 md folder play
+󱧻 md folder play outline
+󰉗 md folder plus
+󰮝 md folder plus outline
+󰴉 md folder pound
+󰴊 md folder pound outline
+󱧊 md folder question
+󱧋 md folder question outline
+󰝉 md folder refresh
+󰕂 md folder refresh outline
+󰉘 md folder remove
+󰮞 md folder remove outline
+󰥨 md folder search
+󰥩 md folder search outline
+󱁽 md folder settings
+󱁾 md folder settings outline
+󰚝 md folder star
+󱏓 md folder star multiple
+󱏔 md folder star multiple outline
+󰮟 md folder star outline
+󰾶 md folder swap
+󰾷 md folder swap outline
+󰴋 md folder sync
+󰴌 md folder sync outline
+󱋣 md folder table
+󱋤 md folder table outline
+󰲂 md folder text
+󰲃 md folder text outline
+󰉙 md folder upload
+󱃭 md folder upload outline
+󱧼 md folder wrench
+󱧽 md folder wrench outline
+󰛫 md folder zip
+󰞹 md folder zip outline
+󰀺 md font awesome
+󰉚 md food
+󰉛 md food apple
+󰲄 md food apple outline
+󰟈 md food croissant
+󱐟 md food drumstick
+󱑨 md food drumstick off
+󱑩 md food drumstick off outline
+󱐠 md food drumstick outline
+󰗲 md food fork drink
+󱕲 md food halal
+󱡋 md food hot dog
+󱕳 md food kosher
+󰗳 md food off
+󱤕 md food off outline
+󱤖 md food outline
+󱑪 md food steak
+󱑫 md food steak off
+󱠶 md food takeout box
+󱠷 md food takeout box outline
+󱜜 md food turkey
+󰉜 md food variant
+󱏥 md food variant off
+󰽒 md foot print
+󰉝 md football
+󰉞 md football australian
+󰉟 md football helmet
+󱢗 md forest
+󰟉 md forklift
+󱐀 md form dropdown
+󱐁 md form select
+󱂕 md form textarea
+󰘎 md form textbox
+󱍝 md form textbox lock
+󰟵 md form textbox password
+󰝓 md format align bottom
+󰉠 md format align center
+󰉡 md format align justify
+󰉢 md format align left
+󰝔 md format align middle
+󰉣 md format align right
+󰝕 md format align top
+󰪼 md format annotation minus
+󰙆 md format annotation plus
+󰉤 md format bold
+󰉥 md format clear
+󰉦 md format color fill
+󰸱 md format color highlight
+󱌓 md format color marker cancel
+󰚞 md format color text
+󰣟 md format columns
+󰉧 md format float center
+󰉨 md format float left
+󰉩 md format float none
+󰉪 md format float right
+󰛖 md format font
+󰧳 md format font size decrease
+󰧴 md format font size increase
+󰉫 md format header 1
+󰉬 md format header 2
+󰉭 md format header 3
+󰉮 md format header 4
+󰉯 md format header 5
+󰉰 md format header 6
+󰉱 md format header decrease
+󰉲 md format header equal
+󰉳 md format header increase
+󰉴 md format header pound
+󰘞 md format horizontal align center
+󰘟 md format horizontal align left
+󰘠 md format horizontal align right
+󰉵 md format indent decrease
+󰉶 md format indent increase
+󰉷 md format italic
+󰬴 md format letter case
+󰬵 md format letter case lower
+󰬶 md format letter case upper
+󰾸 md format letter ends with
+󰾹 md format letter matches
+󱥖 md format letter spacing
+󰾺 md format letter starts with
+󰉸 md format line spacing
+󰗈 md format line style
+󰗉 md format line weight
+󰉹 md format list bulleted
+󰷐 md format list bulleted square
+󰺲 md format list bulleted triangle
+󰉺 md format list bulleted type
+󰥪 md format list checkbox
+󰝖 md format list checks
+󱡠 md format list group
+󰉻 md format list numbered
+󰴍 md format list numbered rtl
+󱉯 md format list text
+󰺳 md format overline
+󰛗 md format page break
+󱤗 md format page split
+󰉼 md format paint
+󰉽 md format paragraph
+󰛘 md format pilcrow
+󰉾 md format quote close
+󱆨 md format quote close outline
+󰝗 md format quote open
+󱆧 md format quote open outline
+󰚪 md format rotate 90
+󰚟 md format section
+󰉿 md format size
+󰊀 md format strikethrough
+󰊁 md format strikethrough variant
+󰊂 md format subscript
+󰊃 md format superscript
+󰊄 md format text
+󰾻 md format text rotation angle down
+󰾼 md format text rotation angle up
+󰵳 md format text rotation down
+󰾽 md format text rotation down vertical
+󰵴 md format text rotation none
+󰾾 md format text rotation up
+󰾿 md format text rotation vertical
+󰸲 md format text variant
+󱔏 md format text variant outline
+󰴎 md format text wrapping clip
+󰴏 md format text wrapping overflow
+󰴐 md format text wrapping wrap
+󰴑 md format textbox
+󰊅 md format textdirection l to r
+󰊆 md format textdirection r to l
+󰗴 md format title
+󰊇 md format underline
+󱣩 md format underline wavy
+󰘡 md format vertical align bottom
+󰘢 md format vertical align center
+󰘣 md format vertical align top
+󰊈 md format wrap inline
+󰊉 md format wrap square
+󰊊 md format wrap tight
+󰊋 md format wrap top bottom
+󰊌 md forum
+󱪩 md forum minus
+󱪪 md forum minus outline
+󰠢 md forum outline
+󱪫 md forum plus
+󱪬 md forum plus outline
+󱪭 md forum remove
+󱪮 md forum remove outline
+󰊍 md forward
+󰵵 md forwardburger
+󰥫 md fountain
+󰴒 md fountain pen
+󰴓 md fountain pen tip
+󱦒 md fraction one half
+󰣠 md freebsd
+󱥗 md french fries
+󰺴 md frequently asked questions
+󰊐 md fridge
+󱆱 md fridge alert
+󱆲 md fridge alert outline
+󰊒 md fridge bottom
+󱗮 md fridge industrial
+󱗯 md fridge industrial alert
+󱗰 md fridge industrial alert outline
+󱗱 md fridge industrial off
+󱗲 md fridge industrial off outline
+󱗳 md fridge industrial outline
+󱆯 md fridge off
+󱆰 md fridge off outline
+󰊏 md fridge outline
+󰊑 md fridge top
+󱗴 md fridge variant
+󱗵 md fridge variant alert
+󱗶 md fridge variant alert outline
+󱗷 md fridge variant off
+󱗸 md fridge variant off outline
+󱗹 md fridge variant outline
+󱁂 md fruit cherries
+󱏸 md fruit cherries off
+󱁃 md fruit citrus
+󱏹 md fruit citrus off
+󱁄 md fruit grapes
+󱁅 md fruit grapes outline
+󱨎 md fruit pear
+󱁆 md fruit pineapple
+󱁇 md fruit watermelon
+󰟊 md fuel
+󱢵 md fuel cell
+󰊓 md fullscreen
+󰊔 md fullscreen exit
+󰊕 md function
+󰡱 md function variant
+󱂁 md furigana horizontal
+󱂂 md furigana vertical
+󰲅 md fuse
+󱐭 md fuse alert
+󰲆 md fuse blade
+󱐬 md fuse off
+󰊖 md gamepad
+󰸳 md gamepad circle
+󰸴 md gamepad circle down
+󰸵 md gamepad circle left
+󰸶 md gamepad circle outline
+󰸷 md gamepad circle right
+󰸸 md gamepad circle up
+󰸹 md gamepad down
+󰸺 md gamepad left
+󱤙 md gamepad outline
+󰸻 md gamepad right
+󰸼 md gamepad round
+󰸽 md gamepad round down
+󰸾 md gamepad round left
+󰸿 md gamepad round outline
+󰹀 md gamepad round right
+󰹁 md gamepad round up
+󰺵 md gamepad square
+󰺶 md gamepad square outline
+󰹂 md gamepad up
+󰊗 md gamepad variant
+󰺷 md gamepad variant outline
+󱃮 md gamma
+󰷑 md gantry crane
+󰛙 md garage
+󰡲 md garage alert
+󱋕 md garage alert variant
+󱟻 md garage lock
+󰛚 md garage open
+󱋔 md garage open variant
+󱋓 md garage variant
+󱟼 md garage variant lock
+󱨛 md gas burner
+󰙇 md gas cylinder
+󰊘 md gas station
+󱐉 md gas station off
+󱐊 md gas station off outline
+󰺸 md gas station outline
+󰊙 md gate
+󱟸 md gate alert
+󰣡 md gate and
+󱟷 md gate arrow left
+󱅩 md gate arrow right
+󰣢 md gate nand
+󰣣 md gate nor
+󰣤 md gate not
+󱅪 md gate open
+󰣥 md gate or
+󰣦 md gate xnor
+󰣧 md gate xor
+󰹃 md gatsby
+󰊚 md gauge
+󰡳 md gauge empty
+󰡴 md gauge full
+󰡵 md gauge low
+󰊛 md gavel
+󰊜 md gender female
+󰊝 md gender male
+󰊞 md gender male female
+󱄿 md gender male female variant
+󱅀 md gender non binary
+󰊟 md gender transgender
+󰣨 md gentoo
+󰟋 md gesture
+󰜼 md gesture double tap
+󰪽 md gesture pinch
+󰪾 md gesture spread
+󰵶 md gesture swipe
+󰜽 md gesture swipe down
+󰪿 md gesture swipe horizontal
+󰜾 md gesture swipe left
+󰜿 md gesture swipe right
+󰝀 md gesture swipe up
+󰫀 md gesture swipe vertical
+󰝁 md gesture tap
+󱊩 md gesture tap box
+󱊨 md gesture tap button
+󰵷 md gesture tap hold
+󰝂 md gesture two double tap
+󰝃 md gesture two tap
+󰊠 md ghost
+󰧵 md ghost off
+󱙜 md ghost off outline
+󱙝 md ghost outline
+󰹄 md gift
+󱛯 md gift off
+󱛰 md gift off outline
+󱛱 md gift open
+󱛲 md gift open outline
+󰊡 md gift outline
+󰊢 md git
+󰊤 md github
+󰮠 md gitlab
+󰍖 md glass cocktail
+󱗦 md glass cocktail off
+󰊥 md glass flute
+󱡳 md glass fragile
+󰊦 md glass mug
+󱗧 md glass mug off
+󱄖 md glass mug variant
+󱗨 md glass mug variant off
+󱌍 md glass pint outline
+󰊧 md glass stange
+󰊨 md glass tulip
+󰡶 md glass wine
+󰊪 md glasses
+󱋗 md globe light
+󰣩 md globe model
+󰊫 md gmail
+󰊬 md gnome
+󰵹 md go kart
+󰵺 md go kart track
+󰮡 md gog
+󱉏 md gold
+󰠣 md golf
+󱆤 md golf cart
+󱂃 md golf tee
+󰚆 md gondola
+󰵻 md goodreads
+󰊭 md google
+󰲇 md google ads
+󰟌 md google analytics
+󰟍 md google assistant
+󰊮 md google cardboard
+󰊯 md google chrome
+󰊰 md google circles
+󰊱 md google circles communities
+󰊲 md google circles extended
+󰊳 md google circles group
+󰋀 md google classroom
+󱇶 md google cloud
+󰊴 md google controller
+󰊵 md google controller off
+󱍢 md google downasaur
+󰊶 md google drive
+󰊷 md google earth
+󰥬 md google fit
+󰊸 md google glass
+󰋉 md google hangouts
+󰠤 md google home
+󰛜 md google keep
+󰧶 md google lens
+󰗵 md google maps
+󱁈 md google my business
+󰊹 md google nearby
+󰊼 md google play
+󰊽 md google plus
+󰺹 md google podcast
+󰧷 md google spreadsheet
+󰲈 md google street view
+󰊿 md google translate
+󱝊 md gradient horizontal
+󰚠 md gradient vertical
+󰵼 md grain
+󱁉 md graph
+󱁊 md graph outline
+󰡷 md graphql
+󱔐 md grass
+󰮢 md grave stone
+󰙈 md grease pencil
+󰥭 md greater than
+󰥮 md greater than or equal
+󰀭 md greenhouse
+󰋁 md grid
+󰝘 md grid large
+󰋂 md grid off
+󰹅 md grill
+󱆊 md grill outline
+󰋃 md group
+󰝱 md guitar acoustic
+󰋄 md guitar electric
+󰋅 md guitar pick
+󰋆 md guitar pick outline
+󰠥 md guy fawkes mask
+󱩁 md gymnastics
+󰫁 md hail
+󱃯 md hair dryer
+󱃰 md hair dryer outline
+󰮣 md halloween
+󰚅 md hamburger
+󱝶 md hamburger check
+󱝷 md hamburger minus
+󱝸 md hamburger off
+󱝹 md hamburger plus
+󱝺 md hamburger remove
+󰣪 md hammer
+󱌢 md hammer screwdriver
+󱢇 md hammer sickle
+󱌣 md hammer wrench
+󰹆 md hand back left
+󱠰 md hand back left off
+󱠲 md hand back left off outline
+󱠬 md hand back left outline
+󰹇 md hand back right
+󱠱 md hand back right off
+󱠳 md hand back right off outline
+󱠭 md hand back right outline
+󱥋 md hand clap
+󱩂 md hand clap off
+󱢏 md hand coin
+󱢐 md hand coin outline
+󱢶 md hand extended
+󱢷 md hand extended outline
+󱠫 md hand front left
+󱠮 md hand front left outline
+󰩏 md hand front right
+󱠯 md hand front right outline
+󱃱 md hand heart
+󱕾 md hand heart outline
+󰩐 md hand okay
+󰩑 md hand peace
+󰩒 md hand peace variant
+󰩓 md hand pointing down
+󰩔 md hand pointing left
+󰋇 md hand pointing right
+󰩕 md hand pointing up
+󰹈 md hand saw
+󱕿 md hand wash
+󱖀 md hand wash outline
+󱎟 md hand water
+󱠡 md hand wave
+󱠢 md hand wave outline
+󰽓 md handball
+󱄾 md handcuffs
+󰕹 md hands pray
+󱈘 md handshake
+󱖡 md handshake outline
+󰋈 md hanger
+󰥯 md hard hat
+󰋊 md harddisk
+󱁋 md harddisk plus
+󱁌 md harddisk remove
+󰮤 md hat fedora
+󰲉 md hazard lights
+󰵽 md hdr
+󰵾 md hdr off
+󱍞 md head
+󱌸 md head alert
+󱌹 md head alert outline
+󱌺 md head check
+󱌻 md head check outline
+󱌼 md head cog
+󱌽 md head cog outline
+󱌾 md head dots horizontal
+󱌿 md head dots horizontal outline
+󱍀 md head flash
+󱍁 md head flash outline
+󱍂 md head heart
+󱍃 md head heart outline
+󱍄 md head lightbulb
+󱍅 md head lightbulb outline
+󱍆 md head minus
+󱍇 md head minus outline
+󱍟 md head outline
+󱍈 md head plus
+󱍉 md head plus outline
+󱍊 md head question
+󱍋 md head question outline
+󱍌 md head remove
+󱍍 md head remove outline
+󱍎 md head snowflake
+󱍏 md head snowflake outline
+󱍐 md head sync
+󱍑 md head sync outline
+󰋋 md headphones
+󰥰 md headphones bluetooth
+󰋌 md headphones box
+󰟎 md headphones off
+󰋍 md headphones settings
+󰋎 md headset
+󰋏 md headset dock
+󰋐 md headset off
+󰣐 md heart
+󰋒 md heart box
+󰋓 md heart box outline
+󰋔 md heart broken
+󰴔 md heart broken outline
+󰥱 md heart circle
+󰥲 md heart circle outline
+󱙣 md heart cog
+󱙤 md heart cog outline
+󰻹 md heart flash
+󰛟 md heart half
+󰛞 md heart half full
+󰛠 md heart half outline
+󱐯 md heart minus
+󱐲 md heart minus outline
+󰩖 md heart multiple
+󰩗 md heart multiple outline
+󰝙 md heart off
+󱐴 md heart off outline
+󱢠 md heart outline
+󱐮 md heart plus
+󱐱 md heart plus outline
+󰗶 md heart pulse
+󱐰 md heart remove
+󱐳 md heart remove outline
+󱙥 md heart settings
+󱙦 md heart settings outline
+󱩃 md heat pump
+󱩄 md heat pump outline
+󱩅 md heat wave
+󱪯 md heating coil
+󰫂 md helicopter
+󰋖 md help
+󰞋 md help box
+󰋗 md help circle
+󰘥 md help circle outline
+󰛵 md help network
+󰲊 md help network outline
+󰮥 md help rhombus
+󰮦 md help rhombus outline
+󱊧 md hexadecimal
+󰋘 md hexagon
+󰛡 md hexagon multiple
+󱃲 md hexagon multiple outline
+󰋙 md hexagon outline
+󰫃 md hexagon slice 1
+󰫄 md hexagon slice 2
+󰫅 md hexagon slice 3
+󰫆 md hexagon slice 4
+󰫇 md hexagon slice 5
+󰫈 md hexagon slice 6
+󰫉 md hexagram
+󰫊 md hexagram outline
+󰟏 md high definition
+󰡸 md high definition box
+󰗷 md highway
+󰵿 md hiking
+󰋚 md history
+󰡹 md hockey puck
+󰡺 md hockey sticks
+󰋛 md hololens
+󰋜 md home
+󰠦 md home account
+󰡻 md home alert
+󱗐 md home alert outline
+󰺺 md home analytics
+󰟐 md home assistant
+󰟑 md home automation
+󱤁 md home battery
+󱤂 md home battery outline
+󰟒 md home circle
+󱁍 md home circle outline
+󰴕 md home city
+󰴖 md home city outline
+󱨒 md home clock
+󱨓 md home clock outline
+󱅙 md home edit
+󱅚 md home edit outline
+󰾛 md home export outline
+󰻺 md home flood
+󰷒 md home floor 0
+󰶀 md home floor 1
+󰶁 md home floor 2
+󰶂 md home floor 3
+󰶃 md home floor a
+󰶄 md home floor b
+󰶅 md home floor g
+󰶆 md home floor l
+󰷓 md home floor negative 1
+󰷔 md home group
+󱧁 md home group minus
+󱧀 md home group plus
+󱧂 md home group remove
+󰠧 md home heart
+󰾜 md home import outline
+󱉑 md home lightbulb
+󱉒 md home lightbulb outline
+󱤃 md home lightning bolt
+󱤄 md home lightning bolt outline
+󰣫 md home lock
+󰣬 md home lock open
+󰗸 md home map marker
+󰥴 md home minus
+󱏕 md home minus outline
+󰋝 md home modern
+󱩆 md home off
+󱩇 md home off outline
+󰚡 md home outline
+󰥵 md home plus
+󱏖 md home plus outline
+󱉇 md home remove
+󱏗 md home remove outline
+󱄫 md home roof
+󱎰 md home search
+󱎱 md home search outline
+󱞔 md home switch
+󱞕 md home switch outline
+󰽔 md home thermometer
+󰽕 md home thermometer outline
+󰋞 md home variant
+󰮧 md home variant outline
+󰛢 md hook
+󰛣 md hook off
+󰹖 md hoop house
+󰋟 md hops
+󱃳 md horizontal rotate clockwise
+󱃴 md horizontal rotate counterclockwise
+󱖿 md horse
+󱗀 md horse human
+󱗁 md horse variant
+󱡮 md horse variant fast
+󰩘 md horseshoe
+󰿶 md hospital
+󰋠 md hospital box
+󰿷 md hospital box outline
+󰋡 md hospital building
+󰋢 md hospital marker
+󰠨 md hot tub
+󱑸 md hours 24
+󰴗 md hubspot
+󰠩 md hulu
+󰋦 md human
+󱎋 md human baby changing table
+󱖁 md human cane
+󱖛 md human capacity decrease
+󱖜 md human capacity increase
+󰋧 md human child
+󱦀 md human dolly
+󱓨 md human edit
+󰙉 md human female
+󰩙 md human female boy
+󱗉 md human female dance
+󰩚 md human female female
+󰩛 md human female girl
+󱟄 md human greeting
+󱖝 md human greeting proximity
+󰙊 md human greeting variant
+󰙋 md human handsdown
+󰙌 md human handsup
+󰙍 md human male
+󰢐 md human male board
+󰡆 md human male board poll
+󰩜 md human male boy
+󱎌 md human male child
+󰋨 md human male female
+󱠣 md human male female child
+󰩝 md human male girl
+󰻻 md human male height
+󰻼 md human male height variant
+󰩞 md human male male
+󱡈 md human non binary
+󰗏 md human pregnant
+󱕱 md human queue
+󱇩 md human scooter
+󱎍 md human wheelchair
+󱦁 md human white cane
+󰝄 md humble bundle
+󱍒 md hvac
+󱖞 md hvac off
+󱌤 md hydraulic oil level
+󱌥 md hydraulic oil temperature
+󱋥 md hydro power
+󱢔 md hydrogen station
+󰠪 md ice cream
+󰹒 md ice cream off
+󰻽 md ice pop
+󰿀 md id card
+󰻾 md identifier
+󱌱 md ideogram cjk
+󱌲 md ideogram cjk variant
+󰋩 md image
+󰋪 md image album
+󰋫 md image area
+󰋬 md image area close
+󰿁 md image auto adjust
+󰋭 md image broken
+󰋮 md image broken variant
+󱇣 md image edit
+󱇤 md image edit outline
+󰋰 md image filter black white
+󰋱 md image filter center focus
+󰻿 md image filter center focus strong
+󰼀 md image filter center focus strong outline
+󰋲 md image filter center focus weak
+󰋳 md image filter drama
+󰋴 md image filter frames
+󰔉 md image filter hdr
+󰋶 md image filter none
+󰋷 md image filter tilt shift
+󰋸 md image filter vintage
+󰹉 md image frame
+󱪰 md image lock
+󱪱 md image lock outline
+󱝻 md image marker
+󱝼 md image marker outline
+󱐙 md image minus
+󰧸 md image move
+󰋹 md image multiple
+󰋯 md image multiple outline
+󰠫 md image off
+󱇑 md image off outline
+󰥶 md image outline
+󰡼 md image plus
+󱧾 md image refresh
+󱧿 md image refresh outline
+󱐘 md image remove
+󰥷 md image search
+󰥸 md image search outline
+󰲍 md image size select actual
+󰲎 md image size select large
+󰲏 md image size select small
+󱨀 md image sync
+󱨁 md image sync outline
+󱘍 md image text
+󰋺 md import
+󰚇 md inbox
+󰋻 md inbox arrow down
+󱉰 md inbox arrow down outline
+󰏑 md inbox arrow up
+󱉱 md inbox arrow up outline
+󱉲 md inbox full
+󱉳 md inbox full outline
+󰢰 md inbox multiple
+󰮨 md inbox multiple outline
+󱉴 md inbox outline
+󱖟 md inbox remove
+󱖠 md inbox remove outline
+󰗹 md incognito
+󱐡 md incognito circle
+󱐢 md incognito circle off
+󰁵 md incognito off
+󱡌 md induction
+󰛤 md infinity
+󰋼 md information
+󱞌 md information off
+󱞍 md information off outline
+󰋽 md information outline
+󰙎 md information variant
+󰋾 md instagram
+󱁎 md instrument triangle
+󱤓 md integrated circuit chip
+󰌁 md invert colors
+󰹊 md invert colors off
+󱋨 md iobroker
+󰩟 md ip
+󰩠 md ip network
+󰲐 md ip network outline
+󱦂 md ip outline
+󰲑 md ipod
+󱠤 md iron
+󱠸 md iron board
+󱠥 md iron outline
+󱁏 md island
+󱂹 md iv bag
+󰷕 md jabber
+󰌂 md jeepney
+󰼁 md jellyfish
+󰼂 md jellyfish outline
+󰌃 md jira
+󰡽 md jquery
+󰌄 md jsfiddle
+󱋿 md jump rope
+󰶇 md kabaddi
+󱕘 md kangaroo
+󰠬 md karate
+󰢯 md kayaking
+󰌅 md keg
+󰗺 md kettle
+󱌗 md kettle alert
+󱌘 md kettle alert outline
+󱌛 md kettle off
+󱌜 md kettle off outline
+󰽖 md kettle outline
+󱜼 md kettle pour over
+󱌙 md kettle steam
+󱌚 md kettle steam outline
+󱌀 md kettlebell
+󰌆 md key
+󱦃 md key alert
+󱦄 md key alert outline
+󱌒 md key arrow right
+󱕴 md key chain
+󱕵 md key chain variant
+󰌇 md key change
+󱆟 md key link
+󰌈 md key minus
+󰷖 md key outline
+󰌉 md key plus
+󰌊 md key remove
+󱆞 md key star
+󰌋 md key variant
+󰿂 md key wireless
+󰌌 md keyboard
+󰌍 md keyboard backspace
+󰌎 md keyboard caps
+󰌏 md keyboard close
+󱊷 md keyboard esc
+󱊫 md keyboard f1
+󱊴 md keyboard f10
+󱊵 md keyboard f11
+󱊶 md keyboard f12
+󱊬 md keyboard f2
+󱊭 md keyboard f3
+󱊮 md keyboard f4
+󱊯 md keyboard f5
+󱊰 md keyboard f6
+󱊱 md keyboard f7
+󱊲 md keyboard f8
+󱊳 md keyboard f9
+󰌐 md keyboard off
+󰹋 md keyboard off outline
+󰥻 md keyboard outline
+󰌑 md keyboard return
+󰧹 md keyboard settings
+󰧺 md keyboard settings outline
+󱁐 md keyboard space
+󰌒 md keyboard tab
+󰌥 md keyboard tab reverse
+󰌓 md keyboard variant
+󱃽 md khanda
+󰝅 md kickstarter
+󱦅 md kite
+󱦆 md kite outline
+󱝄 md kitesurfing
+󱍛 md klingon
+󰧻 md knife
+󰧼 md knife military
+󱜿 md koala
+󰌔 md kodi
+󱃾 md kubernetes
+󰌕 md label
+󱍵 md label multiple
+󱍶 md label multiple outline
+󰫋 md label off
+󰫌 md label off outline
+󰌖 md label outline
+󱋪 md label percent
+󱋫 md label percent outline
+󰫍 md label variant
+󰫎 md label variant outline
+󱖢 md ladder
+󰠭 md ladybug
+󰘧 md lambda
+󰚵 md lamp
+󱟐 md lamp outline
+󱕶 md lamps
+󱟑 md lamps outline
+󰌗 md lan
+󱊪 md lan check
+󰌘 md lan connect
+󰌙 md lan disconnect
+󰌚 md lan pending
+󱪲 md land fields
+󱪳 md land plots
+󱪴 md land plots circle
+󱪵 md land plots circle variant
+󱪶 md land rows horizontal
+󱪷 md land rows vertical
+󱩈 md landslide
+󱩉 md landslide outline
+󰙱 md language c
+󰙲 md language cpp
+󰌛 md language csharp
+󰌜 md language css3
+󱈚 md language fortran
+󰟓 md language go
+󰲒 md language haskell
+󰌝 md language html5
+󰬷 md language java
+󰌞 md language javascript
+󱈙 md language kotlin
+󰢱 md language lua
+󰍔 md language markdown
+󰽛 md language markdown outline
+󰌟 md language php
+󰌠 md language python
+󰟔 md language r
+󰴭 md language ruby
+󰫏 md language ruby on rails
+󱘗 md language rust
+󰛥 md language swift
+󰛦 md language typescript
+󰙳 md language xaml
+󰌢 md laptop
+󱩊 md laptop account
+󰛧 md laptop off
+󰫐 md laravel
+󱒄 md laser pointer
+󰼃 md lasso
+󰑆 md lastpass
+󰽗 md latitude
+󰌧 md launch
+󰟕 md lava lamp
+󰌨 md layers
+󱢒 md layers edit
+󰹌 md layers minus
+󰌩 md layers off
+󰧽 md layers off outline
+󰧾 md layers outline
+󰹍 md layers plus
+󰹎 md layers remove
+󱈆 md layers search
+󱈇 md layers search outline
+󰽘 md layers triple
+󰽙 md layers triple outline
+󰙏 md lead pencil
+󰌪 md leaf
+󱤅 md leaf circle
+󱤆 md leaf circle outline
+󰲓 md leaf maple
+󱋚 md leaf maple off
+󱋙 md leaf off
+󰷗 md leak
+󰷘 md leak off
+󱫰 md lecturn
+󰌫 md led off
+󰌬 md led on
+󰌭 md led outline
+󰟖 md led strip
+󱁑 md led strip variant
+󱩋 md led strip variant off
+󰌮 md led variant off
+󰌯 md led variant on
+󰌰 md led variant outline
+󱅽 md leek
+󰥼 md less than
+󰥽 md less than or equal
+󰌱 md library
+󱨢 md library outline
+󰮩 md library shelves
+󰿃 md license
+󰡾 md lifebuoy
+󱦇 md light flood down
+󱦈 md light flood up
+󱞛 md light recessed
+󰥾 md light switch
+󱨤 md light switch off
+󰌵 md lightbulb
+󱧡 md lightbulb alert
+󱧢 md lightbulb alert outline
+󱠀 md lightbulb auto
+󱠁 md lightbulb auto outline
+󱈈 md lightbulb cfl
+󱈉 md lightbulb cfl off
+󱉵 md lightbulb cfl spiral
+󱋃 md lightbulb cfl spiral off
+󱠄 md lightbulb fluorescent tube
+󱠅 md lightbulb fluorescent tube outline
+󱉓 md lightbulb group
+󱋍 md lightbulb group off
+󱋎 md lightbulb group off outline
+󱉔 md lightbulb group outline
+󱉕 md lightbulb multiple
+󱋏 md lightbulb multiple off
+󱋐 md lightbulb multiple off outline
+󱉖 md lightbulb multiple outline
+󱩌 md lightbulb night
+󱩍 md lightbulb night outline
+󰹏 md lightbulb off
+󰹐 md lightbulb off outline
+󰛨 md lightbulb on
+󱩎 md lightbulb on 10
+󱩏 md lightbulb on 20
+󱩐 md lightbulb on 30
+󱩑 md lightbulb on 40
+󱩒 md lightbulb on 50
+󱩓 md lightbulb on 60
+󱩔 md lightbulb on 70
+󱩕 md lightbulb on 80
+󱩖 md lightbulb on 90
+󰛩 md lightbulb on outline
+󰌶 md lightbulb outline
+󱧣 md lightbulb question
+󱧤 md lightbulb question outline
+󱟴 md lightbulb spot
+󱟵 md lightbulb spot off
+󱠂 md lightbulb variant
+󱠃 md lightbulb variant outline
+󰧿 md lighthouse
+󰨀 md lighthouse on
+󱐋 md lightning bolt
+󰠠 md lightning bolt circle
+󱐌 md lightning bolt outline
+󰘤 md line scan
+󱑶 md lingerie
+󰌷 md link
+󰴚 md link box
+󰴛 md link box outline
+󰴜 md link box variant
+󰴝 md link box variant outline
+󱂺 md link lock
+󰌸 md link off
+󰲔 md link plus
+󰌹 md link variant
+󱃿 md link variant minus
+󰌺 md link variant off
+󱄀 md link variant plus
+󱄁 md link variant remove
+󰌻 md linkedin
+󰌽 md linux
+󰣭 md linux mint
+󱎵 md lipstick
+󱠦 md liquid spot
+󱤞 md liquor
+󱖫 md list status
+󰩡 md litecoin
+󰝲 md loading
+󰿄 md location enter
+󰿅 md location exit
+󰌾 md lock
+󰣮 md lock alert
+󱗑 md lock alert outline
+󱎚 md lock check
+󱚨 md lock check outline
+󰥿 md lock clock
+󱚩 md lock minus
+󱚪 md lock minus outline
+󱙱 md lock off
+󱙲 md lock off outline
+󰌿 md lock open
+󱎛 md lock open alert
+󱗒 md lock open alert outline
+󱎜 md lock open check
+󱚫 md lock open check outline
+󱚬 md lock open minus
+󱚭 md lock open minus outline
+󰍀 md lock open outline
+󱚮 md lock open plus
+󱚯 md lock open plus outline
+󱚰 md lock open remove
+󱚱 md lock open remove outline
+󰿆 md lock open variant
+󰿇 md lock open variant outline
+󰍁 md lock outline
+󰛪 md lock pattern
+󰗻 md lock plus
+󱚲 md lock plus outline
+󰣯 md lock question
+󱚳 md lock remove
+󱚴 md lock remove outline
+󰝳 md lock reset
+󰢲 md lock smart
+󰟗 md locker
+󰟘 md locker multiple
+󰍂 md login
+󰍃 md logout
+󰗽 md logout variant
+󰽚 md longitude
+󰍄 md looks
+󱖂 md lotion
+󱖃 md lotion outline
+󱖄 md lotion plus
+󱖅 md lotion plus outline
+󰍅 md loupe
+󰍆 md lumx
+󱂄 md lungs
+󱡃 md mace
+󰌤 md magazine pistol
+󰌣 md magazine rifle
+󱡄 md magic staff
+󰍇 md magnet
+󰍈 md magnet on
+󰍉 md magnify
+󰦀 md magnify close
+󱡴 md magnify expand
+󰍊 md magnify minus
+󰩢 md magnify minus cursor
+󰛬 md magnify minus outline
+󰍋 md magnify plus
+󰩣 md magnify plus cursor
+󰛭 md magnify plus outline
+󱈌 md magnify remove cursor
+󱈍 md magnify remove outline
+󱉶 md magnify scan
+󰺻 md mail
+󰛮 md mailbox
+󰶈 md mailbox open
+󰶉 md mailbox open outline
+󰶊 md mailbox open up
+󰶋 md mailbox open up outline
+󰶌 md mailbox outline
+󰶍 md mailbox up
+󰶎 md mailbox up outline
+󱘊 md manjaro
+󰍍 md map
+󰺼 md map check
+󰺽 md map check outline
+󰴞 md map clock
+󰴟 md map clock outline
+󰨁 md map legend
+󰍎 md map marker
+󱣣 md map marker account
+󱣤 md map marker account outline
+󰼅 md map marker alert
+󰼆 md map marker alert outline
+󰲕 md map marker check
+󱋻 md map marker check outline
+󰍏 md map marker circle
+󰣰 md map marker distance
+󱄂 md map marker down
+󱋛 md map marker left
+󱋝 md map marker left outline
+󰙐 md map marker minus
+󱋹 md map marker minus outline
+󰍐 md map marker multiple
+󱉷 md map marker multiple outline
+󰍑 md map marker off
+󱋽 md map marker off outline
+󰟙 md map marker outline
+󰴠 md map marker path
+󰙑 md map marker plus
+󱋸 md map marker plus outline
+󰼇 md map marker question
+󰼈 md map marker question outline
+󰍒 md map marker radius
+󱋼 md map marker radius outline
+󰼉 md map marker remove
+󱋺 md map marker remove outline
+󰼊 md map marker remove variant
+󱋜 md map marker right
+󱋞 md map marker right outline
+󱘈 md map marker star
+󱘉 md map marker star outline
+󱄃 md map marker up
+󰦁 md map minus
+󰦂 md map outline
+󰦃 md map plus
+󰦄 md map search
+󰦅 md map search outline
+󰮪 md mapbox
+󰍓 md margin
+󰙒 md marker
+󰷙 md marker cancel
+󰍕 md marker check
+󰫑 md mastodon
+󰦆 md material design
+󰍗 md material ui
+󰍘 md math compass
+󰲖 md math cos
+󰿈 md math integral
+󰿉 md math integral box
+󱂅 md math log
+󰿊 md math norm
+󰿋 md math norm box
+󰲗 md math sin
+󰲘 md math tan
+󰘨 md matrix
+󰦇 md medal
+󱌦 md medal outline
+󰛯 md medical bag
+󱪸 md medical cotton swab
+󱅻 md meditation
+󰍛 md memory
+󱟔 md menorah
+󱟕 md menorah fire
+󰍜 md menu
+󰍝 md menu down
+󰚶 md menu down outline
+󰍞 md menu left
+󰨂 md menu left outline
+󰮫 md menu open
+󰍟 md menu right
+󰨃 md menu right outline
+󰩤 md menu swap
+󰩥 md menu swap outline
+󰍠 md menu up
+󰚷 md menu up outline
+󰽜 md merge
+󰍡 md message
+󰍢 md message alert
+󰨄 md message alert outline
+󱋲 md message arrow left
+󱋳 md message arrow left outline
+󱋴 md message arrow right
+󱋵 md message arrow right outline
+󱥁 md message badge
+󱥂 md message badge outline
+󱖬 md message bookmark
+󱖭 md message bookmark outline
+󰚢 md message bulleted
+󰚣 md message bulleted off
+󰛱 md message cog
+󱅲 md message cog outline
+󰍣 md message draw
+󱧌 md message fast
+󱧍 md message fast outline
+󱖩 md message flash
+󱖪 md message flash outline
+󰍤 md message image
+󱅬 md message image outline
+󰿌 md message lock
+󱅭 md message lock outline
+󱅮 md message minus
+󱅯 md message minus outline
+󱙍 md message off
+󱙎 md message off outline
+󰍥 md message outline
+󰙓 md message plus
+󱂻 md message plus outline
+󰍦 md message processing
+󱅰 md message processing outline
+󱜺 md message question
+󱜻 md message question outline
+󰍧 md message reply
+󱜽 md message reply outline
+󰍨 md message reply text
+󱜾 md message reply text outline
+󰛰 md message settings
+󱅱 md message settings outline
+󰚚 md message star
+󱉐 md message star outline
+󰍩 md message text
+󱅳 md message text clock
+󱅴 md message text clock outline
+󱧎 md message text fast
+󱧏 md message text fast outline
+󰿍 md message text lock
+󱅵 md message text lock outline
+󰍪 md message text outline
+󰍫 md message video
+󰘩 md meteor
+󱩗 md meter electric
+󱩘 md meter electric outline
+󱩙 md meter gas
+󱩚 md meter gas outline
+󰟚 md metronome
+󰟛 md metronome tick
+󰟜 md micro sd
+󰍬 md microphone
+󰢳 md microphone minus
+󰍭 md microphone off
+󰍮 md microphone outline
+󰢴 md microphone plus
+󱦉 md microphone question
+󱦊 md microphone question outline
+󰍯 md microphone settings
+󰍰 md microphone variant
+󰍱 md microphone variant off
+󰙔 md microscope
+󰍲 md microsoft
+󱎎 md microsoft access
+󰠅 md microsoft azure
+󰿕 md microsoft azure devops
+󰂤 md microsoft bing
+󰦈 md microsoft dynamics 365
+󰇩 md microsoft edge
+󱎏 md microsoft excel
+󰌀 md microsoft internet explorer
+󰏆 md microsoft office
+󰏊 md microsoft onedrive
+󰝇 md microsoft onenote
+󰴢 md microsoft outlook
+󱎐 md microsoft powerpoint
+󱎑 md microsoft sharepoint
+󰊻 md microsoft teams
+󰘐 md microsoft visual studio
+󰨞 md microsoft visual studio code
+󰖳 md microsoft windows
+󰨡 md microsoft windows classic
+󱎒 md microsoft word
+󰖹 md microsoft xbox
+󰖺 md microsoft xbox controller
+󰝋 md microsoft xbox controller battery alert
+󰨢 md microsoft xbox controller battery charging
+󰝌 md microsoft xbox controller battery empty
+󰝍 md microsoft xbox controller battery full
+󰝎 md microsoft xbox controller battery low
+󰝏 md microsoft xbox controller battery medium
+󰝐 md microsoft xbox controller battery unknown
+󰹯 md microsoft xbox controller menu
+󰖻 md microsoft xbox controller off
+󰹰 md microsoft xbox controller view
+󰲙 md microwave
+󱐣 md microwave off
+󰽝 md middleware
+󰽞 md middleware outline
+󰣱 md midi
+󰣲 md midi port
+󰷚 md mine
+󰍳 md minecraft
+󰨅 md mini sd
+󰨆 md minidisc
+󰍴 md minus
+󰍵 md minus box
+󱅁 md minus box multiple
+󱅂 md minus box multiple outline
+󰛲 md minus box outline
+󰍶 md minus circle
+󰍚 md minus circle multiple
+󰫓 md minus circle multiple outline
+󱑙 md minus circle off
+󱑚 md minus circle off outline
+󰍷 md minus circle outline
+󰍸 md minus network
+󰲚 md minus network outline
+󱘹 md minus thick
+󱇽 md mirror
+󱞟 md mirror rectangle
+󱞠 md mirror variant
+󰶏 md mixed martial arts
+󰡿 md mixed reality
+󰮬 md molecule
+󱋾 md molecule co
+󰟤 md molecule co2
+󰍹 md monitor
+󱩛 md monitor account
+󱧐 md monitor arrow down
+󱧑 md monitor arrow down variant
+󰦉 md monitor cellphone
+󰦊 md monitor cellphone star
+󰨇 md monitor dashboard
+󱋆 md monitor edit
+󱎴 md monitor eye
+󰷛 md monitor lock
+󰍺 md monitor multiple
+󰶐 md monitor off
+󰹑 md monitor screenshot
+󱒃 md monitor share
+󱄄 md monitor shimmer
+󱡶 md monitor small
+󰽟 md monitor speaker
+󰽠 md monitor speaker off
+󰷜 md monitor star
+󰽡 md moon first quarter
+󰽢 md moon full
+󰽣 md moon last quarter
+󰽤 md moon new
+󰽥 md moon waning crescent
+󰽦 md moon waning gibbous
+󰽧 md moon waxing crescent
+󰽨 md moon waxing gibbous
+󱂆 md moped
+󱖷 md moped electric
+󱖸 md moped electric outline
+󱖹 md moped outline
+󰍻 md more
+󱝈 md mortar pestle
+󰏱 md mortar pestle plus
+󱠧 md mosque
+󱌔 md mother heart
+󰴡 md mother nurse
+󱖲 md motion
+󱖳 md motion outline
+󱖐 md motion pause
+󱖒 md motion pause outline
+󱖏 md motion play
+󱖑 md motion play outline
+󰶑 md motion sensor
+󱐵 md motion sensor off
+󰍼 md motorbike
+󱖺 md motorbike electric
+󰍽 md mouse
+󰦋 md mouse bluetooth
+󱕐 md mouse move down
+󱕑 md mouse move up
+󱕒 md mouse move vertical
+󰍾 md mouse off
+󰍿 md mouse variant
+󰎀 md mouse variant off
+󰙕 md move resize
+󰙖 md move resize variant
+󰎁 md movie
+󱛳 md movie check
+󱛴 md movie check outline
+󱛵 md movie cog
+󱛶 md movie cog outline
+󱄢 md movie edit
+󱄣 md movie edit outline
+󱄤 md movie filter
+󱄥 md movie filter outline
+󱛷 md movie minus
+󱛸 md movie minus outline
+󱛹 md movie off
+󱛺 md movie off outline
+󰿎 md movie open
+󱛻 md movie open check
+󱛼 md movie open check outline
+󱛽 md movie open cog
+󱛾 md movie open cog outline
+󱛿 md movie open edit
+󱜀 md movie open edit outline
+󱜁 md movie open minus
+󱜂 md movie open minus outline
+󱜃 md movie open off
+󱜄 md movie open off outline
+󰿏 md movie open outline
+󱜅 md movie open play
+󱜆 md movie open play outline
+󱜇 md movie open plus
+󱜈 md movie open plus outline
+󱜉 md movie open remove
+󱜊 md movie open remove outline
+󱜋 md movie open settings
+󱜌 md movie open settings outline
+󱜍 md movie open star
+󱜎 md movie open star outline
+󰷝 md movie outline
+󱜏 md movie play
+󱜐 md movie play outline
+󱜑 md movie plus
+󱜒 md movie plus outline
+󱜓 md movie remove
+󱜔 md movie remove outline
+󰟞 md movie roll
+󱇒 md movie search
+󱇓 md movie search outline
+󱜕 md movie settings
+󱜖 md movie settings outline
+󱜗 md movie star
+󱜘 md movie star outline
+󱙯 md mower
+󱙰 md mower bag
+󰦌 md muffin
+󱢓 md multicast
+󰎂 md multiplication
+󰎃 md multiplication box
+󰟟 md mushroom
+󱏺 md mushroom off
+󱏻 md mushroom off outline
+󰟠 md mushroom outline
+󰝚 md music
+󰽩 md music accidental double flat
+󰽪 md music accidental double sharp
+󰽫 md music accidental flat
+󰽬 md music accidental natural
+󰽭 md music accidental sharp
+󰎄 md music box
+󰌳 md music box multiple
+󰼄 md music box multiple outline
+󰎅 md music box outline
+󰎆 md music circle
+󰫔 md music circle outline
+󰽮 md music clef alto
+󰽯 md music clef bass
+󰽰 md music clef treble
+󰎈 md music note
+󰗾 md music note bluetooth
+󰗿 md music note bluetooth off
+󰽱 md music note eighth dotted
+󰎉 md music note half
+󰽲 md music note half dotted
+󰎊 md music note off
+󰽳 md music note off outline
+󰽴 md music note outline
+󰷞 md music note plus
+󰎋 md music note quarter
+󰽵 md music note quarter dotted
+󰎌 md music note sixteenth
+󰽶 md music note sixteenth dotted
+󰎍 md music note whole
+󰽷 md music note whole dotted
+󰝛 md music off
+󰽸 md music rest eighth
+󰽹 md music rest half
+󰽺 md music rest quarter
+󰽻 md music rest sixteenth
+󰽼 md music rest whole
+󱗞 md mustache
+󰷟 md nail
+󰣳 md nas
+󰢀 md nativescript
+󰎎 md nature
+󰎏 md nature people
+󰎐 md navigation
+󱘇 md navigation outline
+󱣱 md navigation variant outline
+󱣰 md near me
+󰼋 md necklace
+󰎑 md needle
+󱧒 md needle off
+󰝆 md netflix
+󰛳 md network
+󰲛 md network off
+󰲜 md network off outline
+󰲝 md network outline
+󱫋 md network pos
+󰣴 md network strength 1
+󰣵 md network strength 1 alert
+󰣶 md network strength 2
+󰣷 md network strength 2 alert
+󰣸 md network strength 3
+󰣹 md network strength 3 alert
+󰣺 md network strength 4
+󰣻 md network strength 4 alert
+󱤚 md network strength 4 cog
+󰣼 md network strength off
+󰣽 md network strength off outline
+󰣾 md network strength outline
+󰎔 md new box
+󰎕 md newspaper
+󱥃 md newspaper check
+󰼌 md newspaper minus
+󰼍 md newspaper plus
+󱥄 md newspaper remove
+󱀁 md newspaper variant
+󱀂 md newspaper variant multiple
+󱀃 md newspaper variant multiple outline
+󱀄 md newspaper variant outline
+󰎖 md nfc
+󰹓 md nfc search variant
+󰎗 md nfc tap
+󰎘 md nfc variant
+󰹔 md nfc variant off
+󰝴 md ninja
+󱎓 md nintendo game boy
+󰟡 md nintendo switch
+󰖫 md nintendo wii
+󰜭 md nintendo wiiu
+󱄅 md nix
+󰎙 md nodejs
+󱅾 md noodles
+󰦍 md not equal
+󰦎 md not equal variant
+󰎚 md note
+󱝽 md note alert
+󱝾 md note alert outline
+󱝿 md note check
+󱞀 md note check outline
+󱞁 md note edit
+󱞂 md note edit outline
+󱙏 md note minus
+󱙐 md note minus outline
+󰚸 md note multiple
+󰚹 md note multiple outline
+󱞃 md note off
+󱞄 md note off outline
+󰎛 md note outline
+󰎜 md note plus
+󰎝 md note plus outline
+󱙑 md note remove
+󱙒 md note remove outline
+󱙓 md note search
+󱙔 md note search outline
+󰎞 md note text
+󱇗 md note text outline
+󰠮 md notebook
+󱓵 md notebook check
+󱓶 md notebook check outline
+󱓧 md notebook edit
+󱓩 md notebook edit outline
+󱨋 md notebook heart
+󱨌 md notebook heart outline
+󱘐 md notebook minus
+󱘑 md notebook minus outline
+󰹕 md notebook multiple
+󰺿 md notebook outline
+󱘒 md notebook plus
+󱘓 md notebook plus outline
+󱘔 md notebook remove
+󱘕 md notebook remove outline
+󰎟 md notification clear all
+󰛷 md npm
+󰚤 md nuke
+󰟢 md null
+󰎠 md numeric
+󰎡 md numeric 0 box
+󰼎 md numeric 0 box multiple
+󰎢 md numeric 0 box multiple outline
+󰎣 md numeric 0 box outline
+󰬺 md numeric 1
+󰿩 md numeric 10
+󰽽 md numeric 10 box
+󰿪 md numeric 10 box multiple
+󰿫 md numeric 10 box multiple outline
+󰽾 md numeric 10 box outline
+󰿬 md numeric 10 circle
+󰿭 md numeric 10 circle outline
+󰎤 md numeric 1 box
+󰼏 md numeric 1 box multiple
+󰎥 md numeric 1 box multiple outline
+󰎦 md numeric 1 box outline
+󰲠 md numeric 1 circle
+󰲡 md numeric 1 circle outline
+󰬻 md numeric 2
+󰎧 md numeric 2 box
+󰼐 md numeric 2 box multiple
+󰎨 md numeric 2 box multiple outline
+󰎩 md numeric 2 box outline
+󰲢 md numeric 2 circle
+󰲣 md numeric 2 circle outline
+󰬼 md numeric 3
+󰎪 md numeric 3 box
+󰼑 md numeric 3 box multiple
+󰎫 md numeric 3 box multiple outline
+󰎬 md numeric 3 box outline
+󰲤 md numeric 3 circle
+󰲥 md numeric 3 circle outline
+󰬽 md numeric 4
+󰎭 md numeric 4 box
+󰼒 md numeric 4 box multiple
+󰎲 md numeric 4 box multiple outline
+󰎮 md numeric 4 box outline
+󰲦 md numeric 4 circle
+󰲧 md numeric 4 circle outline
+󰬾 md numeric 5
+󰎱 md numeric 5 box
+󰼓 md numeric 5 box multiple
+󰎯 md numeric 5 box multiple outline
+󰎰 md numeric 5 box outline
+󰲨 md numeric 5 circle
+󰲩 md numeric 5 circle outline
+󰬿 md numeric 6
+󰎳 md numeric 6 box
+󰼔 md numeric 6 box multiple
+󰎴 md numeric 6 box multiple outline
+󰎵 md numeric 6 box outline
+󰲪 md numeric 6 circle
+󰲫 md numeric 6 circle outline
+󰭀 md numeric 7
+󰎶 md numeric 7 box
+󰼕 md numeric 7 box multiple
+󰎷 md numeric 7 box multiple outline
+󰎸 md numeric 7 box outline
+󰲬 md numeric 7 circle
+󰲭 md numeric 7 circle outline
+󰭁 md numeric 8
+󰎹 md numeric 8 box
+󰼖 md numeric 8 box multiple
+󰎺 md numeric 8 box multiple outline
+󰎻 md numeric 8 box outline
+󰲮 md numeric 8 circle
+󰲯 md numeric 8 circle outline
+󰭂 md numeric 9
+󰎼 md numeric 9 box
+󰼗 md numeric 9 box multiple
+󰎽 md numeric 9 box multiple outline
+󰎾 md numeric 9 box outline
+󰲰 md numeric 9 circle
+󰲱 md numeric 9 circle outline
+󰿮 md numeric 9 plus
+󰎿 md numeric 9 plus box
+󰼘 md numeric 9 plus box multiple
+󰏀 md numeric 9 plus box multiple outline
+󰏁 md numeric 9 plus box outline
+󰲲 md numeric 9 plus circle
+󰲳 md numeric 9 plus circle outline
+󱁒 md numeric negative 1
+󱧓 md numeric off
+󱗋 md numeric positive 1
+󰛸 md nut
+󰏂 md nutrition
+󱄆 md nuxt
+󰙼 md oar
+󰷠 md ocarina
+󱋩 md oci
+󱄺 md ocr
+󰏃 md octagon
+󰏄 md octagon outline
+󰛹 md octagram
+󰝵 md octagram outline
+󱥐 md octahedron
+󱥑 md octahedron off
+󰏅 md odnoklassniki
+󱈛 md offer
+󰦑 md office building
+󱥉 md office building cog
+󱥊 md office building cog outline
+󱔠 md office building marker
+󱔡 md office building marker outline
+󱔟 md office building outline
+󰏇 md oil
+󰼙 md oil lamp
+󱁓 md oil level
+󰿸 md oil temperature
+󰥳 md om
+󰏉 md omega
+󰮭 md one up
+󰢁 md onepassword
+󰗌 md opacity
+󰏋 md open in app
+󰏌 md open in new
+󰮮 md open source initiative
+󰏍 md openid
+󰏎 md opera
+󰀘 md orbit
+󱗛 md orbit variant
+󰈍 md order alphabetical ascending
+󰴇 md order alphabetical descending
+󰊾 md order bool ascending
+󰦏 md order bool ascending variant
+󱎄 md order bool descending
+󰦐 md order bool descending variant
+󰕅 md order numeric ascending
+󰕆 md order numeric descending
+󰭃 md origin
+󰏏 md ornament
+󰏐 md ornament variant
+󱁔 md outdoor lamp
+󱀅 md overscan
+󰏒 md owl
+󰮯 md pac man
+󰏓 md package
+󰏔 md package down
+󰏕 md package up
+󰏖 md package variant
+󰏗 md package variant closed
+󱧔 md package variant closed minus
+󱧕 md package variant closed plus
+󱧖 md package variant closed remove
+󱧗 md package variant minus
+󱧘 md package variant plus
+󱧙 md package variant remove
+󰘀 md page first
+󰘁 md page last
+󰛺 md page layout body
+󰛻 md page layout footer
+󰛼 md page layout header
+󰽿 md page layout header footer
+󰛽 md page layout sidebar left
+󰛾 md page layout sidebar right
+󰮰 md page next
+󰮱 md page next outline
+󰮲 md page previous
+󰮳 md page previous outline
+󱐗 md pail
+󱐷 md pail minus
+󱐼 md pail minus outline
+󱐹 md pail off
+󱐾 md pail off outline
+󱐺 md pail outline
+󱐶 md pail plus
+󱐻 md pail plus outline
+󱐸 md pail remove
+󱐽 md pail remove outline
+󰏘 md palette
+󰏙 md palette advanced
+󰸌 md palette outline
+󰢵 md palette swatch
+󱍜 md palette swatch outline
+󱥚 md palette swatch variant
+󱁕 md palm tree
+󰮴 md pan
+󰮵 md pan bottom left
+󰮶 md pan bottom right
+󰮷 md pan down
+󰮸 md pan horizontal
+󰮹 md pan left
+󰮺 md pan right
+󰮻 md pan top left
+󰮼 md pan top right
+󰮽 md pan up
+󰮾 md pan vertical
+󰏚 md panda
+󰏛 md pandora
+󰏜 md panorama
+󰏝 md panorama fisheye
+󱤨 md panorama horizontal
+󰏞 md panorama horizontal outline
+󱦌 md panorama outline
+󱦍 md panorama sphere
+󱦎 md panorama sphere outline
+󱦏 md panorama variant
+󱦐 md panorama variant outline
+󱤩 md panorama vertical
+󰏟 md panorama vertical outline
+󱥟 md panorama wide angle
+󰏠 md panorama wide angle outline
+󰏡 md paper cut vertical
+󱅗 md paper roll
+󱅘 md paper roll outline
+󰏢 md paperclip
+󱫆 md paperclip check
+󱧚 md paperclip lock
+󱫇 md paperclip minus
+󱫈 md paperclip off
+󱫉 md paperclip plus
+󱫊 md paperclip remove
+󰲴 md parachute
+󰲵 md parachute outline
+󱝅 md paragliding
+󰏣 md parking
+󱁖 md party popper
+󰟣 md passport
+󰷡 md passport biometric
+󱅠 md pasta
+󰾀 md patio heater
+󰢂 md patreon
+󰏤 md pause
+󰏥 md pause circle
+󰏦 md pause circle outline
+󰏧 md pause octagon
+󰏨 md pause octagon outline
+󰏩 md paw
+󰙗 md paw off
+󱙶 md paw off outline
+󱙵 md paw outline
+󰢄 md peace
+󰿼 md peanut
+󰿽 md peanut off
+󰿿 md peanut off outline
+󰿾 md peanut outline
+󰏪 md pen
+󰷢 md pen lock
+󰷣 md pen minus
+󰷤 md pen off
+󰷥 md pen plus
+󰷦 md pen remove
+󰏫 md pencil
+󰏬 md pencil box
+󱅄 md pencil box multiple
+󱅅 md pencil box multiple outline
+󰏭 md pencil box outline
+󰛿 md pencil circle
+󰝶 md pencil circle outline
+󰏮 md pencil lock
+󰷧 md pencil lock outline
+󰷨 md pencil minus
+󰷩 md pencil minus outline
+󰏯 md pencil off
+󰷪 md pencil off outline
+󰲶 md pencil outline
+󰷫 md pencil plus
+󰷬 md pencil plus outline
+󰷭 md pencil remove
+󰷮 md pencil remove outline
+󱍓 md pencil ruler
+󰻀 md penguin
+󰜁 md pentagon
+󰜀 md pentagon outline
+󱙧 md pentagram
+󰏰 md percent
+󱨂 md percent box
+󱨃 md percent box outline
+󱨄 md percent circle
+󱨅 md percent circle outline
+󱉸 md percent outline
+󰢶 md periodic table
+󰴣 md perspective less
+󰴤 md perspective more
+󱟅 md ph
+󰏲 md phone
+󰼚 md phone alert
+󱆎 md phone alert outline
+󰏳 md phone bluetooth
+󱆏 md phone bluetooth outline
+󱂼 md phone cancel
+󱆐 md phone cancel outline
+󱆩 md phone check
+󱆪 md phone check outline
+󰘂 md phone classic
+󱉹 md phone classic off
+󱧛 md phone clock
+󱕙 md phone dial
+󱕚 md phone dial outline
+󰏴 md phone forward
+󱆑 md phone forward outline
+󰏵 md phone hangup
+󱆒 md phone hangup outline
+󰏶 md phone in talk
+󱆂 md phone in talk outline
+󰏷 md phone incoming
+󱆓 md phone incoming outline
+󰏸 md phone lock
+󱆔 md phone lock outline
+󰏹 md phone log
+󱆕 md phone log outline
+󱆖 md phone message
+󱆗 md phone message outline
+󰙘 md phone minus
+󱆘 md phone minus outline
+󰏺 md phone missed
+󱆥 md phone missed outline
+󰷯 md phone off
+󱆦 md phone off outline
+󰏻 md phone outgoing
+󱆙 md phone outgoing outline
+󰷰 md phone outline
+󰏼 md phone paused
+󱆚 md phone paused outline
+󰙙 md phone plus
+󱆛 md phone plus outline
+󱦓 md phone refresh
+󱦔 md phone refresh outline
+󱔯 md phone remove
+󱔰 md phone remove outline
+󰠯 md phone return
+󱆜 md phone return outline
+󱆫 md phone ring
+󱆬 md phone ring outline
+󰢅 md phone rotate landscape
+󰢆 md phone rotate portrait
+󰏽 md phone settings
+󱆝 md phone settings outline
+󱦕 md phone sync
+󱦖 md phone sync outline
+󰏾 md phone voip
+󰏿 md pi
+󰐀 md pi box
+󰷱 md pi hole
+󰙽 md piano
+󰚘 md piano off
+󰢷 md pickaxe
+󰹗 md picture in picture bottom right
+󰹘 md picture in picture bottom right outline
+󰹙 md picture in picture top right
+󰹚 md picture in picture top right outline
+󰢇 md pier
+󰢈 md pier crane
+󰐁 md pig
+󱀆 md pig variant
+󱙸 md pig variant outline
+󱀇 md piggy bank
+󱙹 md piggy bank outline
+󰐂 md pill
+󱩜 md pill off
+󰜂 md pillar
+󰐃 md pin
+󰐄 md pin off
+󰤰 md pin off outline
+󰤱 md pin outline
+󰐅 md pine tree
+󰐆 md pine tree box
+󱐚 md pine tree fire
+󰐇 md pinterest
+󰫕 md pinwheel
+󰫖 md pinwheel outline
+󰟥 md pipe
+󰟦 md pipe disconnected
+󰢉 md pipe leak
+󱡍 md pipe valve
+󱍔 md pipe wrench
+󰨈 md pirate
+󰜃 md pistol
+󰢊 md piston
+󱕓 md pitchfork
+󰐉 md pizza
+󰐊 md play
+󱉺 md play box
+󱨖 md play box lock
+󱨗 md play box lock open
+󱨘 md play box lock open outline
+󱨙 md play box lock outline
+󰴙 md play box multiple
+󱏦 md play box multiple outline
+󰐋 md play box outline
+󰐌 md play circle
+󰐍 md play circle outline
+󰢋 md play network
+󰲷 md play network outline
+󰼛 md play outline
+󰐎 md play pause
+󰐏 md play protected content
+󰣿 md play speed
+󰗇 md playlist check
+󰤀 md playlist edit
+󰐐 md playlist minus
+󰲸 md playlist music
+󰲹 md playlist music outline
+󰐑 md playlist play
+󰐒 md playlist plus
+󰐓 md playlist remove
+󰷲 md playlist star
+󰚺 md plex
+󱦤 md pliers
+󰐕 md plus
+󰐖 md plus box
+󰌴 md plus box multiple
+󱅃 md plus box multiple outline
+󰜄 md plus box outline
+󰐗 md plus circle
+󰍌 md plus circle multiple
+󰐘 md plus circle multiple outline
+󰐙 md plus circle outline
+󱩝 md plus lock
+󱩞 md plus lock open
+󰦒 md plus minus
+󰦓 md plus minus box
+󱓉 md plus minus variant
+󰐚 md plus network
+󰲺 md plus network outline
+󰜅 md plus outline
+󱇬 md plus thick
+󰦔 md podcast
+󰴥 md podium
+󰴦 md podium bronze
+󰴧 md podium gold
+󰴨 md podium silver
+󰶒 md point of sale
+󰐝 md pokeball
+󰨉 md pokemon go
+󰠰 md poker chip
+󰐞 md polaroid
+󱅧 md police badge
+󱅨 md police badge outline
+󱠹 md police station
+󰐟 md poll
+󱓃 md polo
+󰐡 md polymer
+󰘆 md pool
+󱩟 md pool thermometer
+󰐢 md popcorn
+󱀈 md post
+󱩠 md post lamp
+󱀉 md post outline
+󰲻 md postage stamp
+󰋥 md pot
+󰙛 md pot mix
+󰙷 md pot mix outline
+󰋿 md pot outline
+󰙚 md pot steam
+󰌦 md pot steam outline
+󰐣 md pound
+󰐤 md pound box
+󱅿 md pound box outline
+󰐥 md power
+󰤁 md power cycle
+󰤂 md power off
+󰤃 md power on
+󰚥 md power plug
+󰚦 md power plug off
+󱐤 md power plug off outline
+󱐥 md power plug outline
+󰐦 md power settings
+󰤄 md power sleep
+󰐧 md power socket
+󰤅 md power socket au
+󰾳 md power socket ch
+󱄇 md power socket de
+󰟧 md power socket eu
+󱄈 md power socket fr
+󱓿 md power socket it
+󱄉 md power socket jp
+󰟨 md power socket uk
+󰟩 md power socket us
+󰤆 md power standby
+󰨊 md powershell
+󰜆 md prescription
+󰐨 md presentation
+󰐩 md presentation play
+󱕢 md pretzel
+󰐪 md printer
+󰐫 md printer 3d
+󰹛 md printer 3d nozzle
+󱇀 md printer 3d nozzle alert
+󱇁 md printer 3d nozzle alert outline
+󱢸 md printer 3d nozzle heat
+󱢹 md printer 3d nozzle heat outline
+󰹜 md printer 3d nozzle outline
+󰐬 md printer alert
+󱅆 md printer check
+󱑘 md printer eye
+󰹝 md printer off
+󱞅 md printer off outline
+󱞆 md printer outline
+󱁗 md printer pos
+󱑗 md printer search
+󰜇 md printer settings
+󰨋 md printer wireless
+󰘃 md priority high
+󰘄 md priority low
+󰐭 md professional hexagon
+󰲼 md progress alert
+󰦕 md progress check
+󰦖 md progress clock
+󱄊 md progress close
+󰦗 md progress download
+󱞇 md progress pencil
+󱔢 md progress question
+󱞈 md progress star
+󰦘 md progress upload
+󰲽 md progress wrench
+󰐮 md projector
+󱨣 md projector off
+󰐯 md projector screen
+󱠍 md projector screen off
+󱠎 md projector screen off outline
+󱜤 md projector screen outline
+󱠏 md projector screen variant
+󱠐 md projector screen variant off
+󱠑 md projector screen variant off outline
+󱠒 md projector screen variant outline
+󱍗 md propane tank
+󱍘 md propane tank outline
+󰿘 md protocol
+󰚧 md publish
+󱥅 md publish off
+󰐰 md pulse
+󱐂 md pump
+󰮿 md pumpkin
+󰼜 md purse
+󰼝 md purse outline
+󰐱 md puzzle
+󱐦 md puzzle check
+󱐧 md puzzle check outline
+󱓓 md puzzle edit
+󱓙 md puzzle edit outline
+󱓔 md puzzle heart
+󱓚 md puzzle heart outline
+󱓑 md puzzle minus
+󱓗 md puzzle minus outline
+󰩦 md puzzle outline
+󱓐 md puzzle plus
+󱓖 md puzzle plus outline
+󱓒 md puzzle remove
+󱓘 md puzzle remove outline
+󱓕 md puzzle star
+󱓛 md puzzle star outline
+󱥒 md pyramid
+󱥓 md pyramid off
+󰦙 md qi
+󰘅 md qqchat
+󰐲 md qrcode
+󰢸 md qrcode edit
+󱆌 md qrcode minus
+󱆋 md qrcode plus
+󱆍 md qrcode remove
+󰐳 md qrcode scan
+󰐴 md quadcopter
+󰐵 md quality high
+󰨌 md quality low
+󰨍 md quality medium
+󰴩 md quora
+󰤇 md rabbit
+󱩡 md rabbit variant
+󱩢 md rabbit variant outline
+󰶓 md racing helmet
+󰶔 md racquetball
+󰐷 md radar
+󰐸 md radiator
+󰫗 md radiator disabled
+󰫘 md radiator off
+󰐹 md radio
+󰲾 md radio am
+󰲿 md radio fm
+󰐺 md radio handheld
+󱈜 md radio off
+󰐻 md radio tower
+󰐼 md radioactive
+󱡝 md radioactive circle
+󱡞 md radioactive circle outline
+󰻁 md radioactive off
+󰐾 md radiobox marked
+󱓅 md radiology box
+󱓆 md radiology box outline
+󰳀 md radius
+󰳁 md radius outline
+󰼞 md railroad light
+󱕄 md rake
+󰐿 md raspberry pi
+󱨏 md raw
+󱨐 md raw off
+󰑀 md ray end
+󰑁 md ray end arrow
+󰑂 md ray start
+󰑃 md ray start arrow
+󰑄 md ray start end
+󱗘 md ray start vertex end
+󰑅 md ray vertex
+󱦗 md razor double edge
+󱦘 md razor single edge
+󰜈 md react
+󰑇 md read
+󰑉 md receipt
+󱧜 md receipt outline
+󱩣 md receipt text check
+󱩤 md receipt text check outline
+󱩥 md receipt text minus
+󱩦 md receipt text minus outline
+󱩧 md receipt text plus
+󱩨 md receipt text plus outline
+󱩩 md receipt text remove
+󱩪 md receipt text remove outline
+󰑊 md record
+󰻂 md record circle
+󰻃 md record circle outline
+󰦚 md record player
+󰑋 md record rec
+󰹞 md rectangle
+󰹟 md rectangle outline
+󰑌 md recycle
+󱎝 md recycle variant
+󰑍 md reddit
+󱄛 md redhat
+󰑎 md redo
+󰑏 md redo variant
+󰨎 md reflect horizontal
+󰨏 md reflect vertical
+󰑐 md refresh
+󱣲 md refresh auto
+󱍷 md refresh circle
+󰑑 md regex
+󰩧 md registered trademark
+󱖈 md reiterate
+󱒖 md relation many to many
+󱒗 md relation many to one
+󱒘 md relation many to one or many
+󱒙 md relation many to only one
+󱒚 md relation many to zero or many
+󱒛 md relation many to zero or one
+󱒜 md relation one or many to many
+󱒝 md relation one or many to one
+󱒞 md relation one or many to one or many
+󱒟 md relation one or many to only one
+󱒠 md relation one or many to zero or many
+󱒡 md relation one or many to zero or one
+󱒢 md relation one to many
+󱒣 md relation one to one
+󱒤 md relation one to one or many
+󱒥 md relation one to only one
+󱒦 md relation one to zero or many
+󱒧 md relation one to zero or one
+󱒨 md relation only one to many
+󱒩 md relation only one to one
+󱒪 md relation only one to one or many
+󱒫 md relation only one to only one
+󱒬 md relation only one to zero or many
+󱒭 md relation only one to zero or one
+󱒮 md relation zero or many to many
+󱒯 md relation zero or many to one
+󱒰 md relation zero or many to one or many
+󱒱 md relation zero or many to only one
+󱒲 md relation zero or many to zero or many
+󱒳 md relation zero or many to zero or one
+󱒴 md relation zero or one to many
+󱒵 md relation zero or one to one
+󱒶 md relation zero or one to one or many
+󱒷 md relation zero or one to only one
+󱒸 md relation zero or one to zero or many
+󱒹 md relation zero or one to zero or one
+󰑒 md relative scale
+󰑓 md reload
+󱄋 md reload alert
+󰢌 md reminder
+󰑔 md remote
+󰢹 md remote desktop
+󰻄 md remote off
+󰻅 md remote tv
+󰻆 md remote tv off
+󰑕 md rename box
+󰚈 md reorder horizontal
+󰚉 md reorder vertical
+󰑖 md repeat
+󰑗 md repeat off
+󰑘 md repeat once
+󰕇 md repeat variant
+󰑙 md replay
+󰑚 md reply
+󰑛 md reply all
+󰼟 md reply all outline
+󱆮 md reply circle
+󰼠 md reply outline
+󰑜 md reproduction
+󰭄 md resistor
+󰭅 md resistor nodes
+󰩨 md resize
+󰑝 md resize bottom right
+󰑞 md responsive
+󰜉 md restart
+󱄌 md restart alert
+󰶕 md restart off
+󰦛 md restore
+󱄍 md restore alert
+󰑟 md rewind
+󰴪 md rewind 10
+󱥆 md rewind 15
+󰶖 md rewind 30
+󱇹 md rewind 5
+󱘌 md rewind 60
+󰜊 md rewind outline
+󰜋 md rhombus
+󰨐 md rhombus medium
+󱓜 md rhombus medium outline
+󰜌 md rhombus outline
+󰨑 md rhombus split
+󱓝 md rhombus split outline
+󰑠 md ribbon
+󰟪 md rice
+󱖻 md rickshaw
+󱖼 md rickshaw electric
+󰟫 md ring
+󰹠 md rivet
+󰑡 md road
+󰑢 md road variant
+󱁘 md robber
+󰚩 md robot
+󱚝 md robot angry
+󱚞 md robot angry outline
+󱚟 md robot confused
+󱚠 md robot confused outline
+󱚡 md robot dead
+󱚢 md robot dead outline
+󱚣 md robot excited
+󱚤 md robot excited outline
+󱜙 md robot happy
+󱜚 md robot happy outline
+󰭆 md robot industrial
+󱨚 md robot industrial outline
+󱚥 md robot love
+󱚦 md robot love outline
+󱇷 md robot mower
+󱇳 md robot mower outline
+󱚧 md robot off
+󱙻 md robot off outline
+󱙺 md robot outline
+󰜍 md robot vacuum
+󰤈 md robot vacuum variant
+󰑣 md rocket
+󱓞 md rocket launch
+󱓟 md rocket launch outline
+󱎯 md rocket outline
+󱌧 md rodent
+󱩫 md roller shade
+󱩬 md roller shade closed
+󰴫 md roller skate
+󰅅 md roller skate off
+󰴬 md rollerblade
+󰀮 md rollerblade off
+󰯀 md rollupjs
+󱪹 md rolodex
+󱪺 md rolodex outline
+󱂉 md roman numeral 2
+󱂊 md roman numeral 3
+󱂋 md roman numeral 4
+󱂍 md roman numeral 6
+󱂎 md roman numeral 7
+󱂏 md roman numeral 8
+󱂐 md roman numeral 9
+󰢍 md room service
+󰶗 md room service outline
+󱦙 md rotate 360
+󰻇 md rotate 3d
+󰑤 md rotate 3d variant
+󰑥 md rotate left
+󰑦 md rotate left variant
+󰶘 md rotate orbit
+󰑧 md rotate right
+󰑨 md rotate right variant
+󰘇 md rounded corner
+󱇢 md router
+󱂇 md router network
+󰑩 md router wireless
+󱖣 md router wireless off
+󰩩 md router wireless settings
+󰑪 md routes
+󱁙 md routes clock
+󰘈 md rowing
+󰑫 md rss
+󰑬 md rss box
+󰼡 md rss off
+󱑵 md rug
+󰶙 md rugby
+󰑭 md ruler
+󰳂 md ruler square
+󰺾 md ruler square compass
+󰜎 md run
+󰑮 md run fast
+󱇔 md rv truck
+󰴮 md sack
+󰴯 md sack percent
+󰩪 md safe
+󱉼 md safe square
+󱉽 md safe square outline
+󰴰 md safety goggles
+󰻈 md sail boat
+󱫯 md sail boat sink
+󰑯 md sale
+󱨆 md sale outline
+󰢎 md salesforce
+󰟬 md sass
+󰑰 md satellite
+󰤉 md satellite uplink
+󰑱 md satellite variant
+󰢺 md sausage
+󱞉 md sausage off
+󰹡 md saw blade
+󱑺 md sawtooth wave
+󰘉 md saxophone
+󰑲 md scale
+󰗑 md scale balance
+󰑳 md scale bathroom
+󱁚 md scale off
+󱦸 md scale unbalanced
+󱏘 md scan helper
+󰚫 md scanner
+󰤊 md scanner off
+󰻉 md scatter plot
+󰻊 md scatter plot outline
+󱥘 md scent
+󱥙 md scent off
+󰑴 md school
+󱆀 md school outline
+󰩫 md scissors cutting
+󱖽 md scooter
+󱖾 md scooter electric
+󱉾 md scoreboard
+󱉿 md scoreboard outline
+󰑵 md screen rotation
+󰑸 md screen rotation lock
+󰷳 md screw flat top
+󰷴 md screw lag
+󰷵 md screw machine flat top
+󰷶 md screw machine round top
+󰷷 md screw round top
+󰑶 md screwdriver
+󰯁 md script
+󰑷 md script outline
+󰯂 md script text
+󱜥 md script text key
+󱜦 md script text key outline
+󰯃 md script text outline
+󱜧 md script text play
+󱜨 md script text play outline
+󰑹 md sd
+󰑺 md seal
+󰿙 md seal variant
+󰜏 md search web
+󰳃 md seat
+󰑻 md seat flat
+󰑼 md seat flat angled
+󰑽 md seat individual suite
+󰑾 md seat legroom extra
+󰑿 md seat legroom normal
+󰒀 md seat legroom reduced
+󰳄 md seat outline
+󱉉 md seat passenger
+󰒁 md seat recline extra
+󰒂 md seat recline normal
+󰳅 md seatbelt
+󰒃 md security
+󰒄 md security network
+󰹢 md seed
+󱏽 md seed off
+󱏾 md seed off outline
+󰹣 md seed outline
+󱩭 md seed plus
+󱩮 md seed plus outline
+󱖤 md seesaw
+󰻋 md segment
+󰒅 md select
+󰒆 md select all
+󰴱 md select color
+󰫙 md select compare
+󰩬 md select drag
+󰾂 md select group
+󰒇 md select inverse
+󱊀 md select marker
+󱊁 md select multiple
+󱊂 md select multiple marker
+󰒈 md select off
+󰿚 md select place
+󱟁 md select remove
+󱈄 md select search
+󰒉 md selection
+󰩭 md selection drag
+󰴲 md selection ellipse
+󰼢 md selection ellipse arrow inside
+󱟂 md selection ellipse remove
+󱊃 md selection marker
+󱊅 md selection multiple
+󱊄 md selection multiple marker
+󰝷 md selection off
+󱟃 md selection remove
+󱈅 md selection search
+󱌖 md semantic web
+󰒊 md send
+󱅡 md send check
+󱅢 md send check outline
+󰷸 md send circle
+󰷹 md send circle outline
+󱅣 md send clock
+󱅤 md send clock outline
+󰟭 md send lock
+󱅦 md send lock outline
+󱅥 md send outline
+󰙜 md serial port
+󰒋 md server
+󰒌 md server minus
+󰒍 md server network
+󰒎 md server network off
+󰒏 md server off
+󰒐 md server plus
+󰒑 md server remove
+󰒒 md server security
+󰝸 md set all
+󰝹 md set center
+󰝺 md set center right
+󰝻 md set left
+󰝼 md set left center
+󰝽 md set left right
+󱓠 md set merge
+󰝾 md set none
+󰝿 md set right
+󱓡 md set split
+󱑝 md set square
+󰦟 md set top box
+󰩮 md settings helper
+󱄎 md shaker
+󱄏 md shaker outline
+󰠱 md shape
+󰙝 md shape circle plus
+󰠲 md shape outline
+󱇺 md shape oval plus
+󰒕 md shape plus
+󰙞 md shape polygon plus
+󰙟 md shape rectangle plus
+󰙠 md shape square plus
+󱓺 md shape square rounded plus
+󰒖 md share
+󱇴 md share all
+󱇵 md share all outline
+󱆭 md share circle
+󰼣 md share off
+󰼤 md share off outline
+󰤲 md share outline
+󰒗 md share variant
+󱔔 md share variant outline
+󱢺 md shark
+󱙳 md shark fin
+󱙴 md shark fin outline
+󱢻 md shark off
+󰳆 md sheep
+󰒘 md shield
+󰢏 md shield account
+󰨒 md shield account outline
+󱖧 md shield account variant
+󱖨 md shield account variant outline
+󰚻 md shield airplane
+󰳇 md shield airplane outline
+󰻌 md shield alert
+󰻍 md shield alert outline
+󱏚 md shield bug
+󱏛 md shield bug outline
+󰾃 md shield car
+󰕥 md shield check
+󰳈 md shield check outline
+󰳉 md shield cross
+󰳊 md shield cross outline
+󱢼 md shield crown
+󱢽 md shield crown outline
+󱆠 md shield edit
+󱆡 md shield edit outline
+󱍠 md shield half
+󰞀 md shield half full
+󰚊 md shield home
+󰳋 md shield home outline
+󰯄 md shield key
+󰯅 md shield key outline
+󰴳 md shield link variant
+󰴴 md shield link variant outline
+󰦝 md shield lock
+󱦚 md shield lock open
+󱦛 md shield lock open outline
+󰳌 md shield lock outline
+󱠨 md shield moon
+󱠩 md shield moon outline
+󰦞 md shield off
+󰦜 md shield off outline
+󰒙 md shield outline
+󰫚 md shield plus
+󰫛 md shield plus outline
+󰂪 md shield refresh
+󰇠 md shield refresh outline
+󰫜 md shield remove
+󰫝 md shield remove outline
+󰶚 md shield search
+󱄻 md shield star
+󱄼 md shield star outline
+󱁝 md shield sun
+󱁞 md shield sun outline
+󱢾 md shield sword
+󱢿 md shield sword outline
+󱆢 md shield sync
+󱆣 md shield sync outline
+󱕅 md shimmer
+󰠳 md ship wheel
+󱡎 md shipping pallet
+󱗊 md shoe ballet
+󱗇 md shoe cleat
+󰭇 md shoe formal
+󰭈 md shoe heel
+󰷺 md shoe print
+󱗈 md shoe sneaker
+󰒚 md shopping
+󰒛 md shopping music
+󱇕 md shopping outline
+󰾄 md shopping search
+󱩯 md shopping search outline
+󱓹 md shore
+󰜐 md shovel
+󰜑 md shovel off
+󰦠 md shower
+󰦡 md shower head
+󰒜 md shredder
+󰒝 md shuffle
+󰒞 md shuffle disabled
+󰒟 md shuffle variant
+󱍿 md shuriken
+󱣀 md sickle
+󰒠 md sigma
+󰘫 md sigma lower
+󰒡 md sign caution
+󰞁 md sign direction
+󱀀 md sign direction minus
+󰿜 md sign direction plus
+󰿝 md sign direction remove
+󱓸 md sign pole
+󱄘 md sign real estate
+󰞂 md sign text
+󰒢 md signal
+󰜒 md signal 2g
+󰜓 md signal 3g
+󰜔 md signal 4g
+󰩯 md signal 5g
+󰢼 md signal cellular 1
+󰢽 md signal cellular 2
+󰢾 md signal cellular 3
+󰢿 md signal cellular outline
+󰹤 md signal distance variant
+󰜕 md signal hspa
+󰜖 md signal hspa plus
+󰞃 md signal off
+󰘊 md signal variant
+󰷻 md signature
+󰷼 md signature freehand
+󰷽 md signature image
+󰷾 md signature text
+󰭉 md silo
+󰒣 md silverware
+󰿞 md silverware clean
+󰒤 md silverware fork
+󰩰 md silverware fork knife
+󰒥 md silverware spoon
+󰒦 md silverware variant
+󰒧 md sim
+󰒨 md sim alert
+󱗓 md sim alert outline
+󰒩 md sim off
+󱗔 md sim off outline
+󱗕 md sim outline
+󱌝 md simple icons
+󰫟 md sina weibo
+󰥛 md sine wave
+󰒪 md sitemap
+󱦜 md sitemap outline
+󱎥 md size m
+󱎤 md size s
+󱎧 md size xl
+󱎣 md size xs
+󱎨 md size xxl
+󱎢 md size xxs
+󱎩 md size xxxl
+󰴵 md skate
+󰚙 md skate off
+󱓂 md skateboard
+󰔁 md skateboarding
+󰴶 md skew less
+󰴷 md skew more
+󱌄 md ski
+󱌅 md ski cross country
+󱌆 md ski water
+󰒫 md skip backward
+󰼥 md skip backward outline
+󰒬 md skip forward
+󰼦 md skip forward outline
+󰒭 md skip next
+󰙡 md skip next circle
+󰙢 md skip next circle outline
+󰼧 md skip next outline
+󰒮 md skip previous
+󰙣 md skip previous circle
+󰙤 md skip previous circle outline
+󰼨 md skip previous outline
+󰚌 md skull
+󰯆 md skull crossbones
+󰯇 md skull crossbones outline
+󰯈 md skull outline
+󱓇 md skull scan
+󱓈 md skull scan outline
+󰒯 md skype
+󰒰 md skype business
+󰒱 md slack
+󰿟 md slash forward
+󰿠 md slash forward box
+󰐛 md sledding
+󰒲 md sleep
+󰒳 md sleep off
+󱖥 md slide
+󰷿 md slope downhill
+󰸀 md slope uphill
+󱄔 md slot machine
+󱄕 md slot machine outline
+󱂽 md smart card
+󱣷 md smart card off
+󱣸 md smart card off outline
+󱂾 md smart card outline
+󱂿 md smart card reader
+󱃀 md smart card reader outline
+󰩱 md smog
+󱞙 md smoke
+󰎒 md smoke detector
+󱤮 md smoke detector alert
+󱤯 md smoke detector alert outline
+󱠉 md smoke detector off
+󱠊 md smoke detector off outline
+󱠈 md smoke detector outline
+󱠋 md smoke detector variant
+󱤰 md smoke detector variant alert
+󱠌 md smoke detector variant off
+󰒴 md smoking
+󰒵 md smoking off
+󱐍 md smoking pipe
+󱐨 md smoking pipe off
+󱙷 md snail
+󱔎 md snake
+󰒶 md snapchat
+󱌇 md snowboard
+󰜗 md snowflake
+󰼩 md snowflake alert
+󱩰 md snowflake check
+󱋋 md snowflake melt
+󱓣 md snowflake off
+󱩱 md snowflake thermometer
+󰼪 md snowflake variant
+󰒷 md snowman
+󰛝 md snowmobile
+󱩲 md snowshoeing
+󰒸 md soccer
+󰠴 md soccer field
+󱕹 md social distance 2 meters
+󱕺 md social distance 6 feet
+󰒹 md sofa
+󱕭 md sofa outline
+󱕮 md sofa single
+󱕯 md sofa single outline
+󰶛 md solar panel
+󰶜 md solar panel large
+󰩲 md solar power
+󱩳 md solar power variant
+󱩴 md solar power variant outline
+󱂒 md soldering iron
+󰚍 md solid
+󰐔 md sony playstation
+󰒺 md sort
+󰖽 md sort alphabetical ascending
+󱅈 md sort alphabetical ascending variant
+󰖿 md sort alphabetical descending
+󱅉 md sort alphabetical descending variant
+󰒻 md sort alphabetical variant
+󰒼 md sort ascending
+󱎅 md sort bool ascending
+󱎆 md sort bool ascending variant
+󱎇 md sort bool descending
+󱎈 md sort bool descending variant
+󱕇 md sort calendar ascending
+󱕈 md sort calendar descending
+󱕉 md sort clock ascending
+󱕊 md sort clock ascending outline
+󱕋 md sort clock descending
+󱕌 md sort clock descending outline
+󰒽 md sort descending
+󱎉 md sort numeric ascending
+󰤍 md sort numeric ascending variant
+󱎊 md sort numeric descending
+󰫒 md sort numeric descending variant
+󰒾 md sort numeric variant
+󰌼 md sort reverse variant
+󰒿 md sort variant
+󰳍 md sort variant lock
+󰳎 md sort variant lock open
+󱪻 md sort variant off
+󱅇 md sort variant remove
+󱟛 md soundbar
+󰓀 md soundcloud
+󰘬 md source branch
+󱓏 md source branch check
+󱓋 md source branch minus
+󱓊 md source branch plus
+󱓍 md source branch refresh
+󱓌 md source branch remove
+󱓎 md source branch sync
+󰜘 md source commit
+󰜙 md source commit end
+󰜚 md source commit end local
+󰜛 md source commit local
+󰜜 md source commit next local
+󰜝 md source commit start
+󰜞 md source commit start next local
+󰓁 md source fork
+󰘭 md source merge
+󰓂 md source pull
+󰳏 md source repository
+󰳐 md source repository multiple
+󰟮 md soy sauce
+󱏼 md soy sauce off
+󰳑 md spa
+󰳒 md spa outline
+󰯉 md space invaders
+󱎃 md space station
+󰹥 md spade
+󰓃 md speaker
+󰦢 md speaker bluetooth
+󰴸 md speaker multiple
+󰓄 md speaker off
+󰜟 md speaker wireless
+󱡅 md spear
+󰓅 md speedometer
+󰾅 md speedometer medium
+󰾆 md speedometer slow
+󰓆 md spellcheck
+󱥔 md sphere
+󱥕 md sphere off
+󱇪 md spider
+󱇫 md spider thread
+󰯊 md spider web
+󱓱 md spirit level
+󱐩 md spoon sugar
+󰓇 md spotify
+󰓈 md spotlight
+󰓉 md spotlight beam
+󰙥 md spray
+󰫠 md spray bottle
+󱁟 md sprinkler
+󱦝 md sprinkler fire
+󱁠 md sprinkler variant
+󰹦 md sprout
+󰹧 md sprout outline
+󰝤 md square
+󱔀 md square circle
+󰤌 md square edit outline
+󰨓 md square medium
+󰨔 md square medium outline
+󱋮 md square off
+󱋯 md square off outline
+󱡔 md square opacity
+󰝣 md square outline
+󰞄 md square root
+󰦣 md square root box
+󱓻 md square rounded
+󱨇 md square rounded badge
+󱨈 md square rounded badge outline
+󱓼 md square rounded outline
+󰨕 md square small
+󱑻 md square wave
+󰫡 md squeegee
+󰣀 md ssh
+󰘋 md stack exchange
+󰓌 md stack overflow
+󰍙 md stackpath
+󰿹 md stadium
+󰜠 md stadium variant
+󰓍 md stairs
+󱎞 md stairs box
+󱊾 md stairs down
+󱊽 md stairs up
+󰴹 md stamper
+󰟯 md standard definition
+󰓎 md star
+󰩳 md star box
+󱊆 md star box multiple
+󱊇 md star box multiple outline
+󰩴 md star box outline
+󱕦 md star check
+󱕪 md star check outline
+󰓏 md star circle
+󰦤 md star circle outline
+󱙨 md star cog
+󱙩 md star cog outline
+󰥹 md star crescent
+󰥺 md star david
+󰦥 md star face
+󰫢 md star four points
+󰫣 md star four points outline
+󰉆 md star half
+󰓐 md star half full
+󱕤 md star minus
+󱕨 md star minus outline
+󰓑 md star off
+󱕛 md star off outline
+󰓒 md star outline
+󱕣 md star plus
+󱕧 md star plus outline
+󱕥 md star remove
+󱕩 md star remove outline
+󱙪 md star settings
+󱙫 md star settings outline
+󱝁 md star shooting
+󱝂 md star shooting outline
+󰫤 md star three points
+󰫥 md star three points outline
+󱇯 md state machine
+󰓓 md steam
+󰓔 md steering
+󰤎 md steering off
+󰓕 md step backward
+󰓖 md step backward 2
+󰓗 md step forward
+󰓘 md step forward 2
+󰓙 md stethoscope
+󱍤 md sticker
+󱍥 md sticker alert
+󱍦 md sticker alert outline
+󱍧 md sticker check
+󱍨 md sticker check outline
+󰗐 md sticker circle outline
+󰞅 md sticker emoji
+󱍩 md sticker minus
+󱍪 md sticker minus outline
+󱍫 md sticker outline
+󱍬 md sticker plus
+󱍭 md sticker plus outline
+󱍮 md sticker remove
+󱍯 md sticker remove outline
+󱞎 md sticker text
+󱞏 md sticker text outline
+󰓚 md stocking
+󱂓 md stomach
+󱥝 md stool
+󱥞 md stool outline
+󰓛 md stop
+󰙦 md stop circle
+󰙧 md stop circle outline
+󱩵 md storage tank
+󱩶 md storage tank outline
+󰓜 md store
+󰓝 md store 24 hour
+󱣁 md store alert
+󱣂 md store alert outline
+󱣃 md store check
+󱣄 md store check outline
+󱣅 md store clock
+󱣆 md store clock outline
+󱣇 md store cog
+󱣈 md store cog outline
+󱣉 md store edit
+󱣊 md store edit outline
+󱣋 md store marker
+󱣌 md store marker outline
+󱙞 md store minus
+󱣍 md store minus outline
+󱣎 md store off
+󱣏 md store off outline
+󱍡 md store outline
+󱙟 md store plus
+󱣐 md store plus outline
+󱙠 md store remove
+󱣑 md store remove outline
+󱣒 md store search
+󱣓 md store search outline
+󱣔 md store settings
+󱣕 md store settings outline
+󰟇 md storefront
+󱃁 md storefront outline
+󰓞 md stove
+󱇖 md strategy
+󰼫 md stretch to page
+󰼬 md stretch to page outline
+󱊺 md string lights
+󱊻 md string lights off
+󰘌 md subdirectory arrow left
+󰘍 md subdirectory arrow right
+󱕬 md submarine
+󰨖 md subtitles
+󰨗 md subtitles outline
+󰚬 md subway
+󰶝 md subway alert variant
+󰓟 md subway variant
+󰞆 md summit
+󱩷 md sun clock
+󱩸 md sun clock outline
+󱦥 md sun compass
+󱞖 md sun snowflake
+󱩹 md sun snowflake variant
+󱣖 md sun thermometer
+󱣗 md sun thermometer outline
+󱟾 md sun wireless
+󱟿 md sun wireless outline
+󰓠 md sunglasses
+󱝆 md surfing
+󰗅 md surround sound
+󰟰 md surround sound 2 0
+󱜩 md surround sound 2 1
+󰟱 md surround sound 3 1
+󰟲 md surround sound 5 1
+󱜪 md surround sound 5 1 2
+󰟳 md surround sound 7 1
+󰜡 md svg
+󰓡 md swap horizontal
+󰯍 md swap horizontal bold
+󰿡 md swap horizontal circle
+󰿢 md swap horizontal circle outline
+󰣁 md swap horizontal variant
+󰓢 md swap vertical
+󰯎 md swap vertical bold
+󰿣 md swap vertical circle
+󰿤 md swap vertical circle outline
+󰣂 md swap vertical variant
+󰓣 md swim
+󰓤 md switch
+󰓥 md sword
+󰞇 md sword cross
+󱌳 md syllabary hangul
+󱌴 md syllabary hiragana
+󱌵 md syllabary katakana
+󱌶 md syllabary katakana halfwidth
+󱔁 md symbol
+󰫦 md symfony
+󰓦 md sync
+󰓧 md sync alert
+󱍸 md sync circle
+󰓨 md sync off
+󰓩 md tab
+󰭋 md tab minus
+󰝜 md tab plus
+󰭌 md tab remove
+󱦞 md tab search
+󰓪 md tab unselected
+󰓫 md table
+󱎹 md table account
+󱎺 md table alert
+󱎻 md table arrow down
+󱎼 md table arrow left
+󱎽 md table arrow right
+󱎾 md table arrow up
+󰨘 md table border
+󱎿 md table cancel
+󱁡 md table chair
+󱏀 md table check
+󱏁 md table clock
+󱏂 md table cog
+󰠵 md table column
+󰓬 md table column plus after
+󰓭 md table column plus before
+󰓮 md table column remove
+󰓯 md table column width
+󰓰 md table edit
+󱂔 md table eye
+󱏃 md table eye off
+󰖼 md table furniture
+󱈝 md table headers eye
+󱈞 md table headers eye off
+󱏄 md table heart
+󱏅 md table key
+󰓱 md table large
+󰾇 md table large plus
+󰾈 md table large remove
+󱏆 md table lock
+󰦦 md table merge cells
+󱏇 md table minus
+󱏈 md table multiple
+󱏉 md table network
+󰠶 md table of contents
+󱏊 md table off
+󱝃 md table picnic
+󱠼 md table pivot
+󰩵 md table plus
+󱎠 md table refresh
+󰩶 md table remove
+󰠷 md table row
+󰓲 md table row height
+󰓳 md table row plus after
+󰓴 md table row plus before
+󰓵 md table row remove
+󰤏 md table search
+󰠸 md table settings
+󱐪 md table split cell
+󱏋 md table star
+󱎡 md table sync
+󰹨 md table tennis
+󰓶 md tablet
+󰓷 md tablet android
+󰦧 md tablet cellphone
+󰻎 md tablet dashboard
+󰝢 md taco
+󰓹 md tag
+󱜫 md tag arrow down
+󱜬 md tag arrow down outline
+󱜭 md tag arrow left
+󱜮 md tag arrow left outline
+󱜯 md tag arrow right
+󱜰 md tag arrow right outline
+󱜱 md tag arrow up
+󱜲 md tag arrow up outline
+󱩺 md tag check
+󱩻 md tag check outline
+󰓺 md tag faces
+󰚋 md tag heart
+󰯏 md tag heart outline
+󰤐 md tag minus
+󱈟 md tag minus outline
+󰓻 md tag multiple
+󱋷 md tag multiple outline
+󱈠 md tag off
+󱈡 md tag off outline
+󰓼 md tag outline
+󰜢 md tag plus
+󱈢 md tag plus outline
+󰜣 md tag remove
+󱈣 md tag remove outline
+󱤇 md tag search
+󱤈 md tag search outline
+󱈤 md tag text
+󰓽 md tag text outline
+󱏿 md tailwind
+󱪼 md tally mark 1
+󱪽 md tally mark 2
+󱪾 md tally mark 3
+󱪿 md tally mark 4
+󱫀 md tally mark 5
+󰓸 md tangram
+󰴺 md tank
+󰿥 md tanker truck
+󱛟 md tape drive
+󰭍 md tape measure
+󰓾 md target
+󰯐 md target account
+󰩷 md target variant
+󰓿 md taxi
+󰶞 md tea
+󰶟 md tea outline
+󰔀 md teamviewer
+󱣻 md teddy bear
+󰭎 md telescope
+󰔂 md television
+󱍖 md television ambient light
+󰠹 md television box
+󰟴 md television classic
+󰠺 md television classic off
+󰔃 md television guide
+󰠻 md television off
+󰾉 md television pause
+󰻏 md television play
+󱄐 md television shimmer
+󰾊 md television stop
+󰔄 md temperature celsius
+󰔅 md temperature fahrenheit
+󰔆 md temperature kelvin
+󰶠 md tennis
+󰔇 md tennis ball
+󰔈 md tent
+󱁢 md terraform
+󰙨 md test tube
+󰤑 md test tube empty
+󰤒 md test tube off
+󰦨 md text
+󱕰 md text account
+󰈚 md text box
+󰺦 md text box check
+󰺧 md text box check outline
+󱩼 md text box edit
+󱩽 md text box edit outline
+󰺨 md text box minus
+󰺩 md text box minus outline
+󰪷 md text box multiple
+󰪸 md text box multiple outline
+󰧭 md text box outline
+󰺪 md text box plus
+󰺫 md text box plus outline
+󰺬 md text box remove
+󰺭 md text box remove outline
+󰺮 md text box search
+󰺯 md text box search outline
+󰦪 md text long
+󱄽 md text recognition
+󱎸 md text search
+󱩾 md text search variant
+󰙩 md text shadow
+󰦩 md text short
+󰔊 md text to speech
+󰔋 md text to speech off
+󰔌 md texture
+󰿦 md texture box
+󰔍 md theater
+󰔎 md theme light dark
+󰔏 md thermometer
+󰸁 md thermometer alert
+󱢕 md thermometer bluetooth
+󱩿 md thermometer check
+󰸂 md thermometer chevron down
+󰸃 md thermometer chevron up
+󱃂 md thermometer high
+󰔐 md thermometer lines
+󱃃 md thermometer low
+󰸄 md thermometer minus
+󱔱 md thermometer off
+󰸅 md thermometer plus
+󱪀 md thermometer water
+󰎓 md thermostat
+󰢑 md thermostat box
+󰟶 md thought bubble
+󰟷 md thought bubble outline
+󰔑 md thumb down
+󰔒 md thumb down outline
+󰔓 md thumb up
+󰔔 md thumb up outline
+󰔕 md thumbs up down
+󱤔 md thumbs up down outline
+󰔖 md ticket
+󰔗 md ticket account
+󰔘 md ticket confirmation
+󱎪 md ticket confirmation outline
+󰤓 md ticket outline
+󰜤 md ticket percent
+󱐫 md ticket percent outline
+󰔙 md tie
+󰜥 md tilde
+󱣳 md tilde off
+󰔚 md timelapse
+󰯑 md timeline
+󰾕 md timeline alert
+󰾘 md timeline alert outline
+󱔲 md timeline check
+󱔳 md timeline check outline
+󱇻 md timeline clock
+󱇼 md timeline clock outline
+󰾙 md timeline help
+󰾚 md timeline help outline
+󱔴 md timeline minus
+󱔵 md timeline minus outline
+󰯒 md timeline outline
+󰾖 md timeline plus
+󰾗 md timeline plus outline
+󱔶 md timeline remove
+󱔷 md timeline remove outline
+󰯓 md timeline text
+󰯔 md timeline text outline
+󱎫 md timer
+󰔜 md timer 10
+󰔝 md timer 3
+󱫌 md timer alert
+󱫍 md timer alert outline
+󱫎 md timer cancel
+󱫏 md timer cancel outline
+󱫐 md timer check
+󱫑 md timer check outline
+󱤥 md timer cog
+󱤦 md timer cog outline
+󱫒 md timer edit
+󱫓 md timer edit outline
+󱫔 md timer lock
+󱫕 md timer lock open
+󱫖 md timer lock open outline
+󱫗 md timer lock outline
+󱫘 md timer marker
+󱫙 md timer marker outline
+󱫚 md timer minus
+󱫛 md timer minus outline
+󱫜 md timer music
+󱫝 md timer music outline
+󱎬 md timer off
+󰔞 md timer off outline
+󰔛 md timer outline
+󱫞 md timer pause
+󱫟 md timer pause outline
+󱫠 md timer play
+󱫡 md timer play outline
+󱫢 md timer plus
+󱫣 md timer plus outline
+󱫤 md timer refresh
+󱫥 md timer refresh outline
+󱫦 md timer remove
+󱫧 md timer remove outline
+󰔟 md timer sand
+󱦟 md timer sand complete
+󰚭 md timer sand empty
+󰞌 md timer sand full
+󱦠 md timer sand paused
+󱤣 md timer settings
+󱤤 md timer settings outline
+󱫨 md timer star
+󱫩 md timer star outline
+󱫪 md timer stop
+󱫫 md timer stop outline
+󱫬 md timer sync
+󱫭 md timer sync outline
+󰔠 md timetable
+󱢖 md tire
+󱁣 md toaster
+󱆷 md toaster off
+󰳓 md toaster oven
+󰔡 md toggle switch
+󰔢 md toggle switch off
+󰨙 md toggle switch off outline
+󰨚 md toggle switch outline
+󱨥 md toggle switch variant
+󱨦 md toggle switch variant off
+󰦫 md toilet
+󰦬 md toolbox
+󰦭 md toolbox outline
+󱁤 md tools
+󰔣 md tooltip
+󰀌 md tooltip account
+󱠻 md tooltip cellphone
+󱕜 md tooltip check
+󱕝 md tooltip check outline
+󰔤 md tooltip edit
+󱋅 md tooltip edit outline
+󰔥 md tooltip image
+󰯕 md tooltip image outline
+󱕞 md tooltip minus
+󱕟 md tooltip minus outline
+󰔦 md tooltip outline
+󰯖 md tooltip plus
+󰔧 md tooltip plus outline
+󱕠 md tooltip remove
+󱕡 md tooltip remove outline
+󰔨 md tooltip text
+󰯗 md tooltip text outline
+󰣃 md tooth
+󰔩 md tooth outline
+󱄩 md toothbrush
+󱄬 md toothbrush electric
+󱄪 md toothbrush paste
+󱘆 md torch
+󰴻 md tortoise
+󱊸 md toslink
+󰦮 md tournament
+󰠼 md tow truck
+󰚁 md tower beach
+󰚂 md tower fire
+󱡵 md town hall
+󱊈 md toy brick
+󱊉 md toy brick marker
+󱊊 md toy brick marker outline
+󱊋 md toy brick minus
+󱊌 md toy brick minus outline
+󱊍 md toy brick outline
+󱊎 md toy brick plus
+󱊏 md toy brick plus outline
+󱊐 md toy brick remove
+󱊑 md toy brick remove outline
+󱊒 md toy brick search
+󱊓 md toy brick search outline
+󰤔 md track light
+󰟸 md trackpad
+󰤳 md trackpad lock
+󰢒 md tractor
+󱓄 md tractor variant
+󰩸 md trademark
+󱍼 md traffic cone
+󰔫 md traffic light
+󱠪 md traffic light outline
+󰔬 md train
+󰯘 md train car
+󱜳 md train car passenger
+󱜴 md train car passenger door
+󱜵 md train car passenger door open
+󱜶 md train car passenger variant
+󰣄 md train variant
+󰔭 md tram
+󰿧 md tram side
+󰔮 md transcribe
+󰔯 md transcribe close
+󱁥 md transfer
+󰶡 md transfer down
+󰶢 md transfer left
+󰔰 md transfer right
+󰶣 md transfer up
+󰴼 md transit connection
+󱕆 md transit connection horizontal
+󰴽 md transit connection variant
+󰾋 md transit detour
+󱔕 md transit skip
+󰚮 md transit transfer
+󰤕 md transition
+󰤖 md transition masked
+󰗊 md translate
+󰸆 md translate off
+󰴾 md transmission tower
+󱤬 md transmission tower export
+󱤭 md transmission tower import
+󱧝 md transmission tower off
+󰩹 md trash can
+󰩺 md trash can outline
+󱊔 md tray
+󱊕 md tray alert
+󰄠 md tray arrow down
+󰄝 md tray arrow up
+󱊖 md tray full
+󱊗 md tray minus
+󱊘 md tray plus
+󱊙 md tray remove
+󰜦 md treasure chest
+󰔱 md tree
+󰹩 md tree outline
+󰔲 md trello
+󰔳 md trending down
+󰔴 md trending neutral
+󰔵 md trending up
+󰔶 md triangle
+󰔷 md triangle outline
+󱨉 md triangle small down
+󱨊 md triangle small up
+󱑼 md triangle wave
+󰯙 md triforce
+󰔸 md trophy
+󰔹 md trophy award
+󰶤 md trophy broken
+󰔺 md trophy outline
+󰔻 md trophy variant
+󰔼 md trophy variant outline
+󰔽 md truck
+󱧞 md truck alert
+󱧟 md truck alert outline
+󱣘 md truck cargo container
+󰳔 md truck check
+󱊚 md truck check outline
+󰔾 md truck delivery
+󱊛 md truck delivery outline
+󰞈 md truck fast
+󱊜 md truck fast outline
+󱢑 md truck flatbed
+󱦮 md truck minus
+󱦽 md truck minus outline
+󱊝 md truck outline
+󱦭 md truck plus
+󱦼 md truck plus outline
+󱦯 md truck remove
+󱦾 md truck remove outline
+󱦦 md truck snowflake
+󰜧 md truck trailer
+󱂖 md trumpet
+󰩻 md tshirt crew
+󰔿 md tshirt crew outline
+󰩼 md tshirt v
+󰕀 md tshirt v outline
+󱪁 md tsunami
+󰤗 md tumble dryer
+󱆺 md tumble dryer alert
+󱆻 md tumble dryer off
+󰘮 md tune
+󱕂 md tune variant
+󰙪 md tune vertical
+󱕃 md tune vertical variant
+󱠽 md tunnel
+󱠾 md tunnel outline
+󱪂 md turbine
+󱜛 md turkey
+󰳕 md turnstile
+󰳖 md turnstile outline
+󰳗 md turtle
+󰕃 md twitch
+󰕄 md twitter
+󰦯 md two factor authentication
+󰼭 md typewriter
+󰯚 md ubisoft
+󰕈 md ubuntu
+󱃄 md ufo
+󱃅 md ufo outline
+󰟹 md ultra high definition
+󰕉 md umbraco
+󰕊 md umbrella
+󱢊 md umbrella beach
+󱢋 md umbrella beach outline
+󰦰 md umbrella closed
+󱏢 md umbrella closed outline
+󱏡 md umbrella closed variant
+󰕋 md umbrella outline
+󰕌 md undo
+󰕍 md undo variant
+󰕎 md unfold less horizontal
+󰝠 md unfold less vertical
+󰕏 md unfold more horizontal
+󰝡 md unfold more vertical
+󰕐 md ungroup
+󰻐 md unicode
+󱗂 md unicorn
+󱗃 md unicorn variant
+󱗥 md unicycle
+󰚯 md unity
+󰦱 md unreal
+󰚰 md update
+󰕒 md upload
+󱍳 md upload lock
+󱍴 md upload lock outline
+󰠽 md upload multiple
+󰛶 md upload network
+󰳘 md upload network outline
+󱃆 md upload off
+󱃇 md upload off outline
+󰸇 md upload outline
+󰕓 md usb
+󱊞 md usb flash drive
+󱊟 md usb flash drive outline
+󱇰 md usb port
+󱦡 md vacuum
+󱦢 md vacuum outline
+󱁦 md valve
+󱁧 md valve closed
+󱁨 md valve open
+󰟺 md van passenger
+󰟻 md van utility
+󰟼 md vanish
+󱕔 md vanish quarter
+󱇡 md vanity light
+󰫧 md variable
+󱄑 md variable box
+󰕔 md vector arrange above
+󰕕 md vector arrange below
+󰫨 md vector bezier
+󰕖 md vector circle
+󰕗 md vector circle variant
+󰕘 md vector combine
+󰕙 md vector curve
+󰕚 md vector difference
+󰕛 md vector difference ab
+󰕜 md vector difference ba
+󰢓 md vector ellipse
+󰕝 md vector intersection
+󰕞 md vector line
+󰿨 md vector link
+󰕟 md vector point
+󰕠 md vector polygon
+󱡖 md vector polygon variant
+󰕡 md vector polyline
+󱈥 md vector polyline edit
+󱈦 md vector polyline minus
+󱈧 md vector polyline plus
+󱈨 md vector polyline remove
+󰝊 md vector radius
+󰗆 md vector rectangle
+󰕢 md vector selection
+󰀁 md vector square
+󱡗 md vector square close
+󱣙 md vector square edit
+󱣚 md vector square minus
+󱡘 md vector square open
+󱣛 md vector square plus
+󱣜 md vector square remove
+󰕣 md vector triangle
+󰕤 md vector union
+󰨛 md vhs
+󰕦 md vibrate
+󰳙 md vibrate off
+󰕧 md video
+󱨜 md video 2d
+󰟽 md video 3d
+󱏙 md video 3d off
+󰻑 md video 3d variant
+󰠾 md video 4k box
+󰤙 md video account
+󰃽 md video box
+󰃾 md video box off
+󱁩 md video check
+󱁪 md video check outline
+󱔮 md video high definition
+󰤚 md video image
+󰠿 md video input antenna
+󰡀 md video input component
+󰡁 md video input hdmi
+󰾌 md video input scart
+󰡂 md video input svideo
+󱦩 md video marker
+󱦪 md video marker outline
+󰦲 md video minus
+󰊺 md video minus outline
+󰕨 md video off
+󰯛 md video off outline
+󰯜 md video outline
+󰦳 md video plus
+󰇓 md video plus outline
+󰤛 md video stabilization
+󰕩 md video switch
+󰞐 md video switch outline
+󰨜 md video vintage
+󰻒 md video wireless
+󰻓 md video wireless outline
+󰕪 md view agenda
+󱇘 md view agenda outline
+󰕫 md view array
+󱒅 md view array outline
+󰕬 md view carousel
+󱒆 md view carousel outline
+󰕭 md view column
+󱒇 md view column outline
+󰹪 md view comfy
+󱒈 md view comfy outline
+󰹫 md view compact
+󰹬 md view compact outline
+󰕮 md view dashboard
+󱥇 md view dashboard edit
+󱥈 md view dashboard edit outline
+󰨝 md view dashboard outline
+󰡃 md view dashboard variant
+󱒉 md view dashboard variant outline
+󰕯 md view day
+󱒊 md view day outline
+󱢈 md view gallery
+󱢉 md view gallery outline
+󰕰 md view grid
+󱇙 md view grid outline
+󰾍 md view grid plus
+󱇚 md view grid plus outline
+󰕱 md view headline
+󰕲 md view list
+󱒋 md view list outline
+󰕳 md view module
+󱒌 md view module outline
+󰜨 md view parallel
+󱒍 md view parallel outline
+󰕴 md view quilt
+󱒎 md view quilt outline
+󰜩 md view sequential
+󱒏 md view sequential outline
+󰯋 md view split horizontal
+󰯌 md view split vertical
+󰕵 md view stream
+󱒐 md view stream outline
+󰕶 md view week
+󱒑 md view week outline
+󰕷 md vimeo
+󰘏 md violin
+󰢔 md virtual reality
+󱎶 md virus
+󱣡 md virus off
+󱣢 md virus off outline
+󱎷 md virus outline
+󰕼 md vlc
+󰕽 md voicemail
+󱪃 md volcano
+󱪄 md volcano outline
+󰦴 md volleyball
+󰕾 md volume high
+󰕿 md volume low
+󰖀 md volume medium
+󰝞 md volume minus
+󰝟 md volume mute
+󰖁 md volume off
+󰝝 md volume plus
+󱄠 md volume source
+󰸈 md volume variant off
+󱄡 md volume vibrate
+󰨟 md vote
+󰨠 md vote outline
+󰖂 md vpn
+󰡄 md vuejs
+󰹭 md vuetify
+󰖃 md walk
+󰟾 md wall
+󱨑 md wall fire
+󰤜 md wall sconce
+󰤝 md wall sconce flat
+󱟉 md wall sconce flat outline
+󰐜 md wall sconce flat variant
+󱟊 md wall sconce flat variant outline
+󱟋 md wall sconce outline
+󰝈 md wall sconce round
+󱟌 md wall sconce round outline
+󰤞 md wall sconce round variant
+󱟍 md wall sconce round variant outline
+󰖄 md wallet
+󰖅 md wallet giftcard
+󰖆 md wallet membership
+󰯝 md wallet outline
+󰾎 md wallet plus
+󰾏 md wallet plus outline
+󰖇 md wallet travel
+󰸉 md wallpaper
+󰖈 md wan
+󰾐 md wardrobe
+󰾑 md wardrobe outline
+󰾁 md warehouse
+󰜪 md washing machine
+󱆼 md washing machine alert
+󱆽 md washing machine off
+󰖉 md watch
+󰖊 md watch export
+󰢕 md watch export variant
+󰖋 md watch import
+󰢖 md watch import variant
+󰢗 md watch variant
+󰚱 md watch vibrate
+󰳚 md watch vibrate off
+󰖌 md water
+󱔂 md water alert
+󱔃 md water alert outline
+󰾒 md water boiler
+󱆳 md water boiler alert
+󱆴 md water boiler off
+󱔄 md water check
+󱔅 md water check outline
+󱠆 md water circle
+󱔆 md water minus
+󱔇 md water minus outline
+󰖍 md water off
+󱔈 md water off outline
+󱡕 md water opacity
+󰸊 md water outline
+󰖎 md water percent
+󱔉 md water percent alert
+󱔊 md water plus
+󱔋 md water plus outline
+󱊠 md water polo
+󰖏 md water pump
+󰾓 md water pump off
+󱔌 md water remove
+󱔍 md water remove outline
+󱟆 md water sync
+󱪅 md water thermometer
+󱪆 md water thermometer outline
+󱁫 md water well
+󱁬 md water well outline
+󱡉 md waterfall
+󱒁 md watering can
+󱒂 md watering can outline
+󰘒 md watermark
+󰼮 md wave
+󱑽 md waveform
+󰞍 md waves
+󱡙 md waves arrow left
+󱡚 md waves arrow right
+󱡛 md waves arrow up
+󰯞 md waze
+󰖐 md weather cloudy
+󰼯 md weather cloudy alert
+󰹮 md weather cloudy arrow right
+󱣶 md weather cloudy clock
+󰖑 md weather fog
+󰖒 md weather hail
+󰼰 md weather hazy
+󰢘 md weather hurricane
+󰖓 md weather lightning
+󰙾 md weather lightning rainy
+󰖔 md weather night
+󰼱 md weather night partly cloudy
+󰖕 md weather partly cloudy
+󰼲 md weather partly lightning
+󰼳 md weather partly rainy
+󰼴 md weather partly snowy
+󰼵 md weather partly snowy rainy
+󰖖 md weather pouring
+󰖗 md weather rainy
+󰖘 md weather snowy
+󰼶 md weather snowy heavy
+󰙿 md weather snowy rainy
+󰖙 md weather sunny
+󰼷 md weather sunny alert
+󱓤 md weather sunny off
+󰖚 md weather sunset
+󰖛 md weather sunset down
+󰖜 md weather sunset up
+󰼸 md weather tornado
+󰖝 md weather windy
+󰖞 md weather windy variant
+󰖟 md web
+󰾔 md web box
+󱞐 md web cancel
+󰞉 md web check
+󱉊 md web clock
+󱂠 md web minus
+󰪎 md web off
+󰀳 md web plus
+󱞑 md web refresh
+󰕑 md web remove
+󱞒 md web sync
+󰖠 md webcam
+󱜷 md webcam off
+󰘯 md webhook
+󰜫 md webpack
+󱉈 md webrtc
+󰘑 md wechat
+󰖡 md weight
+󰴿 md weight gram
+󰖢 md weight kilogram
+󱅝 md weight lifter
+󰦵 md weight pound
+󰖣 md whatsapp
+󱓲 md wheel barrow
+󱪇 md wheelchair
+󰖤 md wheelchair accessibility
+󰦶 md whistle
+󱊼 md whistle outline
+󰖥 md white balance auto
+󰖦 md white balance incandescent
+󰖧 md white balance iridescent
+󰖨 md white balance sunny
+󰜬 md widgets
+󱍕 md widgets outline
+󰖩 md wifi
+󱚵 md wifi alert
+󱚶 md wifi arrow down
+󱚷 md wifi arrow left
+󱚸 md wifi arrow left right
+󱚹 md wifi arrow right
+󱚺 md wifi arrow up
+󱚻 md wifi arrow up down
+󱚼 md wifi cancel
+󱚽 md wifi check
+󱚾 md wifi cog
+󱚿 md wifi lock
+󱛀 md wifi lock open
+󱛁 md wifi marker
+󱛂 md wifi minus
+󰖪 md wifi off
+󱛃 md wifi plus
+󱛄 md wifi refresh
+󱛅 md wifi remove
+󱛆 md wifi settings
+󰸋 md wifi star
+󰤟 md wifi strength 1
+󰤠 md wifi strength 1 alert
+󰤡 md wifi strength 1 lock
+󱛋 md wifi strength 1 lock open
+󰤢 md wifi strength 2
+󰤣 md wifi strength 2 alert
+󰤤 md wifi strength 2 lock
+󱛌 md wifi strength 2 lock open
+󰤥 md wifi strength 3
+󰤦 md wifi strength 3 alert
+󰤧 md wifi strength 3 lock
+󱛍 md wifi strength 3 lock open
+󰤨 md wifi strength 4
+󰤩 md wifi strength 4 alert
+󰤪 md wifi strength 4 lock
+󱛎 md wifi strength 4 lock open
+󰤫 md wifi strength alert outline
+󱛏 md wifi strength lock open outline
+󰤬 md wifi strength lock outline
+󰤭 md wifi strength off
+󰤮 md wifi strength off outline
+󰤯 md wifi strength outline
+󱛇 md wifi sync
+󰖬 md wikipedia
+󱪈 md wind power
+󱪉 md wind power outline
+󰶥 md wind turbine
+󱦫 md wind turbine alert
+󱦬 md wind turbine check
+󰖭 md window close
+󰖮 md window closed
+󱇛 md window closed variant
+󰖯 md window maximize
+󰖰 md window minimize
+󰖱 md window open
+󱇜 md window open variant
+󰖲 md window restore
+󱄜 md window shutter
+󱄝 md window shutter alert
+󱪊 md window shutter cog
+󱄞 md window shutter open
+󱪋 md window shutter settings
+󱗺 md windsock
+󰫩 md wiper
+󰶦 md wiper wash
+󱣟 md wiper wash alert
+󱑷 md wizard hat
+󰖴 md wordpress
+󰖶 md wrap
+󰯟 md wrap disabled
+󰖷 md wrench
+󱦣 md wrench clock
+󰯠 md wrench outline
+󰡅 md xamarin
+󰗀 md xml
+󰟿 md xmpp
+󰭏 md yahoo
+󰗁 md yeast
+󰚀 md yin yang
+󱅼 md yoga
+󰗃 md youtube
+󰡈 md youtube gaming
+󰡇 md youtube studio
+󰵀 md youtube subscription
+󰑈 md youtube tv
+󱔖 md yurt
+󰫪 md z wave
+󰫫 md zend
+󰵁 md zigbee
+󰗄 md zip box
+󰿺 md zip box outline
+󰨣 md zip disk
+󰩽 md zodiac aquarius
+󰩾 md zodiac aries
+󰩿 md zodiac cancer
+󰪀 md zodiac capricorn
+󰪁 md zodiac gemini
+󰪂 md zodiac leo
+󰪃 md zodiac libra
+󰪄 md zodiac pisces
+󰪅 md zodiac sagittarius
+󰪆 md zodiac scorpio
+󰪇 md zodiac taurus
+󰪈 md zodiac virgo
+ oct alert
+ oct arrow down
+ oct arrow left
+ oct arrow right
+ oct arrow small down
+ oct arrow small left
+ oct arrow small right
+ oct arrow small up
+ oct arrow up
+ oct beaker
+ oct bell
+ oct bold
+ oct book
+ oct bookmark
+ oct briefcase
+ oct broadcast
+ oct browser
+ oct bug
+ oct calendar
+ oct check
+ oct checklist
+ oct chevron down
+ oct chevron left
+ oct chevron right
+ oct chevron up
+ oct circle slash
+ oct circuit board
+ oct clippy
+ oct clock
+ oct cloud download
+ oct cloud upload
+ oct code
+ oct comment
+ oct comment discussion
+ oct credit card
+ oct dash
+ oct dashboard
+ oct database
+ oct desktop download
+ oct device camera
+ oct device camera video
+ oct device desktop
+ oct device mobile
+ oct diff
+ oct diff added
+ oct diff ignored
+ oct diff modified
+ oct diff removed
+ oct diff renamed
+ oct ellipses
+ oct ellipsis
+ oct eye
+ oct file
+ oct file binary
+ oct file code
+ oct file directory
+ oct file media
+ oct file pdf
+ oct file submodule
+ oct file symlink directory
+ oct file symlink file
+ oct file text
+ oct file zip
+ oct flame
+ oct fold
+ oct gear
+ oct gift
+ oct gist
+ oct gist secret
+ oct git branch
+ oct git commit
+ oct git compare
+ oct git merge
+ oct git pull request
+ oct globe
+ oct grabber
+ oct graph
+♥ oct heart
+ oct history
+ oct home
+ oct horizontal rule
+ oct hubot
+ oct inbox
+ oct info
+ oct issue closed
+ oct issue opened
+ oct issue reopened
+ oct italic
+ oct jersey
+ oct key
+ oct keyboard
+ oct law
+ oct light bulb
+ oct link
+ oct link external
+ oct list ordered
+ oct list unordered
+ oct location
+ oct lock
+ oct logo gist
+ oct logo github
+ oct mail
+ oct mail read
+ oct mail reply
+ oct mark github
+ oct markdown
+ oct megaphone
+ oct mention
+ oct milestone
+ oct mirror
+ oct mortar board
+ oct mute
+ oct no newline
+ oct octoface
+ oct organization
+ oct package
+ oct paintcan
+ oct pencil
+ oct person
+ oct pin
+ oct plug
+ oct plus
+ oct plus small
+ oct primitive dot
+ oct primitive square
+ oct pulse
+ oct question
+ oct quote
+ oct radio tower
+ oct reply
+ oct repo
+ oct repo clone
+ oct repo force push
+ oct repo forked
+ oct repo pull
+ oct repo push
+ oct rocket
+ oct rss
+ oct ruby
+ oct search
+ oct server
+ oct settings
+ oct shield
+ oct sign in
+ oct sign out
+ oct smiley
+ oct squirrel
+ oct star
+ oct stop
+ oct sync
+ oct tag
+ oct tasklist
+ oct telescope
+ oct terminal
+ oct text size
+ oct three bars
+ oct thumbsdown
+ oct thumbsup
+ oct tools
+ oct trashcan
+ oct triangle down
+ oct triangle left
+ oct triangle right
+ oct triangle up
+ oct unfold
+ oct unmute
+ oct unverified
+ oct verified
+ oct versions
+ oct watch
+ oct x
+⚡ oct zap
+ pl branch
+ pl current line
+ pl hostname
+ pl left hard divider
+ pl left soft divider
+ pl line number
+ pl readonly
+ pl right hard divider
+ pl right soft divider
+ ple backslash separator
+ ple backslash separator redundant
+ ple column number
+ ple current column
+ ple flame thick
+ ple flame thick mirrored
+ ple flame thin
+ ple flame thin mirrored
+ ple forwardslash separator
+ ple forwardslash separator redundant
+ ple honeycomb
+ ple honeycomb outline
+ ple ice waveform
+ ple ice waveform mirrored
+ ple left half circle thick
+ ple left half circle thin
+ ple lego block facing
+ ple lego block sideways
+ ple lego separator
+ ple lego separator thin
+ ple lower left triangle
+ ple lower right triangle
+ ple pixelated squares big
+ ple pixelated squares big mirrored
+ ple pixelated squares small
+ ple pixelated squares small mirrored
+ ple right half circle thick
+ ple right half circle thin
+ ple trapezoid top bottom
+ ple trapezoid top bottom mirrored
+ ple upper left triangle
+ ple upper right triangle
+ pom away
+ pom clean code
+ pom external interruption
+ pom internal interruption
+ pom long pause
+ pom pair programming
+ pom pomodoro done
+ pom pomodoro estimated
+ pom pomodoro squashed
+ pom pomodoro ticking
+ pom short pause
+ seti apple
+ seti argdown
+ seti asm
+ seti audio
+ seti babel
+ seti bazel
+ seti bicep
+ seti bower
+ seti bsl
+ seti c
+ seti c sharp
+ seti cake
+ seti cake php
+ seti checkbox
+ seti checkbox unchecked
+ seti cjsx
+ seti clock
+ seti clojure
+ seti code climate
+ seti code search
+ seti coffee
+ seti coldfusion
+ seti config
+ seti cpp
+ seti crystal
+ seti crystal embedded
+ seti css
+ seti csv
+ seti cu
+ seti d
+ seti dart
+ seti db
+ seti default
+ seti deprecation cop
+ seti docker
+ seti editorconfig
+ seti ejs
+ seti elixir
+ seti elixir script
+ seti elm
+ seti error
+ seti eslint
+ seti ethereum
+ seti f sharp
+ seti favicon
+ seti firebase
+ seti firefox
+ seti folder
+ seti font
+ seti git
+ seti git folder
+ seti git ignore
+ seti github
+ seti gitlab
+ seti go
+ seti go2
+ seti godot
+ seti gradle
+ seti grails
+ seti graphql
+ seti grunt
+ seti gulp
+ seti hacklang
+ seti haml
+ seti happenings
+ seti haskell
+ seti haxe
+ seti heroku
+ seti hex
+ seti home
+ seti html
+ seti ignored
+ seti illustrator
+ seti image
+ seti info
+ seti ionic
+ seti jade
+ seti java
+ seti javascript
+ seti jenkins
+ seti jinja
+ seti json
+ seti julia
+ seti karma
+ seti kotlin
+ seti less
+ seti license
+ seti liquid
+ seti livescript
+ seti lock
+ seti lua
+ seti makefile
+ seti markdown
+ seti maven
+ seti mdo
+ seti mustache
+ seti new file
+ seti nim
+ seti notebook
+ seti npm
+ seti npm ignored
+ seti nunjucks
+ seti ocaml
+ seti odata
+ seti pddl
+ seti pdf
+ seti perl
+ seti photoshop
+ seti php
+ seti pipeline
+ seti plan
+ seti platformio
+ seti play arrow
+ seti powershell
+ seti prisma
+ seti project
+ seti prolog
+ seti pug
+ seti puppet
+ seti purescript
+ seti python
+ seti r
+ seti rails
+ seti react
+ seti reasonml
+ seti rescript
+ seti rollup
+ seti ruby
+ seti rust
+ seti salesforce
+ seti sass
+ seti sbt
+ seti scala
+ seti search
+ seti settings
+ seti shell
+ seti slim
+ seti smarty
+ seti spring
+ seti stylelint
+ seti stylus
+ seti sublime
+ seti svelte
+ seti svg
+ seti swift
+ seti terraform
+ seti tex
+ seti text
+ seti time cop
+ seti todo
+ seti tsconfig
+ seti twig
+ seti typescript
+ seti vala
+ seti video
+ seti vue
+ seti wasm
+ seti wat
+ seti webpack
+ seti wgt
+ seti word
+ seti xls
+ seti xml
+ seti yarn
+ seti yml
+ seti zig
+ seti zip
+ weather alien
+ weather aliens
+ weather barometer
+ weather celsius
+ weather cloud
+ weather cloud down
+ weather cloud refresh
+ weather cloud up
+ weather cloudy
+ weather cloudy gusts
+ weather cloudy windy
+ weather day cloudy
+ weather day cloudy gusts
+ weather day cloudy high
+ weather day cloudy windy
+ weather day fog
+ weather day hail
+ weather day haze
+ weather day light wind
+ weather day lightning
+ weather day rain
+ weather day rain mix
+ weather day rain wind
+ weather day showers
+ weather day sleet
+ weather day sleet storm
+ weather day snow
+ weather day snow thunderstorm
+ weather day snow wind
+ weather day sprinkle
+ weather day storm showers
+ weather day sunny
+ weather day sunny overcast
+ weather day thunderstorm
+ weather day windy
+ weather degrees
+ weather direction down
+ weather direction down left
+ weather direction down right
+ weather direction left
+ weather direction right
+ weather direction up
+ weather direction up left
+ weather direction up right
+ weather dust
+ weather earthquake
+ weather fahrenheit
+ weather fire
+ weather flood
+ weather fog
+ weather gale warning
+ weather hail
+ weather horizon
+ weather horizon alt
+ weather hot
+ weather humidity
+ weather hurricane
+ weather hurricane warning
+ weather lightning
+ weather lunar eclipse
+ weather meteor
+ weather moon alt first quarter
+ weather moon alt full
+ weather moon alt new
+ weather moon alt third quarter
+ weather moon alt waning crescent 1
+ weather moon alt waning crescent 2
+ weather moon alt waning crescent 3
+ weather moon alt waning crescent 4
+ weather moon alt waning crescent 5
+ weather moon alt waning crescent 6
+ weather moon alt waning gibbous 1
+ weather moon alt waning gibbous 2
+ weather moon alt waning gibbous 3
+ weather moon alt waning gibbous 4
+ weather moon alt waning gibbous 5
+ weather moon alt waning gibbous 6
+ weather moon alt waxing crescent 1
+ weather moon alt waxing crescent 2
+ weather moon alt waxing crescent 3
+ weather moon alt waxing crescent 4
+ weather moon alt waxing crescent 5
+ weather moon alt waxing crescent 6
+ weather moon alt waxing gibbous 1
+ weather moon alt waxing gibbous 2
+ weather moon alt waxing gibbous 3
+ weather moon alt waxing gibbous 4
+ weather moon alt waxing gibbous 5
+ weather moon alt waxing gibbous 6
+ weather moon first quarter
+ weather moon full
+ weather moon new
+ weather moon third quarter
+ weather moon waning crescent 1
+ weather moon waning crescent 2
+ weather moon waning crescent 3
+ weather moon waning crescent 4
+ weather moon waning crescent 5
+ weather moon waning crescent 6
+ weather moon waning gibbous 1
+ weather moon waning gibbous 2
+ weather moon waning gibbous 3
+ weather moon waning gibbous 4
+ weather moon waning gibbous 5
+ weather moon waning gibbous 6
+ weather moon waxing crescent 1
+ weather moon waxing crescent 2
+ weather moon waxing crescent 3
+ weather moon waxing crescent 4
+ weather moon waxing crescent 5
+ weather moon waxing crescent 6
+ weather moon waxing gibbous 1
+ weather moon waxing gibbous 2
+ weather moon waxing gibbous 3
+ weather moon waxing gibbous 4
+ weather moon waxing gibbous 5
+ weather moon waxing gibbous 6
+ weather moonrise
+ weather moonset
+ weather na
+ weather night alt cloudy
+ weather night alt cloudy gusts
+ weather night alt cloudy high
+ weather night alt cloudy windy
+ weather night alt hail
+ weather night alt lightning
+ weather night alt partly cloudy
+ weather night alt rain
+ weather night alt rain mix
+ weather night alt rain wind
+ weather night alt sleet
+ weather night alt sleet storm
+ weather night alt snow
+ weather night alt snow thunderstorm
+ weather night alt snow wind
+ weather night alt sprinkle
+ weather night alt storm showers
+ weather night alt thunderstorm
+ weather night clear
+ weather night cloudy
+ weather night cloudy gusts
+ weather night cloudy high
+ weather night cloudy windy
+ weather night fog
+ weather night hail
+ weather night lightning
+ weather night partly cloudy
+ weather night rain
+ weather night rain mix
+ weather night rain wind
+ weather night showers
+ weather night sleet
+ weather night sleet storm
+ weather night snow
+ weather night snow thunderstorm
+ weather night snow wind
+ weather night sprinkle
+ weather night storm showers
+ weather night thunderstorm
+ weather rain
+ weather rain mix
+ weather rain wind
+ weather raindrop
+ weather raindrops
+ weather refresh
+ weather refresh alt
+ weather sandstorm
+ weather showers
+ weather sleet
+ weather small craft advisory
+ weather smog
+ weather smoke
+ weather snow
+ weather snow wind
+ weather snowflake cold
+ weather solar eclipse
+ weather sprinkle
+ weather stars
+ weather storm showers
+ weather storm warning
+ weather strong wind
+ weather sunrise
+ weather sunset
+ weather thermometer
+ weather thermometer exterior
+ weather thermometer internal
+ weather thunderstorm
+ weather time 1
+ weather time 10
+ weather time 11
+ weather time 12
+ weather time 2
+ weather time 3
+ weather time 4
+ weather time 5
+ weather time 6
+ weather time 7
+ weather time 8
+ weather time 9
+ weather tornado
+ weather train
+ weather tsunami
+ weather umbrella
+ weather volcano
+ weather wind beaufort 0
+ weather wind beaufort 1
+ weather wind beaufort 10
+ weather wind beaufort 11
+ weather wind beaufort 12
+ weather wind beaufort 2
+ weather wind beaufort 3
+ weather wind beaufort 4
+ weather wind beaufort 5
+ weather wind beaufort 6
+ weather wind beaufort 7
+ weather wind beaufort 8
+ weather wind beaufort 9
+ weather wind direction
+ weather wind east
+ weather wind north
+ weather wind north east
+ weather wind north west
+ weather wind south
+ weather wind south east
+ weather wind south west
+ weather wind west
+ weather windy
