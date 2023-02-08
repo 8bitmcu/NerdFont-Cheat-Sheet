@@ -11,12 +11,8 @@ You will need to open the files with an editor that has a [Nerd Font](https://ww
 
 ### rofi
 
-A simple icon picker can be built with rofi and the provided nerdfont.txt file. This picker will copy the icon to the clipboard (requires xsel installed)
+A simple icon picker can be built with rofi (or dmenu) and the provided nerdfont.txt file. This picker will copy the icon to the clipboard (requires xsel installed)
 
 ```
-sel=$(cat "nerdfont.txt" | rofi -dmenu -i)
-sel=($sel)
-
-echo $sel | xsel -i -b
-
+cat "nerdfont.txt" | rofi -dmenu -i | awk '{print $1}' | xsel -i -b
 ```
