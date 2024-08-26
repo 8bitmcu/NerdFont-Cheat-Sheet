@@ -16,3 +16,7 @@ A simple icon picker can be built with rofi (or dmenu) and the provided nerdfont
 ```
 cat "nerdfont.txt" | rofi -dmenu -i | awk '{print $1}' | xsel -i -b
 ```
+
+## Updating the files 
+
+A javascript file is included `updateScript.js` with instructions on how to generate `nerdfont.csv` and `nerdfont.txt`
