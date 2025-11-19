@@ -17,6 +17,12 @@ A simple icon picker can be built with rofi (or dmenu) and the provided nerdfont
 cat "nerdfont.txt" | rofi -dmenu -i | awk '{print $1}' | xsel -i -b
 ```
 
+In wayland with fuzzel and wl-copy you can issue
+
+```
+ cat nerdfont.csv  | fuzzel -d | gawk -F, '{printf $3}' | wl-copy
+```
+
 ## Updating the files 
 
 A javascript file is included `updateScript.js` with instructions on how to generate `nerdfont.csv` and `nerdfont.txt`
