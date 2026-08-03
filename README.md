@@ -23,6 +23,6 @@ In wayland with fuzzel and wl-copy you can issue
  cat nerdfont.csv  | fuzzel -d | gawk -F, '{printf $3}' | wl-copy
 ```
 
-## Updating the files 
+## Updating the files
 
-A javascript file is included `updateScript.js` with instructions on how to generate `nerdfont.csv` and `nerdfont.txt`
+The prefered method to update the files is now through a copy of `webfont.css` and the newer `updateScript.sh` bash script. However, the older `updateScript.js` is still available (see it's content for uage instructions. `updateScript.sh` takes exactly one parameter: a path to webfont.css. If this is empty, the script will attempt to use curl or wget to download the file.
